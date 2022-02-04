@@ -1,31 +1,19 @@
-## Loading the necessary packages and installing them, in case you (our TA) don't have it at your computer:
-packages = c("tidyverse", "here", "paletteer", "readxl")
+## Getting packages
+library(tidyverse)
+library(here)
+library(lubridate)
 
-## Now load or install&load all
-lapply(
-  packages,
-  FUN = function(x) {
-    if (!require(x, character.only = TRUE)) {
-      install.packages(x, dependencies = TRUE)
-      library(x, character.only = TRUE)
-    }
-  }
-)
-
-rm(packages)
-
-## Getting the data
-data_dictionary <- readxl::read_xlsx(path = "C:/Users/arthu/Downloads/Harris-School-of-PP/Winter quarter (2nd)/ap-psets/country_territory_ratings.xlsx", sheet = 1)
-
+## Getting the dat
 country_ratings <- readxl::read_xlsx(path = "C:/Users/arthu/Downloads/Harris-School-of-PP/Winter quarter (2nd)/ap-psets/country_territory_ratings.xlsx", sheet = 2, col_names = T, skip = 1) %>% 
   .[,c(1, 68:ncol(.))]
 
-## Cleaning the data
+## Pre-cleaning the data
 col_names <- colnames(country_ratings)
 
 possible_status <- str_squish(str_remove(unique(country_ratings$...70), c("Status|-")))[c(2,3,4)]
 possible_values <- str_c(c(1:7, possible_status), collapse = "|")
 
+## Cleaning data
 cleaned_data <- country_ratings %>%
   rename(country = col_names[1]) %>% 
   gather(key, value, -country) %>%
@@ -35,7 +23,7 @@ cleaned_data <- country_ratings %>%
   fill(year, type) %>% 
   select(-key) %>%
   spread(type, value) %>% 
-  filter(!is.na(country))
+  filter(!is.na(country)) %>% 
+  mutate(x_scale = floor(year/5)*5)
 
-
-
+write_csv(x = cleaned_data, file = "data/tidy-data-fh.csv", col_names = TRUE)
