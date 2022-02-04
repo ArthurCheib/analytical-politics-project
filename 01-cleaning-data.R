@@ -26,14 +26,16 @@ col_names <- colnames(country_ratings)
 possible_status <- str_squish(str_remove(unique(country_ratings$...70), c("Status|-")))[c(2,3,4)]
 possible_values <- str_c(c(1:7, possible_status), collapse = "|")
 
-country_ratings %>%
+cleaned_data <- country_ratings %>%
   rename(country = col_names[1]) %>% 
   gather(key, value, -country) %>%
-  mutate(year = as.numeric(ifelse(str_detect(key, "\\..."), NA, key))) %>%
-  select(-key) %>% 
-  mutate(type = ifelse(!str_detect(value, "PR|CL|Status"), NA, value)) %>% 
-  mutate(value = ifelse(str_detect(value, possible_values), value, NA)) %>% 
+  mutate(year = as.numeric(ifelse(str_detect(key, "\\..."), NA, key)),
+         type = ifelse(!str_detect(value, "PR|CL|Status"), NA, value),
+         value = ifelse(str_detect(value, possible_values), value, NA)) %>%
   fill(year, type) %>% 
+  select(-key) %>%
   spread(type, value) %>% 
-  filter(!is.na(country)) %>% 
-  arrange(country, year)
+  filter(!is.na(country))
+
+
+

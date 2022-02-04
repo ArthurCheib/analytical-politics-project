@@ -1,0 +1,5331 @@
+country,year,CL,PR,Status
+Afghanistan,1995,7,7,NF
+Afghanistan,1996,7,7,NF
+Afghanistan,1997,7,7,NF
+Afghanistan,1998,7,7,NF
+Afghanistan,1999,7,7,NF
+Afghanistan,2000,7,7,NF
+Afghanistan,2001,7,7,NF
+Afghanistan,2002,6,6,NF
+Afghanistan,2003,6,6,NF
+Afghanistan,2004,6,5,NF
+Afghanistan,2005,5,5,PF
+Afghanistan,2006,5,5,PF
+Afghanistan,2007,5,5,PF
+Afghanistan,2008,6,5,NF
+Afghanistan,2009,6,6,NF
+Afghanistan,2010,6,6,NF
+Afghanistan,2011,6,6,NF
+Afghanistan,2012,6,6,NF
+Afghanistan,2013,6,6,NF
+Afghanistan,2014,6,6,NF
+Afghanistan,2015,6,6,NF
+Afghanistan,2016,6,6,NF
+Afghanistan,2017,6,5,NF
+Afghanistan,2018,6,5,NF
+Afghanistan,2019,6,5,NF
+Afghanistan,2020,6,5,NF
+Albania,1995,4,3,PF
+Albania,1996,4,4,PF
+Albania,1997,4,4,PF
+Albania,1998,5,4,PF
+Albania,1999,5,4,PF
+Albania,2000,5,4,PF
+Albania,2001,4,3,PF
+Albania,2002,3,3,PF
+Albania,2003,3,3,PF
+Albania,2004,3,3,PF
+Albania,2005,3,3,PF
+Albania,2006,3,3,PF
+Albania,2007,3,3,PF
+Albania,2008,3,3,PF
+Albania,2009,3,3,PF
+Albania,2010,3,3,PF
+Albania,2011,3,3,PF
+Albania,2012,3,3,PF
+Albania,2013,3,3,PF
+Albania,2014,3,3,PF
+Albania,2015,3,3,PF
+Albania,2016,3,3,PF
+Albania,2017,3,3,PF
+Albania,2018,3,3,PF
+Albania,2019,3,3,PF
+Albania,2020,3,3,PF
+Algeria,1995,6,6,NF
+Algeria,1996,6,6,NF
+Algeria,1997,6,6,NF
+Algeria,1998,5,6,NF
+Algeria,1999,5,6,NF
+Algeria,2000,5,6,NF
+Algeria,2001,5,6,NF
+Algeria,2002,5,6,NF
+Algeria,2003,5,6,NF
+Algeria,2004,5,6,NF
+Algeria,2005,5,6,NF
+Algeria,2006,5,6,NF
+Algeria,2007,5,6,NF
+Algeria,2008,5,6,NF
+Algeria,2009,5,6,NF
+Algeria,2010,5,6,NF
+Algeria,2011,5,6,NF
+Algeria,2012,5,6,NF
+Algeria,2013,5,6,NF
+Algeria,2014,5,6,NF
+Algeria,2015,5,6,NF
+Algeria,2016,5,6,NF
+Algeria,2017,5,6,NF
+Algeria,2018,5,6,NF
+Algeria,2019,5,6,NF
+Algeria,2020,5,6,NF
+Andorra,1995,1,1,F
+Andorra,1996,1,1,F
+Andorra,1997,1,1,F
+Andorra,1998,1,1,F
+Andorra,1999,1,1,F
+Andorra,2000,1,1,F
+Andorra,2001,1,1,F
+Andorra,2002,1,1,F
+Andorra,2003,1,1,F
+Andorra,2004,1,1,F
+Andorra,2005,1,1,F
+Andorra,2006,1,1,F
+Andorra,2007,1,1,F
+Andorra,2008,1,1,F
+Andorra,2009,1,1,F
+Andorra,2010,1,1,F
+Andorra,2011,1,1,F
+Andorra,2012,1,1,F
+Andorra,2013,1,1,F
+Andorra,2014,1,1,F
+Andorra,2015,1,1,F
+Andorra,2016,1,1,F
+Andorra,2017,1,1,F
+Andorra,2018,1,1,F
+Andorra,2019,1,1,F
+Andorra,2020,1,1,F
+Angola,1995,6,6,NF
+Angola,1996,6,6,NF
+Angola,1997,6,6,NF
+Angola,1998,6,6,NF
+Angola,1999,6,6,NF
+Angola,2000,6,6,NF
+Angola,2001,6,6,NF
+Angola,2002,5,6,NF
+Angola,2003,5,6,NF
+Angola,2004,5,6,NF
+Angola,2005,5,6,NF
+Angola,2006,5,6,NF
+Angola,2007,5,6,NF
+Angola,2008,5,6,NF
+Angola,2009,5,6,NF
+Angola,2010,5,6,NF
+Angola,2011,5,6,NF
+Angola,2012,5,6,NF
+Angola,2013,5,6,NF
+Angola,2014,5,6,NF
+Angola,2015,6,6,NF
+Angola,2016,6,6,NF
+Angola,2017,6,6,NF
+Angola,2018,5,6,NF
+Angola,2019,5,6,NF
+Angola,2020,5,6,NF
+Antigua and Barbuda,1995,3,4,PF
+Antigua and Barbuda,1996,3,4,PF
+Antigua and Barbuda,1997,3,4,PF
+Antigua and Barbuda,1998,3,4,PF
+Antigua and Barbuda,1999,3,4,PF
+Antigua and Barbuda,2000,2,4,PF
+Antigua and Barbuda,2001,2,4,PF
+Antigua and Barbuda,2002,2,4,PF
+Antigua and Barbuda,2003,2,4,PF
+Antigua and Barbuda,2004,2,2,F
+Antigua and Barbuda,2005,2,2,F
+Antigua and Barbuda,2006,2,2,F
+Antigua and Barbuda,2007,2,2,F
+Antigua and Barbuda,2008,2,2,F
+Antigua and Barbuda,2009,2,3,F
+Antigua and Barbuda,2010,2,3,F
+Antigua and Barbuda,2011,2,3,F
+Antigua and Barbuda,2012,2,2,F
+Antigua and Barbuda,2013,2,2,F
+Antigua and Barbuda,2014,2,2,F
+Antigua and Barbuda,2015,2,2,F
+Antigua and Barbuda,2016,2,2,F
+Antigua and Barbuda,2017,2,2,F
+Antigua and Barbuda,2018,2,2,F
+Antigua and Barbuda,2019,2,2,F
+Antigua and Barbuda,2020,2,2,F
+Argentina,1995,3,2,F
+Argentina,1996,3,2,F
+Argentina,1997,3,2,F
+Argentina,1998,3,3,F
+Argentina,1999,3,2,F
+Argentina,2000,2,1,F
+Argentina,2001,3,3,PF
+Argentina,2002,3,3,PF
+Argentina,2003,2,2,F
+Argentina,2004,2,2,F
+Argentina,2005,2,2,F
+Argentina,2006,2,2,F
+Argentina,2007,2,2,F
+Argentina,2008,2,2,F
+Argentina,2009,2,2,F
+Argentina,2010,2,2,F
+Argentina,2011,2,2,F
+Argentina,2012,2,2,F
+Argentina,2013,2,2,F
+Argentina,2014,2,2,F
+Argentina,2015,2,2,F
+Argentina,2016,2,2,F
+Argentina,2017,2,2,F
+Argentina,2018,2,2,F
+Argentina,2019,2,2,F
+Argentina,2020,2,2,F
+Armenia,1995,4,4,PF
+Armenia,1996,4,5,PF
+Armenia,1997,4,5,PF
+Armenia,1998,4,4,PF
+Armenia,1999,4,4,PF
+Armenia,2000,4,4,PF
+Armenia,2001,4,4,PF
+Armenia,2002,4,4,PF
+Armenia,2003,4,4,PF
+Armenia,2004,4,5,PF
+Armenia,2005,4,5,PF
+Armenia,2006,4,5,PF
+Armenia,2007,4,5,PF
+Armenia,2008,4,6,PF
+Armenia,2009,4,6,PF
+Armenia,2010,4,6,PF
+Armenia,2011,4,6,PF
+Armenia,2012,4,5,PF
+Armenia,2013,4,5,PF
+Armenia,2014,4,5,PF
+Armenia,2015,4,5,PF
+Armenia,2016,4,5,PF
+Armenia,2017,4,5,PF
+Armenia,2018,4,4,PF
+Armenia,2019,4,4,PF
+Armenia,2020,4,4,PF
+Australia,1995,1,1,F
+Australia,1996,1,1,F
+Australia,1997,1,1,F
+Australia,1998,1,1,F
+Australia,1999,1,1,F
+Australia,2000,1,1,F
+Australia,2001,1,1,F
+Australia,2002,1,1,F
+Australia,2003,1,1,F
+Australia,2004,1,1,F
+Australia,2005,1,1,F
+Australia,2006,1,1,F
+Australia,2007,1,1,F
+Australia,2008,1,1,F
+Australia,2009,1,1,F
+Australia,2010,1,1,F
+Australia,2011,1,1,F
+Australia,2012,1,1,F
+Australia,2013,1,1,F
+Australia,2014,1,1,F
+Australia,2015,1,1,F
+Australia,2016,1,1,F
+Australia,2017,1,1,F
+Australia,2018,1,1,F
+Australia,2019,1,1,F
+Australia,2020,1,1,F
+Austria,1995,1,1,F
+Austria,1996,1,1,F
+Austria,1997,1,1,F
+Austria,1998,1,1,F
+Austria,1999,1,1,F
+Austria,2000,1,1,F
+Austria,2001,1,1,F
+Austria,2002,1,1,F
+Austria,2003,1,1,F
+Austria,2004,1,1,F
+Austria,2005,1,1,F
+Austria,2006,1,1,F
+Austria,2007,1,1,F
+Austria,2008,1,1,F
+Austria,2009,1,1,F
+Austria,2010,1,1,F
+Austria,2011,1,1,F
+Austria,2012,1,1,F
+Austria,2013,1,1,F
+Austria,2014,1,1,F
+Austria,2015,1,1,F
+Austria,2016,1,1,F
+Austria,2017,1,1,F
+Austria,2018,1,1,F
+Austria,2019,1,1,F
+Austria,2020,1,1,F
+Azerbaijan,1995,6,6,NF
+Azerbaijan,1996,5,6,NF
+Azerbaijan,1997,4,6,PF
+Azerbaijan,1998,4,6,PF
+Azerbaijan,1999,4,6,PF
+Azerbaijan,2000,5,6,PF
+Azerbaijan,2001,5,6,PF
+Azerbaijan,2002,5,6,PF
+Azerbaijan,2003,5,6,NF
+Azerbaijan,2004,5,6,NF
+Azerbaijan,2005,5,6,NF
+Azerbaijan,2006,5,6,NF
+Azerbaijan,2007,5,6,NF
+Azerbaijan,2008,5,6,NF
+Azerbaijan,2009,5,6,NF
+Azerbaijan,2010,5,6,NF
+Azerbaijan,2011,5,6,NF
+Azerbaijan,2012,5,6,NF
+Azerbaijan,2013,6,6,NF
+Azerbaijan,2014,6,6,NF
+Azerbaijan,2015,6,7,NF
+Azerbaijan,2016,6,7,NF
+Azerbaijan,2017,6,7,NF
+Azerbaijan,2018,6,7,NF
+Azerbaijan,2019,6,7,NF
+Azerbaijan,2020,6,7,NF
+Bahamas,1995,2,1,F
+Bahamas,1996,2,1,F
+Bahamas,1997,2,1,F
+Bahamas,1998,2,1,F
+Bahamas,1999,1,1,F
+Bahamas,2000,1,1,F
+Bahamas,2001,1,1,F
+Bahamas,2002,1,1,F
+Bahamas,2003,1,1,F
+Bahamas,2004,1,1,F
+Bahamas,2005,1,1,F
+Bahamas,2006,1,1,F
+Bahamas,2007,1,1,F
+Bahamas,2008,1,1,F
+Bahamas,2009,1,1,F
+Bahamas,2010,1,1,F
+Bahamas,2011,1,1,F
+Bahamas,2012,1,1,F
+Bahamas,2013,1,1,F
+Bahamas,2014,1,1,F
+Bahamas,2015,1,1,F
+Bahamas,2016,1,1,F
+Bahamas,2017,1,1,F
+Bahamas,2018,1,1,F
+Bahamas,2019,1,1,F
+Bahamas,2020,1,1,F
+Bahrain,1995,6,6,NF
+Bahrain,1996,6,7,NF
+Bahrain,1997,6,7,NF
+Bahrain,1998,6,7,NF
+Bahrain,1999,6,7,NF
+Bahrain,2000,6,7,NF
+Bahrain,2001,5,6,NF
+Bahrain,2002,5,5,PF
+Bahrain,2003,5,5,PF
+Bahrain,2004,5,5,PF
+Bahrain,2005,5,5,PF
+Bahrain,2006,5,5,PF
+Bahrain,2007,5,5,PF
+Bahrain,2008,5,5,PF
+Bahrain,2009,5,6,NF
+Bahrain,2010,5,6,NF
+Bahrain,2011,6,6,NF
+Bahrain,2012,6,6,NF
+Bahrain,2013,6,6,NF
+Bahrain,2014,6,7,NF
+Bahrain,2015,6,7,NF
+Bahrain,2016,6,7,NF
+Bahrain,2017,6,7,NF
+Bahrain,2018,6,7,NF
+Bahrain,2019,6,7,NF
+Bahrain,2020,6,7,NF
+Bangladesh,1995,4,3,PF
+Bangladesh,1996,4,2,PF
+Bangladesh,1997,4,2,PF
+Bangladesh,1998,4,2,PF
+Bangladesh,1999,4,3,PF
+Bangladesh,2000,4,3,PF
+Bangladesh,2001,4,3,PF
+Bangladesh,2002,4,4,PF
+Bangladesh,2003,4,4,PF
+Bangladesh,2004,4,4,PF
+Bangladesh,2005,4,4,PF
+Bangladesh,2006,4,4,PF
+Bangladesh,2007,4,5,PF
+Bangladesh,2008,4,4,PF
+Bangladesh,2009,4,3,PF
+Bangladesh,2010,4,3,PF
+Bangladesh,2011,4,3,PF
+Bangladesh,2012,4,3,PF
+Bangladesh,2013,4,3,PF
+Bangladesh,2014,4,4,PF
+Bangladesh,2015,4,4,PF
+Bangladesh,2016,4,4,PF
+Bangladesh,2017,4,4,PF
+Bangladesh,2018,5,5,PF
+Bangladesh,2019,5,5,PF
+Bangladesh,2020,5,5,PF
+Barbados,1995,1,1,F
+Barbados,1996,1,1,F
+Barbados,1997,1,1,F
+Barbados,1998,1,1,F
+Barbados,1999,1,1,F
+Barbados,2000,1,1,F
+Barbados,2001,1,1,F
+Barbados,2002,1,1,F
+Barbados,2003,1,1,F
+Barbados,2004,1,1,F
+Barbados,2005,1,1,F
+Barbados,2006,1,1,F
+Barbados,2007,1,1,F
+Barbados,2008,1,1,F
+Barbados,2009,1,1,F
+Barbados,2010,1,1,F
+Barbados,2011,1,1,F
+Barbados,2012,1,1,F
+Barbados,2013,1,1,F
+Barbados,2014,1,1,F
+Barbados,2015,1,1,F
+Barbados,2016,1,1,F
+Barbados,2017,1,1,F
+Barbados,2018,1,1,F
+Barbados,2019,1,1,F
+Barbados,2020,1,1,F
+Belarus,1995,5,5,PF
+Belarus,1996,6,6,NF
+Belarus,1997,6,6,NF
+Belarus,1998,6,6,NF
+Belarus,1999,6,6,NF
+Belarus,2000,6,6,NF
+Belarus,2001,6,6,NF
+Belarus,2002,6,6,NF
+Belarus,2003,6,6,NF
+Belarus,2004,6,7,NF
+Belarus,2005,6,7,NF
+Belarus,2006,6,7,NF
+Belarus,2007,6,7,NF
+Belarus,2008,6,7,NF
+Belarus,2009,6,7,NF
+Belarus,2010,6,7,NF
+Belarus,2011,6,7,NF
+Belarus,2012,6,7,NF
+Belarus,2013,6,7,NF
+Belarus,2014,6,7,NF
+Belarus,2015,6,7,NF
+Belarus,2016,6,7,NF
+Belarus,2017,6,6,NF
+Belarus,2018,6,7,NF
+Belarus,2019,6,7,NF
+Belarus,2020,6,7,NF
+Belgium,1995,1,1,F
+Belgium,1996,2,1,F
+Belgium,1997,2,1,F
+Belgium,1998,2,1,F
+Belgium,1999,2,1,F
+Belgium,2000,2,1,F
+Belgium,2001,2,1,F
+Belgium,2002,1,1,F
+Belgium,2003,1,1,F
+Belgium,2004,1,1,F
+Belgium,2005,1,1,F
+Belgium,2006,1,1,F
+Belgium,2007,1,1,F
+Belgium,2008,1,1,F
+Belgium,2009,1,1,F
+Belgium,2010,1,1,F
+Belgium,2011,1,1,F
+Belgium,2012,1,1,F
+Belgium,2013,1,1,F
+Belgium,2014,1,1,F
+Belgium,2015,1,1,F
+Belgium,2016,1,1,F
+Belgium,2017,1,1,F
+Belgium,2018,1,1,F
+Belgium,2019,1,1,F
+Belgium,2020,1,1,F
+Belize,1995,1,1,F
+Belize,1996,1,1,F
+Belize,1997,1,1,F
+Belize,1998,1,1,F
+Belize,1999,1,1,F
+Belize,2000,1,1,F
+Belize,2001,2,1,F
+Belize,2002,2,1,F
+Belize,2003,2,1,F
+Belize,2004,2,1,F
+Belize,2005,2,1,F
+Belize,2006,2,1,F
+Belize,2007,2,1,F
+Belize,2008,2,1,F
+Belize,2009,2,1,F
+Belize,2010,2,1,F
+Belize,2011,2,1,F
+Belize,2012,2,1,F
+Belize,2013,2,1,F
+Belize,2014,2,1,F
+Belize,2015,2,1,F
+Belize,2016,2,1,F
+Belize,2017,2,1,F
+Belize,2018,2,1,F
+Belize,2019,2,2,F
+Belize,2020,1,2,F
+Benin,1995,2,2,F
+Benin,1996,2,2,F
+Benin,1997,2,2,F
+Benin,1998,2,2,F
+Benin,1999,3,2,F
+Benin,2000,2,2,F
+Benin,2001,2,3,F
+Benin,2002,2,3,F
+Benin,2003,2,2,F
+Benin,2004,2,2,F
+Benin,2005,2,2,F
+Benin,2006,2,2,F
+Benin,2007,2,2,F
+Benin,2008,2,2,F
+Benin,2009,2,2,F
+Benin,2010,2,2,F
+Benin,2011,2,2,F
+Benin,2012,2,2,F
+Benin,2013,2,2,F
+Benin,2014,2,2,F
+Benin,2015,2,2,F
+Benin,2016,2,2,F
+Benin,2017,2,2,F
+Benin,2018,2,2,F
+Benin,2019,2,4,PF
+Benin,2020,2,4,PF
+Bhutan,1995,7,7,NF
+Bhutan,1996,7,7,NF
+Bhutan,1997,7,7,NF
+Bhutan,1998,6,7,NF
+Bhutan,1999,6,7,NF
+Bhutan,2000,6,7,NF
+Bhutan,2001,6,7,NF
+Bhutan,2002,5,6,NF
+Bhutan,2003,5,6,NF
+Bhutan,2004,5,6,NF
+Bhutan,2005,5,6,NF
+Bhutan,2006,5,6,NF
+Bhutan,2007,5,6,NF
+Bhutan,2008,5,4,PF
+Bhutan,2009,5,4,PF
+Bhutan,2010,5,4,PF
+Bhutan,2011,5,4,PF
+Bhutan,2012,5,4,PF
+Bhutan,2013,4,3,PF
+Bhutan,2014,4,3,PF
+Bhutan,2015,4,3,PF
+Bhutan,2016,4,3,PF
+Bhutan,2017,4,3,PF
+Bhutan,2018,4,3,PF
+Bhutan,2019,4,3,PF
+Bhutan,2020,4,2,PF
+Bolivia,1995,4,2,PF
+Bolivia,1996,3,2,F
+Bolivia,1997,3,1,F
+Bolivia,1998,3,1,F
+Bolivia,1999,3,1,F
+Bolivia,2000,3,1,F
+Bolivia,2001,3,1,F
+Bolivia,2002,3,2,F
+Bolivia,2003,3,3,PF
+Bolivia,2004,3,3,PF
+Bolivia,2005,3,3,PF
+Bolivia,2006,3,3,PF
+Bolivia,2007,3,3,PF
+Bolivia,2008,3,3,PF
+Bolivia,2009,3,3,PF
+Bolivia,2010,3,3,PF
+Bolivia,2011,3,3,PF
+Bolivia,2012,3,3,PF
+Bolivia,2013,3,3,PF
+Bolivia,2014,3,3,PF
+Bolivia,2015,3,3,PF
+Bolivia,2016,3,3,PF
+Bolivia,2017,3,3,PF
+Bolivia,2018,3,3,PF
+Bolivia,2019,3,3,PF
+Bolivia,2020,3,3,PF
+Bosnia and Herzegovina,1995,6,6,NF
+Bosnia and Herzegovina,1996,5,5,PF
+Bosnia and Herzegovina,1997,5,5,PF
+Bosnia and Herzegovina,1998,5,5,PF
+Bosnia and Herzegovina,1999,5,5,PF
+Bosnia and Herzegovina,2000,4,5,PF
+Bosnia and Herzegovina,2001,4,5,PF
+Bosnia and Herzegovina,2002,4,4,PF
+Bosnia and Herzegovina,2003,4,4,PF
+Bosnia and Herzegovina,2004,3,4,PF
+Bosnia and Herzegovina,2005,3,4,PF
+Bosnia and Herzegovina,2006,3,3,PF
+Bosnia and Herzegovina,2007,3,4,PF
+Bosnia and Herzegovina,2008,3,4,PF
+Bosnia and Herzegovina,2009,3,4,PF
+Bosnia and Herzegovina,2010,3,4,PF
+Bosnia and Herzegovina,2011,3,4,PF
+Bosnia and Herzegovina,2012,3,3,PF
+Bosnia and Herzegovina,2013,3,3,PF
+Bosnia and Herzegovina,2014,3,4,PF
+Bosnia and Herzegovina,2015,3,4,PF
+Bosnia and Herzegovina,2016,4,4,PF
+Bosnia and Herzegovina,2017,4,4,PF
+Bosnia and Herzegovina,2018,4,4,PF
+Bosnia and Herzegovina,2019,4,4,PF
+Bosnia and Herzegovina,2020,4,4,PF
+Botswana,1995,2,2,F
+Botswana,1996,2,2,F
+Botswana,1997,2,2,F
+Botswana,1998,2,2,F
+Botswana,1999,2,2,F
+Botswana,2000,2,2,F
+Botswana,2001,2,2,F
+Botswana,2002,2,2,F
+Botswana,2003,2,2,F
+Botswana,2004,2,2,F
+Botswana,2005,2,2,F
+Botswana,2006,2,2,F
+Botswana,2007,2,2,F
+Botswana,2008,2,2,F
+Botswana,2009,2,3,F
+Botswana,2010,2,3,F
+Botswana,2011,2,3,F
+Botswana,2012,2,3,F
+Botswana,2013,2,3,F
+Botswana,2014,2,3,F
+Botswana,2015,2,3,F
+Botswana,2016,2,3,F
+Botswana,2017,2,3,F
+Botswana,2018,2,3,F
+Botswana,2019,2,3,F
+Botswana,2020,2,3,F
+Brazil,1995,4,2,PF
+Brazil,1996,4,2,PF
+Brazil,1997,4,3,PF
+Brazil,1998,4,3,PF
+Brazil,1999,4,3,PF
+Brazil,2000,3,3,PF
+Brazil,2001,3,3,PF
+Brazil,2002,3,2,F
+Brazil,2003,3,2,F
+Brazil,2004,3,2,F
+Brazil,2005,2,2,F
+Brazil,2006,2,2,F
+Brazil,2007,2,2,F
+Brazil,2008,2,2,F
+Brazil,2009,2,2,F
+Brazil,2010,2,2,F
+Brazil,2011,2,2,F
+Brazil,2012,2,2,F
+Brazil,2013,2,2,F
+Brazil,2014,2,2,F
+Brazil,2015,2,2,F
+Brazil,2016,2,2,F
+Brazil,2017,2,2,F
+Brazil,2018,2,2,F
+Brazil,2019,2,2,F
+Brazil,2020,3,2,F
+Brunei,1995,5,7,NF
+Brunei,1996,5,7,NF
+Brunei,1997,5,7,NF
+Brunei,1998,5,7,NF
+Brunei,1999,5,7,NF
+Brunei,2000,5,7,NF
+Brunei,2001,5,7,NF
+Brunei,2002,5,6,NF
+Brunei,2003,5,6,NF
+Brunei,2004,5,6,NF
+Brunei,2005,5,6,NF
+Brunei,2006,5,6,NF
+Brunei,2007,5,6,NF
+Brunei,2008,5,6,NF
+Brunei,2009,5,6,NF
+Brunei,2010,5,6,NF
+Brunei,2011,5,6,NF
+Brunei,2012,5,6,NF
+Brunei,2013,5,6,NF
+Brunei,2014,5,6,NF
+Brunei,2015,5,6,NF
+Brunei,2016,5,6,NF
+Brunei,2017,5,6,NF
+Brunei,2018,5,6,NF
+Brunei,2019,5,6,NF
+Brunei,2020,5,6,NF
+Bulgaria,1995,2,2,F
+Bulgaria,1996,3,2,F
+Bulgaria,1997,3,2,F
+Bulgaria,1998,3,2,F
+Bulgaria,1999,3,2,F
+Bulgaria,2000,3,2,F
+Bulgaria,2001,3,1,F
+Bulgaria,2002,2,1,F
+Bulgaria,2003,2,1,F
+Bulgaria,2004,2,1,F
+Bulgaria,2005,2,1,F
+Bulgaria,2006,2,1,F
+Bulgaria,2007,2,1,F
+Bulgaria,2008,2,2,F
+Bulgaria,2009,2,2,F
+Bulgaria,2010,2,2,F
+Bulgaria,2011,2,2,F
+Bulgaria,2012,2,2,F
+Bulgaria,2013,2,2,F
+Bulgaria,2014,2,2,F
+Bulgaria,2015,2,2,F
+Bulgaria,2016,2,2,F
+Bulgaria,2017,2,2,F
+Bulgaria,2018,2,2,F
+Bulgaria,2019,2,2,F
+Bulgaria,2020,2,2,F
+Burkina Faso,1995,4,5,PF
+Burkina Faso,1996,4,5,PF
+Burkina Faso,1997,4,5,PF
+Burkina Faso,1998,4,5,PF
+Burkina Faso,1999,4,4,PF
+Burkina Faso,2000,4,4,PF
+Burkina Faso,2001,4,4,PF
+Burkina Faso,2002,4,4,PF
+Burkina Faso,2003,4,4,PF
+Burkina Faso,2004,4,5,PF
+Burkina Faso,2005,3,5,PF
+Burkina Faso,2006,3,5,PF
+Burkina Faso,2007,3,5,PF
+Burkina Faso,2008,3,5,PF
+Burkina Faso,2009,3,5,PF
+Burkina Faso,2010,3,5,PF
+Burkina Faso,2011,3,5,PF
+Burkina Faso,2012,3,5,PF
+Burkina Faso,2013,3,5,PF
+Burkina Faso,2014,3,6,PF
+Burkina Faso,2015,3,4,PF
+Burkina Faso,2016,3,4,PF
+Burkina Faso,2017,3,4,PF
+Burkina Faso,2018,3,4,PF
+Burkina Faso,2019,4,4,PF
+Burkina Faso,2020,4,4,PF
+Burundi,1995,7,6,NF
+Burundi,1996,7,7,NF
+Burundi,1997,7,7,NF
+Burundi,1998,6,7,NF
+Burundi,1999,6,6,NF
+Burundi,2000,6,6,NF
+Burundi,2001,6,6,NF
+Burundi,2002,5,6,NF
+Burundi,2003,5,5,PF
+Burundi,2004,5,5,PF
+Burundi,2005,5,3,PF
+Burundi,2006,5,4,PF
+Burundi,2007,5,4,PF
+Burundi,2008,5,4,PF
+Burundi,2009,5,4,PF
+Burundi,2010,5,5,PF
+Burundi,2011,5,5,PF
+Burundi,2012,5,5,PF
+Burundi,2013,5,5,PF
+Burundi,2014,5,6,NF
+Burundi,2015,6,7,NF
+Burundi,2016,6,7,NF
+Burundi,2017,6,7,NF
+Burundi,2018,6,7,NF
+Burundi,2019,6,7,NF
+Burundi,2020,6,7,NF
+Cabo Verde,1995,2,1,F
+Cabo Verde,1996,2,1,F
+Cabo Verde,1997,2,1,F
+Cabo Verde,1998,2,1,F
+Cabo Verde,1999,2,1,F
+Cabo Verde,2000,2,1,F
+Cabo Verde,2001,2,1,F
+Cabo Verde,2002,2,1,F
+Cabo Verde,2003,1,1,F
+Cabo Verde,2004,1,1,F
+Cabo Verde,2005,1,1,F
+Cabo Verde,2006,1,1,F
+Cabo Verde,2007,1,1,F
+Cabo Verde,2008,1,1,F
+Cabo Verde,2009,1,1,F
+Cabo Verde,2010,1,1,F
+Cabo Verde,2011,1,1,F
+Cabo Verde,2012,1,1,F
+Cabo Verde,2013,1,1,F
+Cabo Verde,2014,1,1,F
+Cabo Verde,2015,1,1,F
+Cabo Verde,2016,1,1,F
+Cabo Verde,2017,1,1,F
+Cabo Verde,2018,1,1,F
+Cabo Verde,2019,1,1,F
+Cabo Verde,2020,1,1,F
+Cambodia,1995,6,6,NF
+Cambodia,1996,6,6,NF
+Cambodia,1997,6,7,NF
+Cambodia,1998,6,6,NF
+Cambodia,1999,6,6,NF
+Cambodia,2000,6,6,NF
+Cambodia,2001,5,6,NF
+Cambodia,2002,5,6,NF
+Cambodia,2003,5,6,NF
+Cambodia,2004,5,6,NF
+Cambodia,2005,5,6,NF
+Cambodia,2006,5,6,NF
+Cambodia,2007,5,6,NF
+Cambodia,2008,5,6,NF
+Cambodia,2009,5,6,NF
+Cambodia,2010,5,6,NF
+Cambodia,2011,5,6,NF
+Cambodia,2012,5,6,NF
+Cambodia,2013,5,6,NF
+Cambodia,2014,5,6,NF
+Cambodia,2015,5,6,NF
+Cambodia,2016,5,6,NF
+Cambodia,2017,5,6,NF
+Cambodia,2018,5,6,NF
+Cambodia,2019,5,7,NF
+Cambodia,2020,5,7,NF
+Cameroon,1995,5,7,NF
+Cameroon,1996,5,7,NF
+Cameroon,1997,5,7,NF
+Cameroon,1998,5,7,NF
+Cameroon,1999,6,7,NF
+Cameroon,2000,6,7,NF
+Cameroon,2001,6,6,NF
+Cameroon,2002,6,6,NF
+Cameroon,2003,6,6,NF
+Cameroon,2004,6,6,NF
+Cameroon,2005,6,6,NF
+Cameroon,2006,6,6,NF
+Cameroon,2007,6,6,NF
+Cameroon,2008,6,6,NF
+Cameroon,2009,6,6,NF
+Cameroon,2010,6,6,NF
+Cameroon,2011,6,6,NF
+Cameroon,2012,6,6,NF
+Cameroon,2013,6,6,NF
+Cameroon,2014,6,6,NF
+Cameroon,2015,6,6,NF
+Cameroon,2016,6,6,NF
+Cameroon,2017,6,6,NF
+Cameroon,2018,6,6,NF
+Cameroon,2019,6,6,NF
+Cameroon,2020,6,6,NF
+Canada,1995,1,1,F
+Canada,1996,1,1,F
+Canada,1997,1,1,F
+Canada,1998,1,1,F
+Canada,1999,1,1,F
+Canada,2000,1,1,F
+Canada,2001,1,1,F
+Canada,2002,1,1,F
+Canada,2003,1,1,F
+Canada,2004,1,1,F
+Canada,2005,1,1,F
+Canada,2006,1,1,F
+Canada,2007,1,1,F
+Canada,2008,1,1,F
+Canada,2009,1,1,F
+Canada,2010,1,1,F
+Canada,2011,1,1,F
+Canada,2012,1,1,F
+Canada,2013,1,1,F
+Canada,2014,1,1,F
+Canada,2015,1,1,F
+Canada,2016,1,1,F
+Canada,2017,1,1,F
+Canada,2018,1,1,F
+Canada,2019,1,1,F
+Canada,2020,1,1,F
+Central African Republic,1995,4,3,PF
+Central African Republic,1996,5,3,PF
+Central African Republic,1997,5,3,PF
+Central African Republic,1998,4,3,PF
+Central African Republic,1999,4,3,PF
+Central African Republic,2000,4,3,PF
+Central African Republic,2001,5,5,PF
+Central African Republic,2002,5,5,PF
+Central African Republic,2003,5,7,NF
+Central African Republic,2004,5,6,NF
+Central African Republic,2005,4,5,PF
+Central African Republic,2006,4,5,PF
+Central African Republic,2007,5,5,PF
+Central African Republic,2008,5,5,PF
+Central African Republic,2009,5,5,PF
+Central African Republic,2010,5,5,PF
+Central African Republic,2011,5,5,PF
+Central African Republic,2012,5,5,PF
+Central African Republic,2013,7,7,NF
+Central African Republic,2014,7,7,NF
+Central African Republic,2015,7,7,NF
+Central African Republic,2016,7,7,NF
+Central African Republic,2017,7,7,NF
+Central African Republic,2018,7,7,NF
+Central African Republic,2019,7,7,NF
+Central African Republic,2020,7,7,NF
+Chad,1995,5,6,NF
+Chad,1996,5,6,NF
+Chad,1997,5,6,NF
+Chad,1998,4,6,NF
+Chad,1999,5,6,NF
+Chad,2000,5,6,NF
+Chad,2001,5,6,NF
+Chad,2002,5,6,NF
+Chad,2003,5,6,NF
+Chad,2004,5,6,NF
+Chad,2005,5,6,NF
+Chad,2006,6,6,NF
+Chad,2007,6,7,NF
+Chad,2008,6,7,NF
+Chad,2009,6,7,NF
+Chad,2010,6,7,NF
+Chad,2011,6,7,NF
+Chad,2012,6,7,NF
+Chad,2013,6,7,NF
+Chad,2014,6,7,NF
+Chad,2015,6,7,NF
+Chad,2016,6,7,NF
+Chad,2017,6,7,NF
+Chad,2018,6,7,NF
+Chad,2019,6,7,NF
+Chad,2020,6,7,NF
+Chile,1995,2,2,F
+Chile,1996,2,2,F
+Chile,1997,2,2,F
+Chile,1998,2,3,F
+Chile,1999,2,2,F
+Chile,2000,2,2,F
+Chile,2001,2,2,F
+Chile,2002,1,2,F
+Chile,2003,1,1,F
+Chile,2004,1,1,F
+Chile,2005,1,1,F
+Chile,2006,1,1,F
+Chile,2007,1,1,F
+Chile,2008,1,1,F
+Chile,2009,1,1,F
+Chile,2010,1,1,F
+Chile,2011,1,1,F
+Chile,2012,1,1,F
+Chile,2013,1,1,F
+Chile,2014,1,1,F
+Chile,2015,1,1,F
+Chile,2016,1,1,F
+Chile,2017,1,1,F
+Chile,2018,1,1,F
+Chile,2019,2,1,F
+Chile,2020,1,1,F
+China,1995,7,7,NF
+China,1996,7,7,NF
+China,1997,7,7,NF
+China,1998,6,7,NF
+China,1999,6,7,NF
+China,2000,6,7,NF
+China,2001,6,7,NF
+China,2002,6,7,NF
+China,2003,6,7,NF
+China,2004,6,7,NF
+China,2005,6,7,NF
+China,2006,6,7,NF
+China,2007,6,7,NF
+China,2008,6,7,NF
+China,2009,6,7,NF
+China,2010,6,7,NF
+China,2011,6,7,NF
+China,2012,6,7,NF
+China,2013,6,7,NF
+China,2014,6,7,NF
+China,2015,6,7,NF
+China,2016,6,7,NF
+China,2017,6,7,NF
+China,2018,6,7,NF
+China,2019,6,7,NF
+China,2020,6,7,NF
+Colombia,1995,4,4,PF
+Colombia,1996,4,4,PF
+Colombia,1997,4,4,PF
+Colombia,1998,4,3,PF
+Colombia,1999,4,4,PF
+Colombia,2000,4,4,PF
+Colombia,2001,4,4,PF
+Colombia,2002,4,4,PF
+Colombia,2003,4,4,PF
+Colombia,2004,4,4,PF
+Colombia,2005,3,3,PF
+Colombia,2006,3,3,PF
+Colombia,2007,3,3,PF
+Colombia,2008,4,3,PF
+Colombia,2009,4,3,PF
+Colombia,2010,4,3,PF
+Colombia,2011,4,3,PF
+Colombia,2012,4,3,PF
+Colombia,2013,4,3,PF
+Colombia,2014,4,3,PF
+Colombia,2015,4,3,PF
+Colombia,2016,3,3,PF
+Colombia,2017,3,3,PF
+Colombia,2018,3,3,PF
+Colombia,2019,3,3,PF
+Colombia,2020,3,3,PF
+Comoros,1995,4,4,PF
+Comoros,1996,4,4,PF
+Comoros,1997,4,5,PF
+Comoros,1998,4,5,PF
+Comoros,1999,4,6,PF
+Comoros,2000,4,6,PF
+Comoros,2001,4,6,PF
+Comoros,2002,4,5,PF
+Comoros,2003,4,5,PF
+Comoros,2004,4,4,PF
+Comoros,2005,4,4,PF
+Comoros,2006,4,3,PF
+Comoros,2007,4,4,PF
+Comoros,2008,4,3,PF
+Comoros,2009,4,3,PF
+Comoros,2010,4,3,PF
+Comoros,2011,4,3,PF
+Comoros,2012,4,3,PF
+Comoros,2013,4,3,PF
+Comoros,2014,4,3,PF
+Comoros,2015,4,3,PF
+Comoros,2016,4,3,PF
+Comoros,2017,4,3,PF
+Comoros,2018,4,4,PF
+Comoros,2019,4,4,PF
+Comoros,2020,4,5,PF
+Congo (Brazzaville),1995,4,4,PF
+Congo (Brazzaville),1996,4,4,PF
+Congo (Brazzaville),1997,5,7,NF
+Congo (Brazzaville),1998,5,7,NF
+Congo (Brazzaville),1999,5,6,NF
+Congo (Brazzaville),2000,4,6,PF
+Congo (Brazzaville),2001,4,5,PF
+Congo (Brazzaville),2002,4,6,PF
+Congo (Brazzaville),2003,4,5,PF
+Congo (Brazzaville),2004,4,5,PF
+Congo (Brazzaville),2005,5,5,PF
+Congo (Brazzaville),2006,5,6,NF
+Congo (Brazzaville),2007,5,6,NF
+Congo (Brazzaville),2008,5,6,NF
+Congo (Brazzaville),2009,5,6,NF
+Congo (Brazzaville),2010,5,6,NF
+Congo (Brazzaville),2011,5,6,NF
+Congo (Brazzaville),2012,5,6,NF
+Congo (Brazzaville),2013,5,6,NF
+Congo (Brazzaville),2014,5,6,NF
+Congo (Brazzaville),2015,5,6,NF
+Congo (Brazzaville),2016,5,7,NF
+Congo (Brazzaville),2017,5,7,NF
+Congo (Brazzaville),2018,5,7,NF
+Congo (Brazzaville),2019,5,7,NF
+Congo (Brazzaville),2020,5,7,NF
+Congo (Kinshasa),1995,6,7,NF
+Congo (Kinshasa),1996,6,7,NF
+Congo (Kinshasa),1997,6,7,NF
+Congo (Kinshasa),1998,6,7,NF
+Congo (Kinshasa),1999,6,7,NF
+Congo (Kinshasa),2000,6,7,NF
+Congo (Kinshasa),2001,6,6,NF
+Congo (Kinshasa),2002,6,6,NF
+Congo (Kinshasa),2003,6,6,NF
+Congo (Kinshasa),2004,6,6,NF
+Congo (Kinshasa),2005,6,6,NF
+Congo (Kinshasa),2006,6,5,NF
+Congo (Kinshasa),2007,6,5,NF
+Congo (Kinshasa),2008,6,6,NF
+Congo (Kinshasa),2009,6,6,NF
+Congo (Kinshasa),2010,6,6,NF
+Congo (Kinshasa),2011,6,6,NF
+Congo (Kinshasa),2012,6,6,NF
+Congo (Kinshasa),2013,6,6,NF
+Congo (Kinshasa),2014,6,6,NF
+Congo (Kinshasa),2015,6,6,NF
+Congo (Kinshasa),2016,6,7,NF
+Congo (Kinshasa),2017,6,7,NF
+Congo (Kinshasa),2018,6,7,NF
+Congo (Kinshasa),2019,6,7,NF
+Congo (Kinshasa),2020,6,7,NF
+Costa Rica,1995,2,1,F
+Costa Rica,1996,2,1,F
+Costa Rica,1997,2,1,F
+Costa Rica,1998,2,1,F
+Costa Rica,1999,2,1,F
+Costa Rica,2000,2,1,F
+Costa Rica,2001,2,1,F
+Costa Rica,2002,2,1,F
+Costa Rica,2003,2,1,F
+Costa Rica,2004,1,1,F
+Costa Rica,2005,1,1,F
+Costa Rica,2006,1,1,F
+Costa Rica,2007,1,1,F
+Costa Rica,2008,1,1,F
+Costa Rica,2009,1,1,F
+Costa Rica,2010,1,1,F
+Costa Rica,2011,1,1,F
+Costa Rica,2012,1,1,F
+Costa Rica,2013,1,1,F
+Costa Rica,2014,1,1,F
+Costa Rica,2015,1,1,F
+Costa Rica,2016,1,1,F
+Costa Rica,2017,1,1,F
+Costa Rica,2018,1,1,F
+Costa Rica,2019,1,1,F
+Costa Rica,2020,1,1,F
+Cote d'Ivoire,1995,5,6,NF
+Cote d'Ivoire,1996,5,6,NF
+Cote d'Ivoire,1997,4,6,NF
+Cote d'Ivoire,1998,4,6,NF
+Cote d'Ivoire,1999,5,6,PF
+Cote d'Ivoire,2000,5,6,PF
+Cote d'Ivoire,2001,4,5,PF
+Cote d'Ivoire,2002,6,6,NF
+Cote d'Ivoire,2003,5,6,NF
+Cote d'Ivoire,2004,6,6,NF
+Cote d'Ivoire,2005,6,6,NF
+Cote d'Ivoire,2006,6,7,NF
+Cote d'Ivoire,2007,5,7,NF
+Cote d'Ivoire,2008,5,6,NF
+Cote d'Ivoire,2009,5,6,NF
+Cote d'Ivoire,2010,6,7,NF
+Cote d'Ivoire,2011,6,6,NF
+Cote d'Ivoire,2012,5,5,PF
+Cote d'Ivoire,2013,4,5,PF
+Cote d'Ivoire,2014,4,5,PF
+Cote d'Ivoire,2015,4,4,PF
+Cote d'Ivoire,2016,4,4,PF
+Cote d'Ivoire,2017,4,4,PF
+Cote d'Ivoire,2018,4,4,PF
+Cote d'Ivoire,2019,4,4,PF
+Cote d'Ivoire,2020,4,5,PF
+Croatia,1995,4,4,PF
+Croatia,1996,4,4,PF
+Croatia,1997,4,4,PF
+Croatia,1998,4,4,PF
+Croatia,1999,4,4,PF
+Croatia,2000,3,2,F
+Croatia,2001,2,2,F
+Croatia,2002,2,2,F
+Croatia,2003,2,2,F
+Croatia,2004,2,2,F
+Croatia,2005,2,2,F
+Croatia,2006,2,2,F
+Croatia,2007,2,2,F
+Croatia,2008,2,2,F
+Croatia,2009,2,1,F
+Croatia,2010,2,1,F
+Croatia,2011,2,1,F
+Croatia,2012,2,1,F
+Croatia,2013,2,1,F
+Croatia,2014,2,1,F
+Croatia,2015,2,1,F
+Croatia,2016,2,1,F
+Croatia,2017,2,1,F
+Croatia,2018,2,1,F
+Croatia,2019,2,1,F
+Croatia,2020,2,1,F
+Cuba,1995,7,7,NF
+Cuba,1996,7,7,NF
+Cuba,1997,7,7,NF
+Cuba,1998,7,7,NF
+Cuba,1999,7,7,NF
+Cuba,2000,7,7,NF
+Cuba,2001,7,7,NF
+Cuba,2002,7,7,NF
+Cuba,2003,7,7,NF
+Cuba,2004,7,7,NF
+Cuba,2005,7,7,NF
+Cuba,2006,7,7,NF
+Cuba,2007,7,7,NF
+Cuba,2008,6,7,NF
+Cuba,2009,6,7,NF
+Cuba,2010,6,7,NF
+Cuba,2011,6,7,NF
+Cuba,2012,6,7,NF
+Cuba,2013,6,7,NF
+Cuba,2014,6,7,NF
+Cuba,2015,6,7,NF
+Cuba,2016,6,7,NF
+Cuba,2017,6,7,NF
+Cuba,2018,6,7,NF
+Cuba,2019,6,7,NF
+Cuba,2020,6,7,NF
+Cyprus,1995,1,1,F
+Cyprus,1996,1,1,F
+Cyprus,1997,1,1,F
+Cyprus,1998,1,1,F
+Cyprus,1999,1,1,F
+Cyprus,2000,1,1,F
+Cyprus,2001,1,1,F
+Cyprus,2002,1,1,F
+Cyprus,2003,1,1,F
+Cyprus,2004,1,1,F
+Cyprus,2005,1,1,F
+Cyprus,2006,1,1,F
+Cyprus,2007,1,1,F
+Cyprus,2008,1,1,F
+Cyprus,2009,1,1,F
+Cyprus,2010,1,1,F
+Cyprus,2011,1,1,F
+Cyprus,2012,1,1,F
+Cyprus,2013,1,1,F
+Cyprus,2014,1,1,F
+Cyprus,2015,1,1,F
+Cyprus,2016,1,1,F
+Cyprus,2017,1,1,F
+Cyprus,2018,1,1,F
+Cyprus,2019,1,1,F
+Cyprus,2020,1,1,F
+Czech Republic,1995,2,1,F
+Czech Republic,1996,2,1,F
+Czech Republic,1997,2,1,F
+Czech Republic,1998,2,1,F
+Czech Republic,1999,2,1,F
+Czech Republic,2000,2,1,F
+Czech Republic,2001,2,1,F
+Czech Republic,2002,2,1,F
+Czech Republic,2003,2,1,F
+Czech Republic,2004,1,1,F
+Czech Republic,2005,1,1,F
+Czech Republic,2006,1,1,F
+Czech Republic,2007,1,1,F
+Czech Republic,2008,1,1,F
+Czech Republic,2009,1,1,F
+Czech Republic,2010,1,1,F
+Czech Republic,2011,1,1,F
+Czech Republic,2012,1,1,F
+Czech Republic,2013,1,1,F
+Czech Republic,2014,1,1,F
+Czech Republic,2015,1,1,F
+Czech Republic,2016,1,1,F
+Czech Republic,2017,1,1,F
+Czech Republic,2018,1,1,F
+Czech Republic,2019,1,1,F
+Czech Republic,2020,1,1,F
+Czechoslovakia,1995,NA,NA,NA
+Czechoslovakia,1996,NA,NA,NA
+Czechoslovakia,1997,NA,NA,NA
+Czechoslovakia,1998,NA,NA,NA
+Czechoslovakia,1999,NA,NA,NA
+Czechoslovakia,2000,NA,NA,NA
+Czechoslovakia,2001,NA,NA,NA
+Czechoslovakia,2002,NA,NA,NA
+Czechoslovakia,2003,NA,NA,NA
+Czechoslovakia,2004,NA,NA,NA
+Czechoslovakia,2005,NA,NA,NA
+Czechoslovakia,2006,NA,NA,NA
+Czechoslovakia,2007,NA,NA,NA
+Czechoslovakia,2008,NA,NA,NA
+Czechoslovakia,2009,NA,NA,NA
+Czechoslovakia,2010,NA,NA,NA
+Czechoslovakia,2011,NA,NA,NA
+Czechoslovakia,2012,NA,NA,NA
+Czechoslovakia,2013,NA,NA,NA
+Czechoslovakia,2014,NA,NA,NA
+Czechoslovakia,2015,NA,NA,NA
+Czechoslovakia,2016,NA,NA,NA
+Czechoslovakia,2017,NA,NA,NA
+Czechoslovakia,2018,NA,NA,NA
+Czechoslovakia,2019,NA,NA,NA
+Czechoslovakia,2020,NA,NA,NA
+Denmark,1995,1,1,F
+Denmark,1996,1,1,F
+Denmark,1997,1,1,F
+Denmark,1998,1,1,F
+Denmark,1999,1,1,F
+Denmark,2000,1,1,F
+Denmark,2001,1,1,F
+Denmark,2002,1,1,F
+Denmark,2003,1,1,F
+Denmark,2004,1,1,F
+Denmark,2005,1,1,F
+Denmark,2006,1,1,F
+Denmark,2007,1,1,F
+Denmark,2008,1,1,F
+Denmark,2009,1,1,F
+Denmark,2010,1,1,F
+Denmark,2011,1,1,F
+Denmark,2012,1,1,F
+Denmark,2013,1,1,F
+Denmark,2014,1,1,F
+Denmark,2015,1,1,F
+Denmark,2016,1,1,F
+Denmark,2017,1,1,F
+Denmark,2018,1,1,F
+Denmark,2019,1,1,F
+Denmark,2020,1,1,F
+Djibouti,1995,6,5,NF
+Djibouti,1996,6,5,NF
+Djibouti,1997,6,5,NF
+Djibouti,1998,6,5,NF
+Djibouti,1999,6,4,PF
+Djibouti,2000,5,4,PF
+Djibouti,2001,5,4,PF
+Djibouti,2002,5,4,PF
+Djibouti,2003,5,5,PF
+Djibouti,2004,5,5,PF
+Djibouti,2005,5,5,PF
+Djibouti,2006,5,5,PF
+Djibouti,2007,5,5,PF
+Djibouti,2008,5,5,PF
+Djibouti,2009,5,5,PF
+Djibouti,2010,5,6,NF
+Djibouti,2011,5,6,NF
+Djibouti,2012,5,6,NF
+Djibouti,2013,5,6,NF
+Djibouti,2014,5,6,NF
+Djibouti,2015,5,6,NF
+Djibouti,2016,5,6,NF
+Djibouti,2017,5,6,NF
+Djibouti,2018,5,6,NF
+Djibouti,2019,5,7,NF
+Djibouti,2020,5,7,NF
+Dominica,1995,1,1,F
+Dominica,1996,1,1,F
+Dominica,1997,1,1,F
+Dominica,1998,1,1,F
+Dominica,1999,1,1,F
+Dominica,2000,1,1,F
+Dominica,2001,1,1,F
+Dominica,2002,1,1,F
+Dominica,2003,1,1,F
+Dominica,2004,1,1,F
+Dominica,2005,1,1,F
+Dominica,2006,1,1,F
+Dominica,2007,1,1,F
+Dominica,2008,1,1,F
+Dominica,2009,1,1,F
+Dominica,2010,1,1,F
+Dominica,2011,1,1,F
+Dominica,2012,1,1,F
+Dominica,2013,1,1,F
+Dominica,2014,1,1,F
+Dominica,2015,1,1,F
+Dominica,2016,1,1,F
+Dominica,2017,1,1,F
+Dominica,2018,1,1,F
+Dominica,2019,1,1,F
+Dominica,2020,1,1,F
+Dominican Republic,1995,3,4,PF
+Dominican Republic,1996,3,3,PF
+Dominican Republic,1997,3,3,PF
+Dominican Republic,1998,3,2,F
+Dominican Republic,1999,3,2,F
+Dominican Republic,2000,2,2,F
+Dominican Republic,2001,2,2,F
+Dominican Republic,2002,2,2,F
+Dominican Republic,2003,2,3,F
+Dominican Republic,2004,2,2,F
+Dominican Republic,2005,2,2,F
+Dominican Republic,2006,2,2,F
+Dominican Republic,2007,2,2,F
+Dominican Republic,2008,2,2,F
+Dominican Republic,2009,2,2,F
+Dominican Republic,2010,2,2,F
+Dominican Republic,2011,2,2,F
+Dominican Republic,2012,2,2,F
+Dominican Republic,2013,3,2,F
+Dominican Republic,2014,3,2,F
+Dominican Republic,2015,3,3,PF
+Dominican Republic,2016,3,3,PF
+Dominican Republic,2017,3,3,PF
+Dominican Republic,2018,3,3,PF
+Dominican Republic,2019,3,3,PF
+Dominican Republic,2020,3,3,PF
+Ecuador,1995,3,2,F
+Ecuador,1996,4,2,PF
+Ecuador,1997,3,3,PF
+Ecuador,1998,3,2,F
+Ecuador,1999,3,2,F
+Ecuador,2000,3,3,PF
+Ecuador,2001,3,3,PF
+Ecuador,2002,3,3,PF
+Ecuador,2003,3,3,PF
+Ecuador,2004,3,3,PF
+Ecuador,2005,3,3,PF
+Ecuador,2006,3,3,PF
+Ecuador,2007,3,3,PF
+Ecuador,2008,3,3,PF
+Ecuador,2009,3,3,PF
+Ecuador,2010,3,3,PF
+Ecuador,2011,3,3,PF
+Ecuador,2012,3,3,PF
+Ecuador,2013,3,3,PF
+Ecuador,2014,3,3,PF
+Ecuador,2015,3,3,PF
+Ecuador,2016,4,3,PF
+Ecuador,2017,3,3,PF
+Ecuador,2018,3,3,PF
+Ecuador,2019,3,3,PF
+Ecuador,2020,3,3,PF
+Egypt,1995,6,6,NF
+Egypt,1996,6,6,NF
+Egypt,1997,6,6,NF
+Egypt,1998,6,6,NF
+Egypt,1999,5,6,NF
+Egypt,2000,5,6,NF
+Egypt,2001,6,6,NF
+Egypt,2002,6,6,NF
+Egypt,2003,6,6,NF
+Egypt,2004,5,6,NF
+Egypt,2005,5,6,NF
+Egypt,2006,5,6,NF
+Egypt,2007,5,6,NF
+Egypt,2008,5,6,NF
+Egypt,2009,5,6,NF
+Egypt,2010,5,6,NF
+Egypt,2011,5,6,NF
+Egypt,2012,5,5,PF
+Egypt,2013,5,6,NF
+Egypt,2014,5,6,NF
+Egypt,2015,5,6,NF
+Egypt,2016,5,6,NF
+Egypt,2017,6,6,NF
+Egypt,2018,6,6,NF
+Egypt,2019,6,6,NF
+Egypt,2020,6,6,NF
+El Salvador,1995,3,3,PF
+El Salvador,1996,3,3,PF
+El Salvador,1997,3,2,F
+El Salvador,1998,3,2,F
+El Salvador,1999,3,2,F
+El Salvador,2000,3,2,F
+El Salvador,2001,3,2,F
+El Salvador,2002,3,2,F
+El Salvador,2003,3,2,F
+El Salvador,2004,3,2,F
+El Salvador,2005,3,2,F
+El Salvador,2006,3,2,F
+El Salvador,2007,3,2,F
+El Salvador,2008,3,2,F
+El Salvador,2009,3,2,F
+El Salvador,2010,3,2,F
+El Salvador,2011,3,2,F
+El Salvador,2012,3,2,F
+El Salvador,2013,3,2,F
+El Salvador,2014,3,2,F
+El Salvador,2015,3,2,F
+El Salvador,2016,3,2,F
+El Salvador,2017,3,2,F
+El Salvador,2018,3,2,F
+El Salvador,2019,4,2,PF
+El Salvador,2020,4,2,PF
+Equatorial Guinea,1995,7,7,NF
+Equatorial Guinea,1996,7,7,NF
+Equatorial Guinea,1997,7,7,NF
+Equatorial Guinea,1998,7,7,NF
+Equatorial Guinea,1999,7,7,NF
+Equatorial Guinea,2000,7,7,NF
+Equatorial Guinea,2001,6,6,NF
+Equatorial Guinea,2002,6,7,NF
+Equatorial Guinea,2003,6,7,NF
+Equatorial Guinea,2004,6,7,NF
+Equatorial Guinea,2005,6,7,NF
+Equatorial Guinea,2006,6,7,NF
+Equatorial Guinea,2007,6,7,NF
+Equatorial Guinea,2008,7,7,NF
+Equatorial Guinea,2009,7,7,NF
+Equatorial Guinea,2010,7,7,NF
+Equatorial Guinea,2011,7,7,NF
+Equatorial Guinea,2012,7,7,NF
+Equatorial Guinea,2013,7,7,NF
+Equatorial Guinea,2014,7,7,NF
+Equatorial Guinea,2015,7,7,NF
+Equatorial Guinea,2016,7,7,NF
+Equatorial Guinea,2017,7,7,NF
+Equatorial Guinea,2018,7,7,NF
+Equatorial Guinea,2019,7,7,NF
+Equatorial Guinea,2020,7,7,NF
+Eritrea,1995,4,6,PF
+Eritrea,1996,4,6,PF
+Eritrea,1997,4,6,PF
+Eritrea,1998,4,6,PF
+Eritrea,1999,5,7,NF
+Eritrea,2000,5,7,NF
+Eritrea,2001,6,7,NF
+Eritrea,2002,6,7,NF
+Eritrea,2003,6,7,NF
+Eritrea,2004,6,7,NF
+Eritrea,2005,6,7,NF
+Eritrea,2006,6,7,NF
+Eritrea,2007,6,7,NF
+Eritrea,2008,6,7,NF
+Eritrea,2009,7,7,NF
+Eritrea,2010,7,7,NF
+Eritrea,2011,7,7,NF
+Eritrea,2012,7,7,NF
+Eritrea,2013,7,7,NF
+Eritrea,2014,7,7,NF
+Eritrea,2015,7,7,NF
+Eritrea,2016,7,7,NF
+Eritrea,2017,7,7,NF
+Eritrea,2018,7,7,NF
+Eritrea,2019,7,7,NF
+Eritrea,2020,7,7,NF
+Estonia,1995,2,2,F
+Estonia,1996,2,1,F
+Estonia,1997,2,1,F
+Estonia,1998,2,1,F
+Estonia,1999,2,1,F
+Estonia,2000,2,1,F
+Estonia,2001,2,1,F
+Estonia,2002,2,1,F
+Estonia,2003,2,1,F
+Estonia,2004,1,1,F
+Estonia,2005,1,1,F
+Estonia,2006,1,1,F
+Estonia,2007,1,1,F
+Estonia,2008,1,1,F
+Estonia,2009,1,1,F
+Estonia,2010,1,1,F
+Estonia,2011,1,1,F
+Estonia,2012,1,1,F
+Estonia,2013,1,1,F
+Estonia,2014,1,1,F
+Estonia,2015,1,1,F
+Estonia,2016,1,1,F
+Estonia,2017,1,1,F
+Estonia,2018,1,1,F
+Estonia,2019,1,1,F
+Estonia,2020,1,1,F
+Eswatini,1995,5,6,NF
+Eswatini,1996,5,6,NF
+Eswatini,1997,5,6,NF
+Eswatini,1998,4,6,NF
+Eswatini,1999,5,6,NF
+Eswatini,2000,5,6,NF
+Eswatini,2001,5,6,NF
+Eswatini,2002,5,6,NF
+Eswatini,2003,5,7,NF
+Eswatini,2004,5,7,NF
+Eswatini,2005,5,7,NF
+Eswatini,2006,5,7,NF
+Eswatini,2007,5,7,NF
+Eswatini,2008,5,7,NF
+Eswatini,2009,5,7,NF
+Eswatini,2010,5,7,NF
+Eswatini,2011,5,7,NF
+Eswatini,2012,5,7,NF
+Eswatini,2013,5,7,NF
+Eswatini,2014,5,7,NF
+Eswatini,2015,5,7,NF
+Eswatini,2016,5,7,NF
+Eswatini,2017,6,7,NF
+Eswatini,2018,6,7,NF
+Eswatini,2019,5,7,NF
+Eswatini,2020,5,7,NF
+Ethiopia,1995,5,4,PF
+Ethiopia,1996,5,4,PF
+Ethiopia,1997,5,4,PF
+Ethiopia,1998,4,4,PF
+Ethiopia,1999,5,5,PF
+Ethiopia,2000,5,5,PF
+Ethiopia,2001,5,5,PF
+Ethiopia,2002,5,5,PF
+Ethiopia,2003,5,5,PF
+Ethiopia,2004,5,5,PF
+Ethiopia,2005,5,5,PF
+Ethiopia,2006,5,5,PF
+Ethiopia,2007,5,5,PF
+Ethiopia,2008,5,5,PF
+Ethiopia,2009,5,5,PF
+Ethiopia,2010,6,6,NF
+Ethiopia,2011,6,6,NF
+Ethiopia,2012,6,6,NF
+Ethiopia,2013,6,6,NF
+Ethiopia,2014,6,6,NF
+Ethiopia,2015,6,7,NF
+Ethiopia,2016,6,7,NF
+Ethiopia,2017,6,7,NF
+Ethiopia,2018,6,6,NF
+Ethiopia,2019,6,6,NF
+Ethiopia,2020,6,6,NF
+Fiji,1995,3,4,PF
+Fiji,1996,3,4,PF
+Fiji,1997,3,4,PF
+Fiji,1998,3,4,PF
+Fiji,1999,3,2,F
+Fiji,2000,3,6,PF
+Fiji,2001,3,4,PF
+Fiji,2002,3,4,PF
+Fiji,2003,3,4,PF
+Fiji,2004,3,4,PF
+Fiji,2005,3,4,PF
+Fiji,2006,4,6,PF
+Fiji,2007,4,6,PF
+Fiji,2008,4,6,PF
+Fiji,2009,4,6,PF
+Fiji,2010,4,6,PF
+Fiji,2011,4,6,PF
+Fiji,2012,4,6,PF
+Fiji,2013,4,6,PF
+Fiji,2014,4,3,PF
+Fiji,2015,3,3,PF
+Fiji,2016,4,3,PF
+Fiji,2017,3,3,PF
+Fiji,2018,3,3,PF
+Fiji,2019,3,3,PF
+Fiji,2020,3,3,PF
+Finland,1995,1,1,F
+Finland,1996,1,1,F
+Finland,1997,1,1,F
+Finland,1998,1,1,F
+Finland,1999,1,1,F
+Finland,2000,1,1,F
+Finland,2001,1,1,F
+Finland,2002,1,1,F
+Finland,2003,1,1,F
+Finland,2004,1,1,F
+Finland,2005,1,1,F
+Finland,2006,1,1,F
+Finland,2007,1,1,F
+Finland,2008,1,1,F
+Finland,2009,1,1,F
+Finland,2010,1,1,F
+Finland,2011,1,1,F
+Finland,2012,1,1,F
+Finland,2013,1,1,F
+Finland,2014,1,1,F
+Finland,2015,1,1,F
+Finland,2016,1,1,F
+Finland,2017,1,1,F
+Finland,2018,1,1,F
+Finland,2019,1,1,F
+Finland,2020,1,1,F
+France,1995,2,1,F
+France,1996,2,1,F
+France,1997,2,1,F
+France,1998,2,1,F
+France,1999,2,1,F
+France,2000,2,1,F
+France,2001,2,1,F
+France,2002,1,1,F
+France,2003,1,1,F
+France,2004,1,1,F
+France,2005,1,1,F
+France,2006,1,1,F
+France,2007,1,1,F
+France,2008,1,1,F
+France,2009,1,1,F
+France,2010,1,1,F
+France,2011,1,1,F
+France,2012,1,1,F
+France,2013,1,1,F
+France,2014,1,1,F
+France,2015,1,1,F
+France,2016,2,1,F
+France,2017,2,1,F
+France,2018,2,1,F
+France,2019,2,1,F
+France,2020,2,1,F
+Gabon,1995,4,5,PF
+Gabon,1996,4,5,PF
+Gabon,1997,4,5,PF
+Gabon,1998,4,5,PF
+Gabon,1999,4,5,PF
+Gabon,2000,4,5,PF
+Gabon,2001,4,5,PF
+Gabon,2002,4,5,PF
+Gabon,2003,4,5,PF
+Gabon,2004,4,5,PF
+Gabon,2005,4,6,PF
+Gabon,2006,4,6,PF
+Gabon,2007,4,6,PF
+Gabon,2008,4,6,PF
+Gabon,2009,5,6,NF
+Gabon,2010,5,6,NF
+Gabon,2011,5,6,NF
+Gabon,2012,5,6,NF
+Gabon,2013,5,6,NF
+Gabon,2014,5,6,NF
+Gabon,2015,5,6,NF
+Gabon,2016,5,6,NF
+Gabon,2017,5,7,NF
+Gabon,2018,5,7,NF
+Gabon,2019,5,7,NF
+Gabon,2020,5,7,NF
+Georgia,1995,5,4,PF
+Georgia,1996,4,4,PF
+Georgia,1997,4,3,PF
+Georgia,1998,4,3,PF
+Georgia,1999,4,3,PF
+Georgia,2000,4,4,PF
+Georgia,2001,4,4,PF
+Georgia,2002,4,4,PF
+Georgia,2003,4,4,PF
+Georgia,2004,4,3,PF
+Georgia,2005,3,3,PF
+Georgia,2006,3,3,PF
+Georgia,2007,4,4,PF
+Georgia,2008,4,4,PF
+Georgia,2009,4,4,PF
+Georgia,2010,3,4,PF
+Georgia,2011,3,4,PF
+Georgia,2012,3,3,PF
+Georgia,2013,3,3,PF
+Georgia,2014,3,3,PF
+Georgia,2015,3,3,PF
+Georgia,2016,3,3,PF
+Georgia,2017,3,3,PF
+Georgia,2018,3,3,PF
+Georgia,2019,3,3,PF
+Georgia,2020,3,4,PF
+Germany,1995,2,1,F
+Germany,1996,2,1,F
+Germany,1997,2,1,F
+Germany,1998,2,1,F
+Germany,1999,2,1,F
+Germany,2000,2,1,F
+Germany,2001,2,1,F
+Germany,2002,1,1,F
+Germany,2003,1,1,F
+Germany,2004,1,1,F
+Germany,2005,1,1,F
+Germany,2006,1,1,F
+Germany,2007,1,1,F
+Germany,2008,1,1,F
+Germany,2009,1,1,F
+Germany,2010,1,1,F
+Germany,2011,1,1,F
+Germany,2012,1,1,F
+Germany,2013,1,1,F
+Germany,2014,1,1,F
+Germany,2015,1,1,F
+Germany,2016,1,1,F
+Germany,2017,1,1,F
+Germany,2018,1,1,F
+Germany,2019,1,1,F
+Germany,2020,1,1,F
+"Germany, E.",1995,NA,NA,NA
+"Germany, E.",1996,NA,NA,NA
+"Germany, E.",1997,NA,NA,NA
+"Germany, E.",1998,NA,NA,NA
+"Germany, E.",1999,NA,NA,NA
+"Germany, E.",2000,NA,NA,NA
+"Germany, E.",2001,NA,NA,NA
+"Germany, E.",2002,NA,NA,NA
+"Germany, E.",2003,NA,NA,NA
+"Germany, E.",2004,NA,NA,NA
+"Germany, E.",2005,NA,NA,NA
+"Germany, E.",2006,NA,NA,NA
+"Germany, E.",2007,NA,NA,NA
+"Germany, E.",2008,NA,NA,NA
+"Germany, E.",2009,NA,NA,NA
+"Germany, E.",2010,NA,NA,NA
+"Germany, E.",2011,NA,NA,NA
+"Germany, E.",2012,NA,NA,NA
+"Germany, E.",2013,NA,NA,NA
+"Germany, E.",2014,NA,NA,NA
+"Germany, E.",2015,NA,NA,NA
+"Germany, E.",2016,NA,NA,NA
+"Germany, E.",2017,NA,NA,NA
+"Germany, E.",2018,NA,NA,NA
+"Germany, E.",2019,NA,NA,NA
+"Germany, E.",2020,NA,NA,NA
+"Germany, W.",1995,NA,NA,NA
+"Germany, W.",1996,NA,NA,NA
+"Germany, W.",1997,NA,NA,NA
+"Germany, W.",1998,NA,NA,NA
+"Germany, W.",1999,NA,NA,NA
+"Germany, W.",2000,NA,NA,NA
+"Germany, W.",2001,NA,NA,NA
+"Germany, W.",2002,NA,NA,NA
+"Germany, W.",2003,NA,NA,NA
+"Germany, W.",2004,NA,NA,NA
+"Germany, W.",2005,NA,NA,NA
+"Germany, W.",2006,NA,NA,NA
+"Germany, W.",2007,NA,NA,NA
+"Germany, W.",2008,NA,NA,NA
+"Germany, W.",2009,NA,NA,NA
+"Germany, W.",2010,NA,NA,NA
+"Germany, W.",2011,NA,NA,NA
+"Germany, W.",2012,NA,NA,NA
+"Germany, W.",2013,NA,NA,NA
+"Germany, W.",2014,NA,NA,NA
+"Germany, W.",2015,NA,NA,NA
+"Germany, W.",2016,NA,NA,NA
+"Germany, W.",2017,NA,NA,NA
+"Germany, W.",2018,NA,NA,NA
+"Germany, W.",2019,NA,NA,NA
+"Germany, W.",2020,NA,NA,NA
+Ghana,1995,4,4,PF
+Ghana,1996,4,3,PF
+Ghana,1997,3,3,PF
+Ghana,1998,3,3,PF
+Ghana,1999,3,3,PF
+Ghana,2000,3,2,F
+Ghana,2001,3,2,F
+Ghana,2002,3,2,F
+Ghana,2003,2,2,F
+Ghana,2004,2,2,F
+Ghana,2005,2,1,F
+Ghana,2006,2,1,F
+Ghana,2007,2,1,F
+Ghana,2008,2,1,F
+Ghana,2009,2,1,F
+Ghana,2010,2,1,F
+Ghana,2011,2,1,F
+Ghana,2012,2,1,F
+Ghana,2013,2,1,F
+Ghana,2014,2,1,F
+Ghana,2015,2,1,F
+Ghana,2016,2,1,F
+Ghana,2017,2,1,F
+Ghana,2018,2,1,F
+Ghana,2019,2,2,F
+Ghana,2020,2,2,F
+Greece,1995,3,1,F
+Greece,1996,3,1,F
+Greece,1997,3,1,F
+Greece,1998,3,1,F
+Greece,1999,3,1,F
+Greece,2000,3,1,F
+Greece,2001,3,1,F
+Greece,2002,2,1,F
+Greece,2003,2,1,F
+Greece,2004,2,1,F
+Greece,2005,2,1,F
+Greece,2006,2,1,F
+Greece,2007,2,1,F
+Greece,2008,2,1,F
+Greece,2009,2,1,F
+Greece,2010,2,1,F
+Greece,2011,2,2,F
+Greece,2012,2,2,F
+Greece,2013,2,2,F
+Greece,2014,2,2,F
+Greece,2015,2,2,F
+Greece,2016,2,2,F
+Greece,2017,2,2,F
+Greece,2018,2,1,F
+Greece,2019,2,1,F
+Greece,2020,2,1,F
+Grenada,1995,2,1,F
+Grenada,1996,2,1,F
+Grenada,1997,2,1,F
+Grenada,1998,2,1,F
+Grenada,1999,2,1,F
+Grenada,2000,2,1,F
+Grenada,2001,2,1,F
+Grenada,2002,2,1,F
+Grenada,2003,2,1,F
+Grenada,2004,2,1,F
+Grenada,2005,2,1,F
+Grenada,2006,2,1,F
+Grenada,2007,2,1,F
+Grenada,2008,2,1,F
+Grenada,2009,2,1,F
+Grenada,2010,2,1,F
+Grenada,2011,2,1,F
+Grenada,2012,2,1,F
+Grenada,2013,2,1,F
+Grenada,2014,2,1,F
+Grenada,2015,2,1,F
+Grenada,2016,2,1,F
+Grenada,2017,2,1,F
+Grenada,2018,2,1,F
+Grenada,2019,2,1,F
+Grenada,2020,2,1,F
+Guatemala,1995,5,4,PF
+Guatemala,1996,4,3,PF
+Guatemala,1997,4,3,PF
+Guatemala,1998,4,3,PF
+Guatemala,1999,4,3,PF
+Guatemala,2000,4,3,PF
+Guatemala,2001,4,3,PF
+Guatemala,2002,4,4,PF
+Guatemala,2003,4,4,PF
+Guatemala,2004,4,4,PF
+Guatemala,2005,4,4,PF
+Guatemala,2006,4,3,PF
+Guatemala,2007,4,3,PF
+Guatemala,2008,4,3,PF
+Guatemala,2009,4,4,PF
+Guatemala,2010,4,4,PF
+Guatemala,2011,4,3,PF
+Guatemala,2012,4,3,PF
+Guatemala,2013,4,3,PF
+Guatemala,2014,4,3,PF
+Guatemala,2015,4,4,PF
+Guatemala,2016,4,4,PF
+Guatemala,2017,4,4,PF
+Guatemala,2018,4,4,PF
+Guatemala,2019,4,4,PF
+Guatemala,2020,4,4,PF
+Guinea,1995,5,6,NF
+Guinea,1996,5,6,NF
+Guinea,1997,5,6,NF
+Guinea,1998,5,6,NF
+Guinea,1999,5,6,NF
+Guinea,2000,5,6,NF
+Guinea,2001,5,6,NF
+Guinea,2002,5,6,NF
+Guinea,2003,5,6,NF
+Guinea,2004,5,6,NF
+Guinea,2005,5,6,NF
+Guinea,2006,5,6,NF
+Guinea,2007,5,6,NF
+Guinea,2008,5,7,NF
+Guinea,2009,6,7,NF
+Guinea,2010,5,5,PF
+Guinea,2011,5,5,PF
+Guinea,2012,5,5,PF
+Guinea,2013,5,5,PF
+Guinea,2014,5,5,PF
+Guinea,2015,5,5,PF
+Guinea,2016,5,5,PF
+Guinea,2017,5,5,PF
+Guinea,2018,4,5,PF
+Guinea,2019,5,5,PF
+Guinea,2020,5,5,PF
+Guinea-Bissau,1995,4,3,PF
+Guinea-Bissau,1996,4,3,PF
+Guinea-Bissau,1997,4,3,PF
+Guinea-Bissau,1998,5,3,PF
+Guinea-Bissau,1999,5,3,PF
+Guinea-Bissau,2000,5,4,PF
+Guinea-Bissau,2001,5,4,PF
+Guinea-Bissau,2002,5,4,PF
+Guinea-Bissau,2003,4,6,PF
+Guinea-Bissau,2004,4,4,PF
+Guinea-Bissau,2005,4,3,PF
+Guinea-Bissau,2006,4,4,PF
+Guinea-Bissau,2007,4,4,PF
+Guinea-Bissau,2008,4,4,PF
+Guinea-Bissau,2009,4,4,PF
+Guinea-Bissau,2010,4,4,PF
+Guinea-Bissau,2011,4,4,PF
+Guinea-Bissau,2012,5,6,NF
+Guinea-Bissau,2013,5,6,NF
+Guinea-Bissau,2014,5,5,PF
+Guinea-Bissau,2015,5,5,PF
+Guinea-Bissau,2016,5,5,PF
+Guinea-Bissau,2017,5,5,PF
+Guinea-Bissau,2018,4,5,PF
+Guinea-Bissau,2019,4,5,PF
+Guinea-Bissau,2020,4,5,PF
+Guyana,1995,2,2,F
+Guyana,1996,2,2,F
+Guyana,1997,2,2,F
+Guyana,1998,2,2,F
+Guyana,1999,2,2,F
+Guyana,2000,2,2,F
+Guyana,2001,2,2,F
+Guyana,2002,2,2,F
+Guyana,2003,2,2,F
+Guyana,2004,2,2,F
+Guyana,2005,3,3,PF
+Guyana,2006,3,2,F
+Guyana,2007,3,2,F
+Guyana,2008,3,2,F
+Guyana,2009,3,2,F
+Guyana,2010,3,2,F
+Guyana,2011,3,2,F
+Guyana,2012,3,2,F
+Guyana,2013,3,2,F
+Guyana,2014,3,2,F
+Guyana,2015,3,2,F
+Guyana,2016,3,2,F
+Guyana,2017,3,2,F
+Guyana,2018,3,2,F
+Guyana,2019,3,2,F
+Guyana,2020,3,2,F
+Haiti,1995,5,5,PF
+Haiti,1996,5,4,PF
+Haiti,1997,5,4,PF
+Haiti,1998,5,5,PF
+Haiti,1999,5,5,PF
+Haiti,2000,5,6,NF
+Haiti,2001,6,6,NF
+Haiti,2002,6,6,NF
+Haiti,2003,6,6,NF
+Haiti,2004,6,7,NF
+Haiti,2005,6,7,NF
+Haiti,2006,5,4,PF
+Haiti,2007,5,4,PF
+Haiti,2008,5,4,PF
+Haiti,2009,5,4,PF
+Haiti,2010,5,4,PF
+Haiti,2011,5,4,PF
+Haiti,2012,5,4,PF
+Haiti,2013,5,4,PF
+Haiti,2014,5,5,PF
+Haiti,2015,5,5,PF
+Haiti,2016,5,5,PF
+Haiti,2017,5,5,PF
+Haiti,2018,5,5,PF
+Haiti,2019,5,5,PF
+Haiti,2020,5,5,PF
+Honduras,1995,3,3,PF
+Honduras,1996,3,3,PF
+Honduras,1997,3,2,F
+Honduras,1998,3,2,F
+Honduras,1999,3,3,PF
+Honduras,2000,3,3,PF
+Honduras,2001,3,3,PF
+Honduras,2002,3,3,PF
+Honduras,2003,3,3,PF
+Honduras,2004,3,3,PF
+Honduras,2005,3,3,PF
+Honduras,2006,3,3,PF
+Honduras,2007,3,3,PF
+Honduras,2008,3,3,PF
+Honduras,2009,4,4,PF
+Honduras,2010,4,4,PF
+Honduras,2011,4,4,PF
+Honduras,2012,4,4,PF
+Honduras,2013,4,4,PF
+Honduras,2014,4,4,PF
+Honduras,2015,4,4,PF
+Honduras,2016,4,4,PF
+Honduras,2017,4,4,PF
+Honduras,2018,4,4,PF
+Honduras,2019,4,4,PF
+Honduras,2020,5,4,PF
+Hungary,1995,2,1,F
+Hungary,1996,2,1,F
+Hungary,1997,2,1,F
+Hungary,1998,2,1,F
+Hungary,1999,2,1,F
+Hungary,2000,2,1,F
+Hungary,2001,2,1,F
+Hungary,2002,2,1,F
+Hungary,2003,2,1,F
+Hungary,2004,1,1,F
+Hungary,2005,1,1,F
+Hungary,2006,1,1,F
+Hungary,2007,1,1,F
+Hungary,2008,1,1,F
+Hungary,2009,1,1,F
+Hungary,2010,1,1,F
+Hungary,2011,2,1,F
+Hungary,2012,2,1,F
+Hungary,2013,2,1,F
+Hungary,2014,2,2,F
+Hungary,2015,2,2,F
+Hungary,2016,2,3,F
+Hungary,2017,2,3,F
+Hungary,2018,3,3,PF
+Hungary,2019,3,3,PF
+Hungary,2020,3,3,PF
+Iceland,1995,1,1,F
+Iceland,1996,1,1,F
+Iceland,1997,1,1,F
+Iceland,1998,1,1,F
+Iceland,1999,1,1,F
+Iceland,2000,1,1,F
+Iceland,2001,1,1,F
+Iceland,2002,1,1,F
+Iceland,2003,1,1,F
+Iceland,2004,1,1,F
+Iceland,2005,1,1,F
+Iceland,2006,1,1,F
+Iceland,2007,1,1,F
+Iceland,2008,1,1,F
+Iceland,2009,1,1,F
+Iceland,2010,1,1,F
+Iceland,2011,1,1,F
+Iceland,2012,1,1,F
+Iceland,2013,1,1,F
+Iceland,2014,1,1,F
+Iceland,2015,1,1,F
+Iceland,2016,1,1,F
+Iceland,2017,1,1,F
+Iceland,2018,1,1,F
+Iceland,2019,1,1,F
+Iceland,2020,1,1,F
+India,1995,4,4,PF
+India,1996,4,2,PF
+India,1997,4,2,PF
+India,1998,3,2,F
+India,1999,3,2,F
+India,2000,3,2,F
+India,2001,3,2,F
+India,2002,3,2,F
+India,2003,3,2,F
+India,2004,3,2,F
+India,2005,3,2,F
+India,2006,3,2,F
+India,2007,3,2,F
+India,2008,3,2,F
+India,2009,3,2,F
+India,2010,3,2,F
+India,2011,3,2,F
+India,2012,3,2,F
+India,2013,3,2,F
+India,2014,3,2,F
+India,2015,3,2,F
+India,2016,3,2,F
+India,2017,3,2,F
+India,2018,3,2,F
+India,2019,3,2,F
+India,2020,4,2,PF
+Indonesia,1995,6,7,NF
+Indonesia,1996,5,7,NF
+Indonesia,1997,5,7,NF
+Indonesia,1998,4,6,PF
+Indonesia,1999,4,4,PF
+Indonesia,2000,4,3,PF
+Indonesia,2001,4,3,PF
+Indonesia,2002,4,3,PF
+Indonesia,2003,4,3,PF
+Indonesia,2004,4,3,PF
+Indonesia,2005,3,2,F
+Indonesia,2006,3,2,F
+Indonesia,2007,3,2,F
+Indonesia,2008,3,2,F
+Indonesia,2009,3,2,F
+Indonesia,2010,3,2,F
+Indonesia,2011,3,2,F
+Indonesia,2012,3,2,F
+Indonesia,2013,4,2,PF
+Indonesia,2014,4,2,PF
+Indonesia,2015,4,2,PF
+Indonesia,2016,4,2,PF
+Indonesia,2017,4,2,PF
+Indonesia,2018,4,2,PF
+Indonesia,2019,4,2,PF
+Indonesia,2020,4,2,PF
+Iran,1995,7,6,NF
+Iran,1996,7,6,NF
+Iran,1997,7,6,NF
+Iran,1998,6,6,NF
+Iran,1999,6,6,NF
+Iran,2000,6,6,NF
+Iran,2001,6,6,NF
+Iran,2002,6,6,NF
+Iran,2003,6,6,NF
+Iran,2004,6,6,NF
+Iran,2005,6,6,NF
+Iran,2006,6,6,NF
+Iran,2007,6,6,NF
+Iran,2008,6,6,NF
+Iran,2009,6,6,NF
+Iran,2010,6,6,NF
+Iran,2011,6,6,NF
+Iran,2012,6,6,NF
+Iran,2013,6,6,NF
+Iran,2014,6,6,NF
+Iran,2015,6,6,NF
+Iran,2016,6,6,NF
+Iran,2017,6,6,NF
+Iran,2018,6,6,NF
+Iran,2019,6,6,NF
+Iran,2020,6,6,NF
+Iraq,1995,7,7,NF
+Iraq,1996,7,7,NF
+Iraq,1997,7,7,NF
+Iraq,1998,7,7,NF
+Iraq,1999,7,7,NF
+Iraq,2000,7,7,NF
+Iraq,2001,7,7,NF
+Iraq,2002,7,7,NF
+Iraq,2003,5,7,NF
+Iraq,2004,5,7,NF
+Iraq,2005,5,6,NF
+Iraq,2006,6,6,NF
+Iraq,2007,6,6,NF
+Iraq,2008,6,6,NF
+Iraq,2009,6,5,NF
+Iraq,2010,6,5,NF
+Iraq,2011,6,5,NF
+Iraq,2012,6,6,NF
+Iraq,2013,6,5,NF
+Iraq,2014,6,6,NF
+Iraq,2015,6,5,NF
+Iraq,2016,6,5,NF
+Iraq,2017,6,5,NF
+Iraq,2018,6,5,NF
+Iraq,2019,6,5,NF
+Iraq,2020,6,5,NF
+Ireland,1995,1,1,F
+Ireland,1996,1,1,F
+Ireland,1997,1,1,F
+Ireland,1998,1,1,F
+Ireland,1999,1,1,F
+Ireland,2000,1,1,F
+Ireland,2001,1,1,F
+Ireland,2002,1,1,F
+Ireland,2003,1,1,F
+Ireland,2004,1,1,F
+Ireland,2005,1,1,F
+Ireland,2006,1,1,F
+Ireland,2007,1,1,F
+Ireland,2008,1,1,F
+Ireland,2009,1,1,F
+Ireland,2010,1,1,F
+Ireland,2011,1,1,F
+Ireland,2012,1,1,F
+Ireland,2013,1,1,F
+Ireland,2014,1,1,F
+Ireland,2015,1,1,F
+Ireland,2016,1,1,F
+Ireland,2017,1,1,F
+Ireland,2018,1,1,F
+Ireland,2019,1,1,F
+Ireland,2020,1,1,F
+Israel,1995,3,1,F
+Israel,1996,3,1,F
+Israel,1997,3,1,F
+Israel,1998,3,1,F
+Israel,1999,2,1,F
+Israel,2000,3,1,F
+Israel,2001,3,1,F
+Israel,2002,3,1,F
+Israel,2003,3,1,F
+Israel,2004,3,1,F
+Israel,2005,2,1,F
+Israel,2006,2,1,F
+Israel,2007,2,1,F
+Israel,2008,2,1,F
+Israel,2009,2,1,F
+Israel,2010,2,1,F
+Israel,2011,2,1,F
+Israel,2012,2,1,F
+Israel,2013,2,1,F
+Israel,2014,2,1,F
+Israel,2015,2,1,F
+Israel,2016,2,1,F
+Israel,2017,3,1,F
+Israel,2018,3,2,F
+Israel,2019,3,2,F
+Israel,2020,3,2,F
+Italy,1995,2,1,F
+Italy,1996,2,1,F
+Italy,1997,2,1,F
+Italy,1998,2,1,F
+Italy,1999,2,1,F
+Italy,2000,2,1,F
+Italy,2001,2,1,F
+Italy,2002,1,1,F
+Italy,2003,1,1,F
+Italy,2004,1,1,F
+Italy,2005,1,1,F
+Italy,2006,1,1,F
+Italy,2007,1,1,F
+Italy,2008,2,1,F
+Italy,2009,2,1,F
+Italy,2010,2,1,F
+Italy,2011,1,1,F
+Italy,2012,1,2,F
+Italy,2013,1,1,F
+Italy,2014,1,1,F
+Italy,2015,1,1,F
+Italy,2016,1,1,F
+Italy,2017,1,1,F
+Italy,2018,1,1,F
+Italy,2019,1,1,F
+Italy,2020,1,1,F
+Jamaica,1995,3,2,F
+Jamaica,1996,3,2,F
+Jamaica,1997,3,2,F
+Jamaica,1998,2,2,F
+Jamaica,1999,2,2,F
+Jamaica,2000,2,2,F
+Jamaica,2001,3,2,F
+Jamaica,2002,3,2,F
+Jamaica,2003,3,2,F
+Jamaica,2004,3,2,F
+Jamaica,2005,3,2,F
+Jamaica,2006,3,2,F
+Jamaica,2007,3,2,F
+Jamaica,2008,3,2,F
+Jamaica,2009,3,2,F
+Jamaica,2010,3,2,F
+Jamaica,2011,3,2,F
+Jamaica,2012,3,2,F
+Jamaica,2013,3,2,F
+Jamaica,2014,3,2,F
+Jamaica,2015,3,2,F
+Jamaica,2016,3,2,F
+Jamaica,2017,3,2,F
+Jamaica,2018,2,2,F
+Jamaica,2019,2,2,F
+Jamaica,2020,2,2,F
+Japan,1995,2,1,F
+Japan,1996,2,1,F
+Japan,1997,2,1,F
+Japan,1998,2,1,F
+Japan,1999,2,1,F
+Japan,2000,2,1,F
+Japan,2001,2,1,F
+Japan,2002,2,1,F
+Japan,2003,2,1,F
+Japan,2004,2,1,F
+Japan,2005,2,1,F
+Japan,2006,2,1,F
+Japan,2007,2,1,F
+Japan,2008,2,1,F
+Japan,2009,2,1,F
+Japan,2010,2,1,F
+Japan,2011,2,1,F
+Japan,2012,2,1,F
+Japan,2013,1,1,F
+Japan,2014,1,1,F
+Japan,2015,1,1,F
+Japan,2016,1,1,F
+Japan,2017,1,1,F
+Japan,2018,1,1,F
+Japan,2019,1,1,F
+Japan,2020,1,1,F
+Jordan,1995,4,4,PF
+Jordan,1996,4,4,PF
+Jordan,1997,4,4,PF
+Jordan,1998,5,4,PF
+Jordan,1999,4,4,PF
+Jordan,2000,4,4,PF
+Jordan,2001,5,5,PF
+Jordan,2002,5,6,PF
+Jordan,2003,5,5,PF
+Jordan,2004,4,5,PF
+Jordan,2005,4,5,PF
+Jordan,2006,4,5,PF
+Jordan,2007,4,5,PF
+Jordan,2008,5,5,PF
+Jordan,2009,5,6,NF
+Jordan,2010,5,6,NF
+Jordan,2011,5,6,NF
+Jordan,2012,5,6,NF
+Jordan,2013,5,6,NF
+Jordan,2014,5,6,NF
+Jordan,2015,5,6,NF
+Jordan,2016,5,5,PF
+Jordan,2017,5,5,PF
+Jordan,2018,5,5,PF
+Jordan,2019,5,5,PF
+Jordan,2020,5,6,NF
+Kazakhstan,1995,5,6,NF
+Kazakhstan,1996,5,6,NF
+Kazakhstan,1997,5,6,NF
+Kazakhstan,1998,5,6,NF
+Kazakhstan,1999,5,6,NF
+Kazakhstan,2000,5,6,NF
+Kazakhstan,2001,5,6,NF
+Kazakhstan,2002,5,6,NF
+Kazakhstan,2003,5,6,NF
+Kazakhstan,2004,5,6,NF
+Kazakhstan,2005,5,6,NF
+Kazakhstan,2006,5,6,NF
+Kazakhstan,2007,5,6,NF
+Kazakhstan,2008,5,6,NF
+Kazakhstan,2009,5,6,NF
+Kazakhstan,2010,5,6,NF
+Kazakhstan,2011,5,6,NF
+Kazakhstan,2012,5,6,NF
+Kazakhstan,2013,5,6,NF
+Kazakhstan,2014,5,6,NF
+Kazakhstan,2015,5,6,NF
+Kazakhstan,2016,5,7,NF
+Kazakhstan,2017,5,7,NF
+Kazakhstan,2018,5,7,NF
+Kazakhstan,2019,5,7,NF
+Kazakhstan,2020,5,7,NF
+Kenya,1995,6,7,NF
+Kenya,1996,6,7,NF
+Kenya,1997,6,6,NF
+Kenya,1998,5,6,NF
+Kenya,1999,5,6,NF
+Kenya,2000,5,6,NF
+Kenya,2001,5,6,NF
+Kenya,2002,4,4,PF
+Kenya,2003,3,3,PF
+Kenya,2004,3,3,PF
+Kenya,2005,3,3,PF
+Kenya,2006,3,3,PF
+Kenya,2007,3,4,PF
+Kenya,2008,3,4,PF
+Kenya,2009,4,4,PF
+Kenya,2010,3,4,PF
+Kenya,2011,3,4,PF
+Kenya,2012,4,4,PF
+Kenya,2013,4,4,PF
+Kenya,2014,4,4,PF
+Kenya,2015,4,4,PF
+Kenya,2016,4,4,PF
+Kenya,2017,4,4,PF
+Kenya,2018,4,4,PF
+Kenya,2019,4,4,PF
+Kenya,2020,4,4,PF
+Kiribati,1995,1,1,F
+Kiribati,1996,1,1,F
+Kiribati,1997,1,1,F
+Kiribati,1998,1,1,F
+Kiribati,1999,1,1,F
+Kiribati,2000,1,1,F
+Kiribati,2001,1,1,F
+Kiribati,2002,1,1,F
+Kiribati,2003,1,1,F
+Kiribati,2004,1,1,F
+Kiribati,2005,1,1,F
+Kiribati,2006,1,1,F
+Kiribati,2007,1,1,F
+Kiribati,2008,1,1,F
+Kiribati,2009,1,1,F
+Kiribati,2010,1,1,F
+Kiribati,2011,1,1,F
+Kiribati,2012,1,1,F
+Kiribati,2013,1,1,F
+Kiribati,2014,1,1,F
+Kiribati,2015,1,1,F
+Kiribati,2016,1,1,F
+Kiribati,2017,1,1,F
+Kiribati,2018,1,1,F
+Kiribati,2019,1,1,F
+Kiribati,2020,1,1,F
+Kosovo,1995,NA,NA,NA
+Kosovo,1996,NA,NA,NA
+Kosovo,1997,NA,NA,NA
+Kosovo,1998,NA,NA,NA
+Kosovo,1999,NA,NA,NA
+Kosovo,2000,NA,NA,NA
+Kosovo,2001,NA,NA,NA
+Kosovo,2002,NA,NA,NA
+Kosovo,2003,NA,NA,NA
+Kosovo,2004,NA,NA,NA
+Kosovo,2005,NA,NA,NA
+Kosovo,2006,NA,NA,NA
+Kosovo,2007,NA,NA,NA
+Kosovo,2008,NA,NA,NA
+Kosovo,2009,4,5,PF
+Kosovo,2010,4,5,PF
+Kosovo,2011,4,5,PF
+Kosovo,2012,4,5,PF
+Kosovo,2013,4,5,PF
+Kosovo,2014,4,4,PF
+Kosovo,2015,4,3,PF
+Kosovo,2016,4,3,PF
+Kosovo,2017,4,3,PF
+Kosovo,2018,4,3,PF
+Kosovo,2019,4,3,PF
+Kosovo,2020,4,4,PF
+Kuwait,1995,5,5,PF
+Kuwait,1996,5,5,PF
+Kuwait,1997,5,5,PF
+Kuwait,1998,5,5,PF
+Kuwait,1999,5,4,PF
+Kuwait,2000,5,4,PF
+Kuwait,2001,5,4,PF
+Kuwait,2002,5,4,PF
+Kuwait,2003,5,4,PF
+Kuwait,2004,5,4,PF
+Kuwait,2005,5,4,PF
+Kuwait,2006,4,4,PF
+Kuwait,2007,4,4,PF
+Kuwait,2008,4,4,PF
+Kuwait,2009,4,4,PF
+Kuwait,2010,5,4,PF
+Kuwait,2011,5,4,PF
+Kuwait,2012,5,5,PF
+Kuwait,2013,5,5,PF
+Kuwait,2014,5,5,PF
+Kuwait,2015,5,5,PF
+Kuwait,2016,5,5,PF
+Kuwait,2017,5,5,PF
+Kuwait,2018,5,5,PF
+Kuwait,2019,5,5,PF
+Kuwait,2020,5,5,PF
+Kyrgyzstan,1995,4,4,PF
+Kyrgyzstan,1996,4,4,PF
+Kyrgyzstan,1997,4,4,PF
+Kyrgyzstan,1998,5,5,PF
+Kyrgyzstan,1999,5,5,PF
+Kyrgyzstan,2000,5,6,NF
+Kyrgyzstan,2001,5,6,NF
+Kyrgyzstan,2002,5,6,NF
+Kyrgyzstan,2003,5,6,NF
+Kyrgyzstan,2004,5,6,NF
+Kyrgyzstan,2005,4,5,PF
+Kyrgyzstan,2006,4,5,PF
+Kyrgyzstan,2007,4,5,PF
+Kyrgyzstan,2008,4,5,PF
+Kyrgyzstan,2009,5,6,NF
+Kyrgyzstan,2010,5,5,PF
+Kyrgyzstan,2011,5,5,PF
+Kyrgyzstan,2012,5,5,PF
+Kyrgyzstan,2013,5,5,PF
+Kyrgyzstan,2014,5,5,PF
+Kyrgyzstan,2015,5,5,PF
+Kyrgyzstan,2016,5,5,PF
+Kyrgyzstan,2017,5,5,PF
+Kyrgyzstan,2018,4,5,PF
+Kyrgyzstan,2019,4,5,PF
+Kyrgyzstan,2020,5,7,NF
+Laos,1995,6,7,NF
+Laos,1996,6,7,NF
+Laos,1997,6,7,NF
+Laos,1998,6,7,NF
+Laos,1999,6,7,NF
+Laos,2000,6,7,NF
+Laos,2001,6,7,NF
+Laos,2002,6,7,NF
+Laos,2003,6,7,NF
+Laos,2004,6,7,NF
+Laos,2005,6,7,NF
+Laos,2006,6,7,NF
+Laos,2007,6,7,NF
+Laos,2008,6,7,NF
+Laos,2009,6,7,NF
+Laos,2010,6,7,NF
+Laos,2011,6,7,NF
+Laos,2012,6,7,NF
+Laos,2013,6,7,NF
+Laos,2014,6,7,NF
+Laos,2015,6,7,NF
+Laos,2016,6,7,NF
+Laos,2017,6,7,NF
+Laos,2018,6,7,NF
+Laos,2019,6,7,NF
+Laos,2020,6,7,NF
+Latvia,1995,2,2,F
+Latvia,1996,2,2,F
+Latvia,1997,2,1,F
+Latvia,1998,2,1,F
+Latvia,1999,2,1,F
+Latvia,2000,2,1,F
+Latvia,2001,2,1,F
+Latvia,2002,2,1,F
+Latvia,2003,2,1,F
+Latvia,2004,2,1,F
+Latvia,2005,1,1,F
+Latvia,2006,1,1,F
+Latvia,2007,1,2,F
+Latvia,2008,1,2,F
+Latvia,2009,1,2,F
+Latvia,2010,2,2,F
+Latvia,2011,2,2,F
+Latvia,2012,2,2,F
+Latvia,2013,2,2,F
+Latvia,2014,2,2,F
+Latvia,2015,2,2,F
+Latvia,2016,2,1,F
+Latvia,2017,2,2,F
+Latvia,2018,2,2,F
+Latvia,2019,2,1,F
+Latvia,2020,2,1,F
+Lebanon,1995,5,6,NF
+Lebanon,1996,5,6,NF
+Lebanon,1997,5,6,NF
+Lebanon,1998,5,6,NF
+Lebanon,1999,5,6,NF
+Lebanon,2000,5,6,NF
+Lebanon,2001,5,6,NF
+Lebanon,2002,5,6,NF
+Lebanon,2003,5,6,NF
+Lebanon,2004,5,6,NF
+Lebanon,2005,4,5,PF
+Lebanon,2006,4,5,PF
+Lebanon,2007,4,5,PF
+Lebanon,2008,4,5,PF
+Lebanon,2009,3,5,PF
+Lebanon,2010,3,5,PF
+Lebanon,2011,4,5,PF
+Lebanon,2012,4,5,PF
+Lebanon,2013,4,5,PF
+Lebanon,2014,4,5,PF
+Lebanon,2015,4,5,PF
+Lebanon,2016,4,5,PF
+Lebanon,2017,4,6,PF
+Lebanon,2018,4,5,PF
+Lebanon,2019,4,5,PF
+Lebanon,2020,4,5,PF
+Lesotho,1995,4,4,PF
+Lesotho,1996,4,4,PF
+Lesotho,1997,4,4,PF
+Lesotho,1998,4,4,PF
+Lesotho,1999,4,4,PF
+Lesotho,2000,4,4,PF
+Lesotho,2001,4,4,PF
+Lesotho,2002,3,2,F
+Lesotho,2003,3,2,F
+Lesotho,2004,3,2,F
+Lesotho,2005,3,2,F
+Lesotho,2006,3,2,F
+Lesotho,2007,3,2,F
+Lesotho,2008,3,2,F
+Lesotho,2009,3,3,PF
+Lesotho,2010,3,3,PF
+Lesotho,2011,3,3,PF
+Lesotho,2012,3,2,F
+Lesotho,2013,3,2,F
+Lesotho,2014,3,2,F
+Lesotho,2015,3,3,PF
+Lesotho,2016,3,3,PF
+Lesotho,2017,3,3,PF
+Lesotho,2018,3,3,PF
+Lesotho,2019,3,3,PF
+Lesotho,2020,3,3,PF
+Liberia,1995,6,7,NF
+Liberia,1996,6,7,NF
+Liberia,1997,5,4,PF
+Liberia,1998,5,4,PF
+Liberia,1999,5,4,PF
+Liberia,2000,6,5,PF
+Liberia,2001,6,6,NF
+Liberia,2002,6,6,NF
+Liberia,2003,6,6,NF
+Liberia,2004,4,5,PF
+Liberia,2005,4,4,PF
+Liberia,2006,4,3,PF
+Liberia,2007,4,3,PF
+Liberia,2008,4,3,PF
+Liberia,2009,4,3,PF
+Liberia,2010,4,3,PF
+Liberia,2011,4,3,PF
+Liberia,2012,4,3,PF
+Liberia,2013,4,3,PF
+Liberia,2014,4,3,PF
+Liberia,2015,4,3,PF
+Liberia,2016,4,3,PF
+Liberia,2017,3,3,PF
+Liberia,2018,3,3,PF
+Liberia,2019,4,3,PF
+Liberia,2020,4,3,PF
+Libya,1995,7,7,NF
+Libya,1996,7,7,NF
+Libya,1997,7,7,NF
+Libya,1998,7,7,NF
+Libya,1999,7,7,NF
+Libya,2000,7,7,NF
+Libya,2001,7,7,NF
+Libya,2002,7,7,NF
+Libya,2003,7,7,NF
+Libya,2004,7,7,NF
+Libya,2005,7,7,NF
+Libya,2006,7,7,NF
+Libya,2007,7,7,NF
+Libya,2008,7,7,NF
+Libya,2009,7,7,NF
+Libya,2010,7,7,NF
+Libya,2011,6,7,NF
+Libya,2012,5,4,PF
+Libya,2013,5,4,PF
+Libya,2014,6,6,NF
+Libya,2015,6,6,NF
+Libya,2016,6,7,NF
+Libya,2017,6,7,NF
+Libya,2018,6,7,NF
+Libya,2019,6,7,NF
+Libya,2020,6,7,NF
+Liechtenstein,1995,1,1,F
+Liechtenstein,1996,1,1,F
+Liechtenstein,1997,1,1,F
+Liechtenstein,1998,1,1,F
+Liechtenstein,1999,1,1,F
+Liechtenstein,2000,1,1,F
+Liechtenstein,2001,1,1,F
+Liechtenstein,2002,1,1,F
+Liechtenstein,2003,1,1,F
+Liechtenstein,2004,1,1,F
+Liechtenstein,2005,1,1,F
+Liechtenstein,2006,1,1,F
+Liechtenstein,2007,1,1,F
+Liechtenstein,2008,1,1,F
+Liechtenstein,2009,1,1,F
+Liechtenstein,2010,1,1,F
+Liechtenstein,2011,1,1,F
+Liechtenstein,2012,1,1,F
+Liechtenstein,2013,1,1,F
+Liechtenstein,2014,1,1,F
+Liechtenstein,2015,1,1,F
+Liechtenstein,2016,1,2,F
+Liechtenstein,2017,1,2,F
+Liechtenstein,2018,1,2,F
+Liechtenstein,2019,1,2,F
+Liechtenstein,2020,1,2,F
+Lithuania,1995,2,1,F
+Lithuania,1996,2,1,F
+Lithuania,1997,2,1,F
+Lithuania,1998,2,1,F
+Lithuania,1999,2,1,F
+Lithuania,2000,2,1,F
+Lithuania,2001,2,1,F
+Lithuania,2002,2,1,F
+Lithuania,2003,2,1,F
+Lithuania,2004,2,2,F
+Lithuania,2005,1,1,F
+Lithuania,2006,1,1,F
+Lithuania,2007,1,1,F
+Lithuania,2008,1,1,F
+Lithuania,2009,1,1,F
+Lithuania,2010,1,1,F
+Lithuania,2011,1,1,F
+Lithuania,2012,1,1,F
+Lithuania,2013,1,1,F
+Lithuania,2014,1,1,F
+Lithuania,2015,1,1,F
+Lithuania,2016,1,1,F
+Lithuania,2017,1,1,F
+Lithuania,2018,1,1,F
+Lithuania,2019,1,1,F
+Lithuania,2020,2,1,F
+Luxembourg,1995,1,1,F
+Luxembourg,1996,1,1,F
+Luxembourg,1997,1,1,F
+Luxembourg,1998,1,1,F
+Luxembourg,1999,1,1,F
+Luxembourg,2000,1,1,F
+Luxembourg,2001,1,1,F
+Luxembourg,2002,1,1,F
+Luxembourg,2003,1,1,F
+Luxembourg,2004,1,1,F
+Luxembourg,2005,1,1,F
+Luxembourg,2006,1,1,F
+Luxembourg,2007,1,1,F
+Luxembourg,2008,1,1,F
+Luxembourg,2009,1,1,F
+Luxembourg,2010,1,1,F
+Luxembourg,2011,1,1,F
+Luxembourg,2012,1,1,F
+Luxembourg,2013,1,1,F
+Luxembourg,2014,1,1,F
+Luxembourg,2015,1,1,F
+Luxembourg,2016,1,1,F
+Luxembourg,2017,1,1,F
+Luxembourg,2018,1,1,F
+Luxembourg,2019,1,1,F
+Luxembourg,2020,1,1,F
+Madagascar,1995,4,2,PF
+Madagascar,1996,4,2,PF
+Madagascar,1997,4,2,PF
+Madagascar,1998,4,2,PF
+Madagascar,1999,4,2,PF
+Madagascar,2000,4,2,PF
+Madagascar,2001,4,2,PF
+Madagascar,2002,4,3,PF
+Madagascar,2003,3,3,PF
+Madagascar,2004,3,3,PF
+Madagascar,2005,3,3,PF
+Madagascar,2006,3,4,PF
+Madagascar,2007,3,4,PF
+Madagascar,2008,3,4,PF
+Madagascar,2009,4,6,PF
+Madagascar,2010,4,6,PF
+Madagascar,2011,4,6,PF
+Madagascar,2012,4,6,PF
+Madagascar,2013,4,5,PF
+Madagascar,2014,4,4,PF
+Madagascar,2015,4,3,PF
+Madagascar,2016,4,3,PF
+Madagascar,2017,4,3,PF
+Madagascar,2018,4,3,PF
+Madagascar,2019,3,3,PF
+Madagascar,2020,4,3,PF
+Malawi,1995,3,2,F
+Malawi,1996,3,2,F
+Malawi,1997,3,2,F
+Malawi,1998,3,2,F
+Malawi,1999,3,3,PF
+Malawi,2000,3,3,PF
+Malawi,2001,3,4,PF
+Malawi,2002,4,4,PF
+Malawi,2003,4,3,PF
+Malawi,2004,4,4,PF
+Malawi,2005,4,4,PF
+Malawi,2006,3,4,PF
+Malawi,2007,4,4,PF
+Malawi,2008,4,4,PF
+Malawi,2009,4,3,PF
+Malawi,2010,4,3,PF
+Malawi,2011,4,3,PF
+Malawi,2012,4,3,PF
+Malawi,2013,4,3,PF
+Malawi,2014,4,3,PF
+Malawi,2015,3,3,PF
+Malawi,2016,3,3,PF
+Malawi,2017,3,3,PF
+Malawi,2018,3,3,PF
+Malawi,2019,3,3,PF
+Malawi,2020,3,3,PF
+Malaysia,1995,5,4,PF
+Malaysia,1996,5,4,PF
+Malaysia,1997,5,4,PF
+Malaysia,1998,5,5,PF
+Malaysia,1999,5,5,PF
+Malaysia,2000,5,5,PF
+Malaysia,2001,5,5,PF
+Malaysia,2002,5,5,PF
+Malaysia,2003,4,5,PF
+Malaysia,2004,4,4,PF
+Malaysia,2005,4,4,PF
+Malaysia,2006,4,4,PF
+Malaysia,2007,4,4,PF
+Malaysia,2008,4,4,PF
+Malaysia,2009,4,4,PF
+Malaysia,2010,4,4,PF
+Malaysia,2011,4,4,PF
+Malaysia,2012,4,4,PF
+Malaysia,2013,4,4,PF
+Malaysia,2014,4,4,PF
+Malaysia,2015,4,4,PF
+Malaysia,2016,4,4,PF
+Malaysia,2017,4,4,PF
+Malaysia,2018,4,4,PF
+Malaysia,2019,4,4,PF
+Malaysia,2020,4,4,PF
+Maldives,1995,6,6,NF
+Maldives,1996,6,6,NF
+Maldives,1997,6,6,NF
+Maldives,1998,5,6,NF
+Maldives,1999,5,6,NF
+Maldives,2000,5,6,NF
+Maldives,2001,5,6,NF
+Maldives,2002,5,6,NF
+Maldives,2003,5,6,NF
+Maldives,2004,5,6,NF
+Maldives,2005,5,6,NF
+Maldives,2006,5,6,NF
+Maldives,2007,5,6,NF
+Maldives,2008,4,4,PF
+Maldives,2009,4,3,PF
+Maldives,2010,4,3,PF
+Maldives,2011,4,3,PF
+Maldives,2012,4,5,PF
+Maldives,2013,4,4,PF
+Maldives,2014,4,4,PF
+Maldives,2015,5,4,PF
+Maldives,2016,5,5,PF
+Maldives,2017,5,5,PF
+Maldives,2018,5,5,PF
+Maldives,2019,5,4,PF
+Maldives,2020,5,4,PF
+Mali,1995,3,2,F
+Mali,1996,2,2,F
+Mali,1997,3,3,F
+Mali,1998,3,3,F
+Mali,1999,3,3,F
+Mali,2000,3,2,F
+Mali,2001,3,2,F
+Mali,2002,3,2,F
+Mali,2003,2,2,F
+Mali,2004,2,2,F
+Mali,2005,2,2,F
+Mali,2006,2,2,F
+Mali,2007,3,2,F
+Mali,2008,3,2,F
+Mali,2009,3,2,F
+Mali,2010,3,2,F
+Mali,2011,3,2,F
+Mali,2012,5,7,NF
+Mali,2013,4,5,PF
+Mali,2014,4,5,PF
+Mali,2015,4,5,PF
+Mali,2016,4,5,PF
+Mali,2017,4,5,PF
+Mali,2018,4,4,PF
+Mali,2019,5,5,PF
+Mali,2020,5,6,NF
+Malta,1995,1,1,F
+Malta,1996,1,1,F
+Malta,1997,1,1,F
+Malta,1998,1,1,F
+Malta,1999,1,1,F
+Malta,2000,1,1,F
+Malta,2001,1,1,F
+Malta,2002,1,1,F
+Malta,2003,1,1,F
+Malta,2004,1,1,F
+Malta,2005,1,1,F
+Malta,2006,1,1,F
+Malta,2007,1,1,F
+Malta,2008,1,1,F
+Malta,2009,1,1,F
+Malta,2010,1,1,F
+Malta,2011,1,1,F
+Malta,2012,1,1,F
+Malta,2013,1,1,F
+Malta,2014,1,1,F
+Malta,2015,1,1,F
+Malta,2016,1,1,F
+Malta,2017,1,1,F
+Malta,2018,1,2,F
+Malta,2019,1,2,F
+Malta,2020,1,2,F
+Marshall Islands,1995,1,1,F
+Marshall Islands,1996,1,1,F
+Marshall Islands,1997,1,1,F
+Marshall Islands,1998,1,1,F
+Marshall Islands,1999,1,1,F
+Marshall Islands,2000,1,1,F
+Marshall Islands,2001,1,1,F
+Marshall Islands,2002,1,1,F
+Marshall Islands,2003,1,1,F
+Marshall Islands,2004,1,1,F
+Marshall Islands,2005,1,1,F
+Marshall Islands,2006,1,1,F
+Marshall Islands,2007,1,1,F
+Marshall Islands,2008,1,1,F
+Marshall Islands,2009,1,1,F
+Marshall Islands,2010,1,1,F
+Marshall Islands,2011,1,1,F
+Marshall Islands,2012,1,1,F
+Marshall Islands,2013,1,1,F
+Marshall Islands,2014,1,1,F
+Marshall Islands,2015,1,1,F
+Marshall Islands,2016,1,1,F
+Marshall Islands,2017,1,1,F
+Marshall Islands,2018,1,1,F
+Marshall Islands,2019,1,1,F
+Marshall Islands,2020,1,1,F
+Mauritania,1995,6,6,NF
+Mauritania,1996,6,6,NF
+Mauritania,1997,6,6,NF
+Mauritania,1998,5,6,NF
+Mauritania,1999,5,6,NF
+Mauritania,2000,5,6,NF
+Mauritania,2001,5,5,PF
+Mauritania,2002,5,5,PF
+Mauritania,2003,5,6,NF
+Mauritania,2004,5,6,NF
+Mauritania,2005,4,6,PF
+Mauritania,2006,4,5,PF
+Mauritania,2007,4,4,PF
+Mauritania,2008,5,6,NF
+Mauritania,2009,5,6,NF
+Mauritania,2010,5,6,NF
+Mauritania,2011,5,6,NF
+Mauritania,2012,5,6,NF
+Mauritania,2013,5,6,NF
+Mauritania,2014,5,6,NF
+Mauritania,2015,5,6,NF
+Mauritania,2016,5,6,NF
+Mauritania,2017,5,6,NF
+Mauritania,2018,5,6,NF
+Mauritania,2019,5,5,PF
+Mauritania,2020,5,5,PF
+Mauritius,1995,2,1,F
+Mauritius,1996,2,1,F
+Mauritius,1997,2,1,F
+Mauritius,1998,2,1,F
+Mauritius,1999,2,1,F
+Mauritius,2000,2,1,F
+Mauritius,2001,2,1,F
+Mauritius,2002,2,1,F
+Mauritius,2003,2,1,F
+Mauritius,2004,1,1,F
+Mauritius,2005,1,1,F
+Mauritius,2006,2,1,F
+Mauritius,2007,2,1,F
+Mauritius,2008,2,1,F
+Mauritius,2009,2,1,F
+Mauritius,2010,2,1,F
+Mauritius,2011,2,1,F
+Mauritius,2012,2,1,F
+Mauritius,2013,2,1,F
+Mauritius,2014,2,1,F
+Mauritius,2015,2,1,F
+Mauritius,2016,2,1,F
+Mauritius,2017,2,1,F
+Mauritius,2018,2,1,F
+Mauritius,2019,2,1,F
+Mauritius,2020,2,1,F
+Mexico,1995,4,4,PF
+Mexico,1996,3,4,PF
+Mexico,1997,4,3,PF
+Mexico,1998,4,3,PF
+Mexico,1999,4,3,PF
+Mexico,2000,3,2,F
+Mexico,2001,3,2,F
+Mexico,2002,2,2,F
+Mexico,2003,2,2,F
+Mexico,2004,2,2,F
+Mexico,2005,2,2,F
+Mexico,2006,3,2,F
+Mexico,2007,3,2,F
+Mexico,2008,3,2,F
+Mexico,2009,3,2,F
+Mexico,2010,3,3,PF
+Mexico,2011,3,3,PF
+Mexico,2012,3,3,PF
+Mexico,2013,3,3,PF
+Mexico,2014,3,3,PF
+Mexico,2015,3,3,PF
+Mexico,2016,3,3,PF
+Mexico,2017,3,3,PF
+Mexico,2018,3,3,PF
+Mexico,2019,3,3,PF
+Mexico,2020,4,3,PF
+Micronesia,1995,1,1,F
+Micronesia,1996,1,1,F
+Micronesia,1997,2,1,F
+Micronesia,1998,2,1,F
+Micronesia,1999,2,1,F
+Micronesia,2000,2,1,F
+Micronesia,2001,2,1,F
+Micronesia,2002,2,1,F
+Micronesia,2003,1,1,F
+Micronesia,2004,1,1,F
+Micronesia,2005,1,1,F
+Micronesia,2006,1,1,F
+Micronesia,2007,1,1,F
+Micronesia,2008,1,1,F
+Micronesia,2009,1,1,F
+Micronesia,2010,1,1,F
+Micronesia,2011,1,1,F
+Micronesia,2012,1,1,F
+Micronesia,2013,1,1,F
+Micronesia,2014,1,1,F
+Micronesia,2015,1,1,F
+Micronesia,2016,1,1,F
+Micronesia,2017,1,1,F
+Micronesia,2018,1,1,F
+Micronesia,2019,1,1,F
+Micronesia,2020,1,1,F
+Moldova,1995,4,4,PF
+Moldova,1996,4,3,PF
+Moldova,1997,4,3,PF
+Moldova,1998,4,2,PF
+Moldova,1999,4,2,PF
+Moldova,2000,4,2,PF
+Moldova,2001,4,2,PF
+Moldova,2002,4,3,PF
+Moldova,2003,4,3,PF
+Moldova,2004,4,3,PF
+Moldova,2005,4,3,PF
+Moldova,2006,4,3,PF
+Moldova,2007,4,3,PF
+Moldova,2008,4,4,PF
+Moldova,2009,4,3,PF
+Moldova,2010,3,3,PF
+Moldova,2011,3,3,PF
+Moldova,2012,3,3,PF
+Moldova,2013,3,3,PF
+Moldova,2014,3,3,PF
+Moldova,2015,3,3,PF
+Moldova,2016,3,3,PF
+Moldova,2017,3,3,PF
+Moldova,2018,4,3,PF
+Moldova,2019,4,3,PF
+Moldova,2020,3,3,PF
+Monaco,1995,1,2,F
+Monaco,1996,1,2,F
+Monaco,1997,1,2,F
+Monaco,1998,1,2,F
+Monaco,1999,1,2,F
+Monaco,2000,1,2,F
+Monaco,2001,1,2,F
+Monaco,2002,1,2,F
+Monaco,2003,1,2,F
+Monaco,2004,1,2,F
+Monaco,2005,1,2,F
+Monaco,2006,1,2,F
+Monaco,2007,1,2,F
+Monaco,2008,1,2,F
+Monaco,2009,1,2,F
+Monaco,2010,1,2,F
+Monaco,2011,1,2,F
+Monaco,2012,1,2,F
+Monaco,2013,1,2,F
+Monaco,2014,1,2,F
+Monaco,2015,1,2,F
+Monaco,2016,1,3,F
+Monaco,2017,1,3,F
+Monaco,2018,1,3,F
+Monaco,2019,1,3,F
+Monaco,2020,1,3,F
+Mongolia,1995,3,2,F
+Mongolia,1996,3,2,F
+Mongolia,1997,3,2,F
+Mongolia,1998,3,2,F
+Mongolia,1999,3,2,F
+Mongolia,2000,3,2,F
+Mongolia,2001,3,2,F
+Mongolia,2002,2,2,F
+Mongolia,2003,2,2,F
+Mongolia,2004,2,2,F
+Mongolia,2005,2,2,F
+Mongolia,2006,2,2,F
+Mongolia,2007,2,2,F
+Mongolia,2008,2,2,F
+Mongolia,2009,2,2,F
+Mongolia,2010,2,2,F
+Mongolia,2011,2,2,F
+Mongolia,2012,2,1,F
+Mongolia,2013,2,1,F
+Mongolia,2014,2,1,F
+Mongolia,2015,2,1,F
+Mongolia,2016,2,1,F
+Mongolia,2017,2,1,F
+Mongolia,2018,2,1,F
+Mongolia,2019,2,1,F
+Mongolia,2020,2,1,F
+Montenegro,1995,NA,NA,NA
+Montenegro,1996,NA,NA,NA
+Montenegro,1997,NA,NA,NA
+Montenegro,1998,NA,NA,NA
+Montenegro,1999,NA,NA,NA
+Montenegro,2000,NA,NA,NA
+Montenegro,2001,NA,NA,NA
+Montenegro,2002,NA,NA,NA
+Montenegro,2003,NA,NA,NA
+Montenegro,2004,NA,NA,NA
+Montenegro,2005,NA,NA,NA
+Montenegro,2006,3,3,PF
+Montenegro,2007,3,3,PF
+Montenegro,2008,3,3,PF
+Montenegro,2009,2,3,F
+Montenegro,2010,2,3,F
+Montenegro,2011,2,3,F
+Montenegro,2012,2,3,F
+Montenegro,2013,2,3,F
+Montenegro,2014,2,3,F
+Montenegro,2015,3,3,PF
+Montenegro,2016,3,3,PF
+Montenegro,2017,3,3,PF
+Montenegro,2018,3,4,PF
+Montenegro,2019,3,4,PF
+Montenegro,2020,3,3,PF
+Morocco,1995,5,5,PF
+Morocco,1996,5,5,PF
+Morocco,1997,5,5,PF
+Morocco,1998,4,5,PF
+Morocco,1999,4,5,PF
+Morocco,2000,4,5,PF
+Morocco,2001,5,5,PF
+Morocco,2002,5,5,PF
+Morocco,2003,5,5,PF
+Morocco,2004,4,5,PF
+Morocco,2005,4,5,PF
+Morocco,2006,4,5,PF
+Morocco,2007,4,5,PF
+Morocco,2008,4,5,PF
+Morocco,2009,4,5,PF
+Morocco,2010,4,5,PF
+Morocco,2011,4,5,PF
+Morocco,2012,4,5,PF
+Morocco,2013,4,5,PF
+Morocco,2014,4,5,PF
+Morocco,2015,4,5,PF
+Morocco,2016,4,5,PF
+Morocco,2017,5,5,PF
+Morocco,2018,5,5,PF
+Morocco,2019,5,5,PF
+Morocco,2020,5,5,PF
+Mozambique,1995,4,3,PF
+Mozambique,1996,4,3,PF
+Mozambique,1997,4,3,PF
+Mozambique,1998,4,3,PF
+Mozambique,1999,4,3,PF
+Mozambique,2000,4,3,PF
+Mozambique,2001,4,3,PF
+Mozambique,2002,4,3,PF
+Mozambique,2003,4,3,PF
+Mozambique,2004,4,3,PF
+Mozambique,2005,4,3,PF
+Mozambique,2006,4,3,PF
+Mozambique,2007,3,3,PF
+Mozambique,2008,3,3,PF
+Mozambique,2009,3,4,PF
+Mozambique,2010,3,4,PF
+Mozambique,2011,3,4,PF
+Mozambique,2012,3,4,PF
+Mozambique,2013,3,4,PF
+Mozambique,2014,3,4,PF
+Mozambique,2015,4,4,PF
+Mozambique,2016,4,4,PF
+Mozambique,2017,4,4,PF
+Mozambique,2018,4,4,PF
+Mozambique,2019,4,5,PF
+Mozambique,2020,4,5,PF
+Myanmar,1995,7,7,NF
+Myanmar,1996,7,7,NF
+Myanmar,1997,7,7,NF
+Myanmar,1998,7,7,NF
+Myanmar,1999,7,7,NF
+Myanmar,2000,7,7,NF
+Myanmar,2001,7,7,NF
+Myanmar,2002,7,7,NF
+Myanmar,2003,7,7,NF
+Myanmar,2004,7,7,NF
+Myanmar,2005,7,7,NF
+Myanmar,2006,7,7,NF
+Myanmar,2007,7,7,NF
+Myanmar,2008,7,7,NF
+Myanmar,2009,7,7,NF
+Myanmar,2010,7,7,NF
+Myanmar,2011,6,7,NF
+Myanmar,2012,5,6,NF
+Myanmar,2013,5,6,NF
+Myanmar,2014,6,6,NF
+Myanmar,2015,5,6,NF
+Myanmar,2016,5,5,PF
+Myanmar,2017,5,5,PF
+Myanmar,2018,5,5,PF
+Myanmar,2019,6,5,NF
+Myanmar,2020,6,5,NF
+Namibia,1995,3,2,F
+Namibia,1996,3,2,F
+Namibia,1997,3,2,F
+Namibia,1998,3,2,F
+Namibia,1999,3,2,F
+Namibia,2000,3,2,F
+Namibia,2001,3,2,F
+Namibia,2002,3,2,F
+Namibia,2003,3,2,F
+Namibia,2004,3,2,F
+Namibia,2005,2,2,F
+Namibia,2006,2,2,F
+Namibia,2007,2,2,F
+Namibia,2008,2,2,F
+Namibia,2009,2,2,F
+Namibia,2010,2,2,F
+Namibia,2011,2,2,F
+Namibia,2012,2,2,F
+Namibia,2013,2,2,F
+Namibia,2014,2,2,F
+Namibia,2015,2,2,F
+Namibia,2016,2,2,F
+Namibia,2017,2,2,F
+Namibia,2018,2,3,F
+Namibia,2019,2,2,F
+Namibia,2020,2,2,F
+Nauru,1995,3,1,F
+Nauru,1996,3,1,F
+Nauru,1997,3,1,F
+Nauru,1998,3,1,F
+Nauru,1999,3,1,F
+Nauru,2000,3,1,F
+Nauru,2001,3,1,F
+Nauru,2002,2,1,F
+Nauru,2003,1,1,F
+Nauru,2004,1,1,F
+Nauru,2005,1,1,F
+Nauru,2006,1,1,F
+Nauru,2007,1,1,F
+Nauru,2008,1,1,F
+Nauru,2009,1,1,F
+Nauru,2010,1,1,F
+Nauru,2011,1,1,F
+Nauru,2012,1,1,F
+Nauru,2013,1,1,F
+Nauru,2014,2,1,F
+Nauru,2015,2,2,F
+Nauru,2016,2,2,F
+Nauru,2017,2,2,F
+Nauru,2018,2,2,F
+Nauru,2019,3,2,F
+Nauru,2020,3,2,F
+Nepal,1995,4,3,PF
+Nepal,1996,4,3,PF
+Nepal,1997,4,3,PF
+Nepal,1998,4,3,PF
+Nepal,1999,4,3,PF
+Nepal,2000,4,3,PF
+Nepal,2001,4,3,PF
+Nepal,2002,4,4,PF
+Nepal,2003,4,5,PF
+Nepal,2004,5,5,PF
+Nepal,2005,5,6,NF
+Nepal,2006,4,5,PF
+Nepal,2007,4,5,PF
+Nepal,2008,4,4,PF
+Nepal,2009,4,4,PF
+Nepal,2010,4,4,PF
+Nepal,2011,4,4,PF
+Nepal,2012,4,4,PF
+Nepal,2013,4,4,PF
+Nepal,2014,4,3,PF
+Nepal,2015,4,3,PF
+Nepal,2016,4,3,PF
+Nepal,2017,4,3,PF
+Nepal,2018,4,3,PF
+Nepal,2019,4,3,PF
+Nepal,2020,4,3,PF
+Netherlands,1995,1,1,F
+Netherlands,1996,1,1,F
+Netherlands,1997,1,1,F
+Netherlands,1998,1,1,F
+Netherlands,1999,1,1,F
+Netherlands,2000,1,1,F
+Netherlands,2001,1,1,F
+Netherlands,2002,1,1,F
+Netherlands,2003,1,1,F
+Netherlands,2004,1,1,F
+Netherlands,2005,1,1,F
+Netherlands,2006,1,1,F
+Netherlands,2007,1,1,F
+Netherlands,2008,1,1,F
+Netherlands,2009,1,1,F
+Netherlands,2010,1,1,F
+Netherlands,2011,1,1,F
+Netherlands,2012,1,1,F
+Netherlands,2013,1,1,F
+Netherlands,2014,1,1,F
+Netherlands,2015,1,1,F
+Netherlands,2016,1,1,F
+Netherlands,2017,1,1,F
+Netherlands,2018,1,1,F
+Netherlands,2019,1,1,F
+Netherlands,2020,1,1,F
+New Zealand,1995,1,1,F
+New Zealand,1996,1,1,F
+New Zealand,1997,1,1,F
+New Zealand,1998,1,1,F
+New Zealand,1999,1,1,F
+New Zealand,2000,1,1,F
+New Zealand,2001,1,1,F
+New Zealand,2002,1,1,F
+New Zealand,2003,1,1,F
+New Zealand,2004,1,1,F
+New Zealand,2005,1,1,F
+New Zealand,2006,1,1,F
+New Zealand,2007,1,1,F
+New Zealand,2008,1,1,F
+New Zealand,2009,1,1,F
+New Zealand,2010,1,1,F
+New Zealand,2011,1,1,F
+New Zealand,2012,1,1,F
+New Zealand,2013,1,1,F
+New Zealand,2014,1,1,F
+New Zealand,2015,1,1,F
+New Zealand,2016,1,1,F
+New Zealand,2017,1,1,F
+New Zealand,2018,1,1,F
+New Zealand,2019,1,1,F
+New Zealand,2020,1,1,F
+Nicaragua,1995,4,4,PF
+Nicaragua,1996,3,3,PF
+Nicaragua,1997,3,3,PF
+Nicaragua,1998,3,2,PF
+Nicaragua,1999,3,3,PF
+Nicaragua,2000,3,3,PF
+Nicaragua,2001,3,3,PF
+Nicaragua,2002,3,3,PF
+Nicaragua,2003,3,3,PF
+Nicaragua,2004,3,3,PF
+Nicaragua,2005,3,3,PF
+Nicaragua,2006,3,3,PF
+Nicaragua,2007,3,3,PF
+Nicaragua,2008,3,4,PF
+Nicaragua,2009,4,4,PF
+Nicaragua,2010,4,4,PF
+Nicaragua,2011,4,5,PF
+Nicaragua,2012,4,5,PF
+Nicaragua,2013,3,4,PF
+Nicaragua,2014,3,4,PF
+Nicaragua,2015,3,4,PF
+Nicaragua,2016,4,5,PF
+Nicaragua,2017,4,5,PF
+Nicaragua,2018,5,6,NF
+Nicaragua,2019,5,6,NF
+Nicaragua,2020,5,6,NF
+Niger,1995,5,3,PF
+Niger,1996,5,7,NF
+Niger,1997,5,7,NF
+Niger,1998,5,7,NF
+Niger,1999,5,5,PF
+Niger,2000,4,4,PF
+Niger,2001,4,4,PF
+Niger,2002,4,4,PF
+Niger,2003,4,4,PF
+Niger,2004,3,3,PF
+Niger,2005,3,3,PF
+Niger,2006,3,3,PF
+Niger,2007,4,3,PF
+Niger,2008,4,3,PF
+Niger,2009,4,5,PF
+Niger,2010,4,5,PF
+Niger,2011,4,3,PF
+Niger,2012,4,3,PF
+Niger,2013,4,3,PF
+Niger,2014,4,3,PF
+Niger,2015,4,3,PF
+Niger,2016,4,4,PF
+Niger,2017,4,4,PF
+Niger,2018,4,4,PF
+Niger,2019,4,4,PF
+Niger,2020,4,4,PF
+Nigeria,1995,7,7,NF
+Nigeria,1996,6,7,NF
+Nigeria,1997,6,7,NF
+Nigeria,1998,4,6,PF
+Nigeria,1999,3,4,PF
+Nigeria,2000,4,4,PF
+Nigeria,2001,5,4,PF
+Nigeria,2002,5,4,PF
+Nigeria,2003,4,4,PF
+Nigeria,2004,4,4,PF
+Nigeria,2005,4,4,PF
+Nigeria,2006,4,4,PF
+Nigeria,2007,4,4,PF
+Nigeria,2008,4,5,PF
+Nigeria,2009,4,5,PF
+Nigeria,2010,4,4,PF
+Nigeria,2011,4,4,PF
+Nigeria,2012,4,4,PF
+Nigeria,2013,4,4,PF
+Nigeria,2014,5,4,PF
+Nigeria,2015,5,4,PF
+Nigeria,2016,5,3,PF
+Nigeria,2017,5,3,PF
+Nigeria,2018,5,3,PF
+Nigeria,2019,5,4,PF
+Nigeria,2020,5,4,PF
+North Korea,1995,7,7,NF
+North Korea,1996,7,7,NF
+North Korea,1997,7,7,NF
+North Korea,1998,7,7,NF
+North Korea,1999,7,7,NF
+North Korea,2000,7,7,NF
+North Korea,2001,7,7,NF
+North Korea,2002,7,7,NF
+North Korea,2003,7,7,NF
+North Korea,2004,7,7,NF
+North Korea,2005,7,7,NF
+North Korea,2006,7,7,NF
+North Korea,2007,7,7,NF
+North Korea,2008,7,7,NF
+North Korea,2009,7,7,NF
+North Korea,2010,7,7,NF
+North Korea,2011,7,7,NF
+North Korea,2012,7,7,NF
+North Korea,2013,7,7,NF
+North Korea,2014,7,7,NF
+North Korea,2015,7,7,NF
+North Korea,2016,7,7,NF
+North Korea,2017,7,7,NF
+North Korea,2018,7,7,NF
+North Korea,2019,7,7,NF
+North Korea,2020,7,7,NF
+North Macedonia,1995,3,4,PF
+North Macedonia,1996,3,4,PF
+North Macedonia,1997,3,4,PF
+North Macedonia,1998,3,3,PF
+North Macedonia,1999,3,3,PF
+North Macedonia,2000,3,4,PF
+North Macedonia,2001,4,4,PF
+North Macedonia,2002,3,3,PF
+North Macedonia,2003,3,3,PF
+North Macedonia,2004,3,3,PF
+North Macedonia,2005,3,3,PF
+North Macedonia,2006,3,3,PF
+North Macedonia,2007,3,3,PF
+North Macedonia,2008,3,3,PF
+North Macedonia,2009,3,3,PF
+North Macedonia,2010,3,3,PF
+North Macedonia,2011,3,3,PF
+North Macedonia,2012,3,3,PF
+North Macedonia,2013,3,3,PF
+North Macedonia,2014,3,4,PF
+North Macedonia,2015,3,4,PF
+North Macedonia,2016,3,4,PF
+North Macedonia,2017,3,4,PF
+North Macedonia,2018,3,4,PF
+North Macedonia,2019,3,3,PF
+North Macedonia,2020,3,3,PF
+Norway,1995,1,1,F
+Norway,1996,1,1,F
+Norway,1997,1,1,F
+Norway,1998,1,1,F
+Norway,1999,1,1,F
+Norway,2000,1,1,F
+Norway,2001,1,1,F
+Norway,2002,1,1,F
+Norway,2003,1,1,F
+Norway,2004,1,1,F
+Norway,2005,1,1,F
+Norway,2006,1,1,F
+Norway,2007,1,1,F
+Norway,2008,1,1,F
+Norway,2009,1,1,F
+Norway,2010,1,1,F
+Norway,2011,1,1,F
+Norway,2012,1,1,F
+Norway,2013,1,1,F
+Norway,2014,1,1,F
+Norway,2015,1,1,F
+Norway,2016,1,1,F
+Norway,2017,1,1,F
+Norway,2018,1,1,F
+Norway,2019,1,1,F
+Norway,2020,1,1,F
+Oman,1995,6,6,NF
+Oman,1996,6,6,NF
+Oman,1997,6,6,NF
+Oman,1998,6,6,NF
+Oman,1999,6,6,NF
+Oman,2000,5,6,NF
+Oman,2001,5,6,NF
+Oman,2002,5,6,NF
+Oman,2003,5,6,NF
+Oman,2004,5,6,NF
+Oman,2005,5,6,NF
+Oman,2006,5,6,NF
+Oman,2007,5,6,NF
+Oman,2008,5,6,NF
+Oman,2009,5,6,NF
+Oman,2010,5,6,NF
+Oman,2011,5,6,NF
+Oman,2012,5,6,NF
+Oman,2013,5,6,NF
+Oman,2014,5,6,NF
+Oman,2015,5,6,NF
+Oman,2016,5,6,NF
+Oman,2017,5,6,NF
+Oman,2018,5,6,NF
+Oman,2019,5,6,NF
+Oman,2020,5,6,NF
+Pakistan,1995,5,3,PF
+Pakistan,1996,5,4,PF
+Pakistan,1997,5,4,PF
+Pakistan,1998,5,4,PF
+Pakistan,1999,5,7,NF
+Pakistan,2000,5,6,NF
+Pakistan,2001,5,6,NF
+Pakistan,2002,5,6,NF
+Pakistan,2003,5,6,NF
+Pakistan,2004,5,6,NF
+Pakistan,2005,5,6,NF
+Pakistan,2006,5,6,NF
+Pakistan,2007,5,6,NF
+Pakistan,2008,5,4,PF
+Pakistan,2009,5,4,PF
+Pakistan,2010,5,4,PF
+Pakistan,2011,5,4,PF
+Pakistan,2012,5,4,PF
+Pakistan,2013,5,4,PF
+Pakistan,2014,5,4,PF
+Pakistan,2015,5,4,PF
+Pakistan,2016,5,4,PF
+Pakistan,2017,5,4,PF
+Pakistan,2018,5,5,PF
+Pakistan,2019,5,5,PF
+Pakistan,2020,5,5,PF
+Palau,1995,2,1,F
+Palau,1996,2,1,F
+Palau,1997,2,1,F
+Palau,1998,2,1,F
+Palau,1999,2,1,F
+Palau,2000,2,1,F
+Palau,2001,2,1,F
+Palau,2002,2,1,F
+Palau,2003,1,1,F
+Palau,2004,1,1,F
+Palau,2005,1,1,F
+Palau,2006,1,1,F
+Palau,2007,1,1,F
+Palau,2008,1,1,F
+Palau,2009,1,1,F
+Palau,2010,1,1,F
+Palau,2011,1,1,F
+Palau,2012,1,1,F
+Palau,2013,1,1,F
+Palau,2014,1,1,F
+Palau,2015,1,1,F
+Palau,2016,1,1,F
+Palau,2017,1,1,F
+Palau,2018,1,1,F
+Palau,2019,1,1,F
+Palau,2020,1,1,F
+Panama,1995,3,2,F
+Panama,1996,3,2,F
+Panama,1997,3,2,F
+Panama,1998,3,2,F
+Panama,1999,2,1,F
+Panama,2000,2,1,F
+Panama,2001,2,1,F
+Panama,2002,2,1,F
+Panama,2003,2,1,F
+Panama,2004,2,1,F
+Panama,2005,2,1,F
+Panama,2006,2,1,F
+Panama,2007,2,1,F
+Panama,2008,2,1,F
+Panama,2009,2,1,F
+Panama,2010,2,1,F
+Panama,2011,2,1,F
+Panama,2012,2,1,F
+Panama,2013,2,2,F
+Panama,2014,2,2,F
+Panama,2015,2,2,F
+Panama,2016,2,2,F
+Panama,2017,2,2,F
+Panama,2018,2,1,F
+Panama,2019,2,1,F
+Panama,2020,2,2,F
+Papua New Guinea,1995,4,2,PF
+Papua New Guinea,1996,4,2,PF
+Papua New Guinea,1997,4,2,PF
+Papua New Guinea,1998,3,2,F
+Papua New Guinea,1999,3,2,F
+Papua New Guinea,2000,3,2,F
+Papua New Guinea,2001,3,2,F
+Papua New Guinea,2002,3,2,F
+Papua New Guinea,2003,3,3,PF
+Papua New Guinea,2004,3,3,PF
+Papua New Guinea,2005,3,3,PF
+Papua New Guinea,2006,3,3,PF
+Papua New Guinea,2007,3,3,PF
+Papua New Guinea,2008,3,4,PF
+Papua New Guinea,2009,3,4,PF
+Papua New Guinea,2010,3,4,PF
+Papua New Guinea,2011,3,4,PF
+Papua New Guinea,2012,3,4,PF
+Papua New Guinea,2013,3,3,PF
+Papua New Guinea,2014,3,4,PF
+Papua New Guinea,2015,3,4,PF
+Papua New Guinea,2016,3,3,PF
+Papua New Guinea,2017,3,3,PF
+Papua New Guinea,2018,3,4,PF
+Papua New Guinea,2019,3,4,PF
+Papua New Guinea,2020,3,4,PF
+Paraguay,1995,3,4,PF
+Paraguay,1996,3,4,PF
+Paraguay,1997,3,4,PF
+Paraguay,1998,3,4,PF
+Paraguay,1999,3,4,PF
+Paraguay,2000,3,4,PF
+Paraguay,2001,3,4,PF
+Paraguay,2002,3,4,PF
+Paraguay,2003,3,3,PF
+Paraguay,2004,3,3,PF
+Paraguay,2005,3,3,PF
+Paraguay,2006,3,3,PF
+Paraguay,2007,3,3,PF
+Paraguay,2008,3,3,PF
+Paraguay,2009,3,3,PF
+Paraguay,2010,3,3,PF
+Paraguay,2011,3,3,PF
+Paraguay,2012,3,3,PF
+Paraguay,2013,3,3,PF
+Paraguay,2014,3,3,PF
+Paraguay,2015,3,3,PF
+Paraguay,2016,3,3,PF
+Paraguay,2017,3,3,PF
+Paraguay,2018,3,3,PF
+Paraguay,2019,3,3,PF
+Paraguay,2020,3,3,PF
+Peru,1995,4,5,PF
+Peru,1996,3,4,PF
+Peru,1997,4,5,PF
+Peru,1998,4,5,PF
+Peru,1999,4,5,PF
+Peru,2000,4,3,PF
+Peru,2001,3,1,F
+Peru,2002,3,2,F
+Peru,2003,3,2,F
+Peru,2004,3,2,F
+Peru,2005,3,2,F
+Peru,2006,3,2,F
+Peru,2007,3,2,F
+Peru,2008,3,2,F
+Peru,2009,3,2,F
+Peru,2010,3,2,F
+Peru,2011,3,2,F
+Peru,2012,3,2,F
+Peru,2013,3,2,F
+Peru,2014,3,2,F
+Peru,2015,3,2,F
+Peru,2016,3,2,F
+Peru,2017,3,2,F
+Peru,2018,3,2,F
+Peru,2019,3,2,F
+Peru,2020,3,3,PF
+Philippines,1995,4,2,PF
+Philippines,1996,3,2,F
+Philippines,1997,3,2,F
+Philippines,1998,3,2,F
+Philippines,1999,3,2,F
+Philippines,2000,3,2,F
+Philippines,2001,3,2,F
+Philippines,2002,3,2,F
+Philippines,2003,3,2,F
+Philippines,2004,3,2,F
+Philippines,2005,3,3,PF
+Philippines,2006,3,3,PF
+Philippines,2007,3,4,PF
+Philippines,2008,3,4,PF
+Philippines,2009,3,4,PF
+Philippines,2010,3,3,PF
+Philippines,2011,3,3,PF
+Philippines,2012,3,3,PF
+Philippines,2013,3,3,PF
+Philippines,2014,3,3,PF
+Philippines,2015,3,3,PF
+Philippines,2016,3,3,PF
+Philippines,2017,3,3,PF
+Philippines,2018,3,3,PF
+Philippines,2019,4,3,PF
+Philippines,2020,4,3,PF
+Poland,1995,2,1,F
+Poland,1996,2,1,F
+Poland,1997,2,1,F
+Poland,1998,2,1,F
+Poland,1999,2,1,F
+Poland,2000,2,1,F
+Poland,2001,2,1,F
+Poland,2002,2,1,F
+Poland,2003,2,1,F
+Poland,2004,1,1,F
+Poland,2005,1,1,F
+Poland,2006,1,1,F
+Poland,2007,1,1,F
+Poland,2008,1,1,F
+Poland,2009,1,1,F
+Poland,2010,1,1,F
+Poland,2011,1,1,F
+Poland,2012,1,1,F
+Poland,2013,1,1,F
+Poland,2014,1,1,F
+Poland,2015,1,1,F
+Poland,2016,2,1,F
+Poland,2017,2,1,F
+Poland,2018,2,2,F
+Poland,2019,2,2,F
+Poland,2020,2,2,F
+Portugal,1995,1,1,F
+Portugal,1996,1,1,F
+Portugal,1997,1,1,F
+Portugal,1998,1,1,F
+Portugal,1999,1,1,F
+Portugal,2000,1,1,F
+Portugal,2001,1,1,F
+Portugal,2002,1,1,F
+Portugal,2003,1,1,F
+Portugal,2004,1,1,F
+Portugal,2005,1,1,F
+Portugal,2006,1,1,F
+Portugal,2007,1,1,F
+Portugal,2008,1,1,F
+Portugal,2009,1,1,F
+Portugal,2010,1,1,F
+Portugal,2011,1,1,F
+Portugal,2012,1,1,F
+Portugal,2013,1,1,F
+Portugal,2014,1,1,F
+Portugal,2015,1,1,F
+Portugal,2016,1,1,F
+Portugal,2017,1,1,F
+Portugal,2018,1,1,F
+Portugal,2019,1,1,F
+Portugal,2020,1,1,F
+Qatar,1995,6,7,NF
+Qatar,1996,6,7,NF
+Qatar,1997,6,7,NF
+Qatar,1998,6,7,NF
+Qatar,1999,6,6,NF
+Qatar,2000,6,6,NF
+Qatar,2001,6,6,NF
+Qatar,2002,6,6,NF
+Qatar,2003,6,6,NF
+Qatar,2004,5,6,NF
+Qatar,2005,5,6,NF
+Qatar,2006,5,6,NF
+Qatar,2007,5,6,NF
+Qatar,2008,5,6,NF
+Qatar,2009,5,6,NF
+Qatar,2010,5,6,NF
+Qatar,2011,5,6,NF
+Qatar,2012,5,6,NF
+Qatar,2013,5,6,NF
+Qatar,2014,5,6,NF
+Qatar,2015,5,6,NF
+Qatar,2016,5,6,NF
+Qatar,2017,5,6,NF
+Qatar,2018,5,6,NF
+Qatar,2019,5,6,NF
+Qatar,2020,5,6,NF
+Romania,1995,3,4,PF
+Romania,1996,3,2,F
+Romania,1997,2,2,F
+Romania,1998,2,2,F
+Romania,1999,2,2,F
+Romania,2000,2,2,F
+Romania,2001,2,2,F
+Romania,2002,2,2,F
+Romania,2003,2,2,F
+Romania,2004,2,3,F
+Romania,2005,2,2,F
+Romania,2006,2,2,F
+Romania,2007,2,2,F
+Romania,2008,2,2,F
+Romania,2009,2,2,F
+Romania,2010,2,2,F
+Romania,2011,2,2,F
+Romania,2012,2,2,F
+Romania,2013,2,2,F
+Romania,2014,2,2,F
+Romania,2015,2,2,F
+Romania,2016,2,2,F
+Romania,2017,2,2,F
+Romania,2018,2,2,F
+Romania,2019,2,2,F
+Romania,2020,2,2,F
+Russia,1995,4,3,PF
+Russia,1996,4,3,PF
+Russia,1997,4,3,PF
+Russia,1998,4,4,PF
+Russia,1999,5,4,PF
+Russia,2000,5,5,PF
+Russia,2001,5,5,PF
+Russia,2002,5,5,PF
+Russia,2003,5,5,PF
+Russia,2004,5,6,NF
+Russia,2005,5,6,NF
+Russia,2006,5,6,NF
+Russia,2007,5,6,NF
+Russia,2008,5,6,NF
+Russia,2009,5,6,NF
+Russia,2010,5,6,NF
+Russia,2011,5,6,NF
+Russia,2012,5,6,NF
+Russia,2013,5,6,NF
+Russia,2014,6,6,NF
+Russia,2015,6,6,NF
+Russia,2016,6,7,NF
+Russia,2017,6,7,NF
+Russia,2018,6,7,NF
+Russia,2019,6,7,NF
+Russia,2020,6,7,NF
+Rwanda,1995,6,7,NF
+Rwanda,1996,6,7,NF
+Rwanda,1997,6,7,NF
+Rwanda,1998,6,7,NF
+Rwanda,1999,6,7,NF
+Rwanda,2000,6,7,NF
+Rwanda,2001,6,7,NF
+Rwanda,2002,5,7,NF
+Rwanda,2003,5,6,NF
+Rwanda,2004,5,6,NF
+Rwanda,2005,5,6,NF
+Rwanda,2006,5,6,NF
+Rwanda,2007,5,6,NF
+Rwanda,2008,5,6,NF
+Rwanda,2009,5,6,NF
+Rwanda,2010,5,6,NF
+Rwanda,2011,5,6,NF
+Rwanda,2012,6,6,NF
+Rwanda,2013,5,6,NF
+Rwanda,2014,6,6,NF
+Rwanda,2015,6,6,NF
+Rwanda,2016,6,6,NF
+Rwanda,2017,6,6,NF
+Rwanda,2018,6,6,NF
+Rwanda,2019,6,6,NF
+Rwanda,2020,6,6,NF
+Samoa,1995,2,2,F
+Samoa,1996,2,2,F
+Samoa,1997,2,2,F
+Samoa,1998,3,2,F
+Samoa,1999,2,2,F
+Samoa,2000,2,2,F
+Samoa,2001,2,2,F
+Samoa,2002,2,2,F
+Samoa,2003,2,2,F
+Samoa,2004,2,2,F
+Samoa,2005,2,2,F
+Samoa,2006,2,2,F
+Samoa,2007,2,2,F
+Samoa,2008,2,2,F
+Samoa,2009,2,2,F
+Samoa,2010,2,2,F
+Samoa,2011,2,2,F
+Samoa,2012,2,2,F
+Samoa,2013,2,2,F
+Samoa,2014,2,2,F
+Samoa,2015,2,2,F
+Samoa,2016,2,2,F
+Samoa,2017,2,2,F
+Samoa,2018,2,2,F
+Samoa,2019,2,2,F
+Samoa,2020,2,2,F
+San Marino,1995,1,1,F
+San Marino,1996,1,1,F
+San Marino,1997,1,1,F
+San Marino,1998,1,1,F
+San Marino,1999,1,1,F
+San Marino,2000,1,1,F
+San Marino,2001,1,1,F
+San Marino,2002,1,1,F
+San Marino,2003,1,1,F
+San Marino,2004,1,1,F
+San Marino,2005,1,1,F
+San Marino,2006,1,1,F
+San Marino,2007,1,1,F
+San Marino,2008,1,1,F
+San Marino,2009,1,1,F
+San Marino,2010,1,1,F
+San Marino,2011,1,1,F
+San Marino,2012,1,1,F
+San Marino,2013,1,1,F
+San Marino,2014,1,1,F
+San Marino,2015,1,1,F
+San Marino,2016,1,1,F
+San Marino,2017,1,1,F
+San Marino,2018,1,1,F
+San Marino,2019,1,1,F
+San Marino,2020,1,1,F
+Sao Tome and Principe,1995,2,1,F
+Sao Tome and Principe,1996,2,1,F
+Sao Tome and Principe,1997,2,1,F
+Sao Tome and Principe,1998,2,1,F
+Sao Tome and Principe,1999,2,1,F
+Sao Tome and Principe,2000,2,1,F
+Sao Tome and Principe,2001,2,1,F
+Sao Tome and Principe,2002,2,1,F
+Sao Tome and Principe,2003,2,2,F
+Sao Tome and Principe,2004,2,2,F
+Sao Tome and Principe,2005,2,2,F
+Sao Tome and Principe,2006,2,2,F
+Sao Tome and Principe,2007,2,2,F
+Sao Tome and Principe,2008,2,2,F
+Sao Tome and Principe,2009,2,2,F
+Sao Tome and Principe,2010,2,2,F
+Sao Tome and Principe,2011,2,2,F
+Sao Tome and Principe,2012,2,2,F
+Sao Tome and Principe,2013,2,2,F
+Sao Tome and Principe,2014,2,2,F
+Sao Tome and Principe,2015,2,2,F
+Sao Tome and Principe,2016,2,2,F
+Sao Tome and Principe,2017,2,2,F
+Sao Tome and Principe,2018,2,2,F
+Sao Tome and Principe,2019,2,2,F
+Sao Tome and Principe,2020,2,2,F
+Saudi Arabia,1995,7,7,NF
+Saudi Arabia,1996,7,7,NF
+Saudi Arabia,1997,7,7,NF
+Saudi Arabia,1998,7,7,NF
+Saudi Arabia,1999,7,7,NF
+Saudi Arabia,2000,7,7,NF
+Saudi Arabia,2001,7,7,NF
+Saudi Arabia,2002,7,7,NF
+Saudi Arabia,2003,7,7,NF
+Saudi Arabia,2004,7,7,NF
+Saudi Arabia,2005,6,7,NF
+Saudi Arabia,2006,6,7,NF
+Saudi Arabia,2007,6,7,NF
+Saudi Arabia,2008,6,7,NF
+Saudi Arabia,2009,6,7,NF
+Saudi Arabia,2010,6,7,NF
+Saudi Arabia,2011,7,7,NF
+Saudi Arabia,2012,7,7,NF
+Saudi Arabia,2013,7,7,NF
+Saudi Arabia,2014,7,7,NF
+Saudi Arabia,2015,7,7,NF
+Saudi Arabia,2016,7,7,NF
+Saudi Arabia,2017,7,7,NF
+Saudi Arabia,2018,7,7,NF
+Saudi Arabia,2019,7,7,NF
+Saudi Arabia,2020,7,7,NF
+Senegal,1995,5,4,PF
+Senegal,1996,4,4,PF
+Senegal,1997,4,4,PF
+Senegal,1998,4,4,PF
+Senegal,1999,4,4,PF
+Senegal,2000,4,3,PF
+Senegal,2001,4,3,PF
+Senegal,2002,3,2,F
+Senegal,2003,3,2,F
+Senegal,2004,3,2,F
+Senegal,2005,3,2,F
+Senegal,2006,3,2,F
+Senegal,2007,3,2,F
+Senegal,2008,3,3,PF
+Senegal,2009,3,3,PF
+Senegal,2010,3,3,PF
+Senegal,2011,3,3,PF
+Senegal,2012,3,2,F
+Senegal,2013,2,2,F
+Senegal,2014,2,2,F
+Senegal,2015,2,2,F
+Senegal,2016,2,2,F
+Senegal,2017,2,2,F
+Senegal,2018,3,2,F
+Senegal,2019,3,3,PF
+Senegal,2020,3,3,PF
+Serbia,1995,NA,NA,NA
+Serbia,1996,NA,NA,NA
+Serbia,1997,NA,NA,NA
+Serbia,1998,NA,NA,NA
+Serbia,1999,NA,NA,NA
+Serbia,2000,NA,NA,NA
+Serbia,2001,NA,NA,NA
+Serbia,2002,NA,NA,NA
+Serbia,2003,NA,NA,NA
+Serbia,2004,NA,NA,NA
+Serbia,2005,NA,NA,NA
+Serbia,2006,2,3,F
+Serbia,2007,2,3,F
+Serbia,2008,2,3,F
+Serbia,2009,2,2,F
+Serbia,2010,2,2,F
+Serbia,2011,2,2,F
+Serbia,2012,2,2,F
+Serbia,2013,2,2,F
+Serbia,2014,2,2,F
+Serbia,2015,2,2,F
+Serbia,2016,2,3,F
+Serbia,2017,2,3,F
+Serbia,2018,3,3,PF
+Serbia,2019,3,4,PF
+Serbia,2020,3,4,PF
+Serbia and Montenegro,1995,NA,NA,NA
+Serbia and Montenegro,1996,NA,NA,NA
+Serbia and Montenegro,1997,NA,NA,NA
+Serbia and Montenegro,1998,NA,NA,NA
+Serbia and Montenegro,1999,NA,NA,NA
+Serbia and Montenegro,2000,NA,NA,NA
+Serbia and Montenegro,2001,NA,NA,NA
+Serbia and Montenegro,2002,NA,NA,NA
+Serbia and Montenegro,2003,2,3,F
+Serbia and Montenegro,2004,2,3,F
+Serbia and Montenegro,2005,2,3,F
+Serbia and Montenegro,2006,NA,NA,NA
+Serbia and Montenegro,2007,NA,NA,NA
+Serbia and Montenegro,2008,NA,NA,NA
+Serbia and Montenegro,2009,NA,NA,NA
+Serbia and Montenegro,2010,NA,NA,NA
+Serbia and Montenegro,2011,NA,NA,NA
+Serbia and Montenegro,2012,NA,NA,NA
+Serbia and Montenegro,2013,NA,NA,NA
+Serbia and Montenegro,2014,NA,NA,NA
+Serbia and Montenegro,2015,NA,NA,NA
+Serbia and Montenegro,2016,NA,NA,NA
+Serbia and Montenegro,2017,NA,NA,NA
+Serbia and Montenegro,2018,NA,NA,NA
+Serbia and Montenegro,2019,NA,NA,NA
+Serbia and Montenegro,2020,NA,NA,NA
+Seychelles,1995,3,3,PF
+Seychelles,1996,3,3,PF
+Seychelles,1997,3,3,PF
+Seychelles,1998,3,3,PF
+Seychelles,1999,3,3,PF
+Seychelles,2000,3,3,PF
+Seychelles,2001,3,3,PF
+Seychelles,2002,3,3,PF
+Seychelles,2003,3,3,PF
+Seychelles,2004,3,3,PF
+Seychelles,2005,3,3,PF
+Seychelles,2006,3,3,PF
+Seychelles,2007,3,3,PF
+Seychelles,2008,3,3,PF
+Seychelles,2009,3,3,PF
+Seychelles,2010,3,3,PF
+Seychelles,2011,3,3,PF
+Seychelles,2012,3,3,PF
+Seychelles,2013,3,3,PF
+Seychelles,2014,3,3,PF
+Seychelles,2015,3,3,PF
+Seychelles,2016,3,3,PF
+Seychelles,2017,3,3,PF
+Seychelles,2018,3,3,PF
+Seychelles,2019,3,3,PF
+Seychelles,2020,3,2,F
+Sierra Leone,1995,6,7,NF
+Sierra Leone,1996,5,4,PF
+Sierra Leone,1997,6,7,NF
+Sierra Leone,1998,5,3,PF
+Sierra Leone,1999,5,3,PF
+Sierra Leone,2000,5,4,PF
+Sierra Leone,2001,5,4,PF
+Sierra Leone,2002,4,4,PF
+Sierra Leone,2003,3,4,PF
+Sierra Leone,2004,3,4,PF
+Sierra Leone,2005,3,4,PF
+Sierra Leone,2006,3,4,PF
+Sierra Leone,2007,3,3,PF
+Sierra Leone,2008,3,3,PF
+Sierra Leone,2009,3,3,PF
+Sierra Leone,2010,3,3,PF
+Sierra Leone,2011,3,3,PF
+Sierra Leone,2012,3,2,F
+Sierra Leone,2013,3,3,PF
+Sierra Leone,2014,3,3,PF
+Sierra Leone,2015,3,3,PF
+Sierra Leone,2016,3,3,PF
+Sierra Leone,2017,3,3,PF
+Sierra Leone,2018,3,3,PF
+Sierra Leone,2019,3,3,PF
+Sierra Leone,2020,3,3,PF
+Singapore,1995,5,5,PF
+Singapore,1996,5,4,PF
+Singapore,1997,5,5,PF
+Singapore,1998,5,5,PF
+Singapore,1999,5,5,PF
+Singapore,2000,5,5,PF
+Singapore,2001,5,5,PF
+Singapore,2002,4,5,PF
+Singapore,2003,4,5,PF
+Singapore,2004,4,5,PF
+Singapore,2005,4,5,PF
+Singapore,2006,4,5,PF
+Singapore,2007,4,5,PF
+Singapore,2008,4,5,PF
+Singapore,2009,4,5,PF
+Singapore,2010,4,5,PF
+Singapore,2011,4,4,PF
+Singapore,2012,4,4,PF
+Singapore,2013,4,4,PF
+Singapore,2014,4,4,PF
+Singapore,2015,4,4,PF
+Singapore,2016,4,4,PF
+Singapore,2017,4,4,PF
+Singapore,2018,4,4,PF
+Singapore,2019,4,4,PF
+Singapore,2020,4,4,PF
+Slovakia,1995,3,2,F
+Slovakia,1996,4,2,PF
+Slovakia,1997,4,2,PF
+Slovakia,1998,2,2,F
+Slovakia,1999,2,1,F
+Slovakia,2000,2,1,F
+Slovakia,2001,2,1,F
+Slovakia,2002,2,1,F
+Slovakia,2003,2,1,F
+Slovakia,2004,1,1,F
+Slovakia,2005,1,1,F
+Slovakia,2006,1,1,F
+Slovakia,2007,1,1,F
+Slovakia,2008,1,1,F
+Slovakia,2009,1,1,F
+Slovakia,2010,1,1,F
+Slovakia,2011,1,1,F
+Slovakia,2012,1,1,F
+Slovakia,2013,1,1,F
+Slovakia,2014,1,1,F
+Slovakia,2015,1,1,F
+Slovakia,2016,1,1,F
+Slovakia,2017,1,1,F
+Slovakia,2018,2,1,F
+Slovakia,2019,2,1,F
+Slovakia,2020,1,1,F
+Slovenia,1995,2,1,F
+Slovenia,1996,2,1,F
+Slovenia,1997,2,1,F
+Slovenia,1998,2,1,F
+Slovenia,1999,2,1,F
+Slovenia,2000,2,1,F
+Slovenia,2001,2,1,F
+Slovenia,2002,1,1,F
+Slovenia,2003,1,1,F
+Slovenia,2004,1,1,F
+Slovenia,2005,1,1,F
+Slovenia,2006,1,1,F
+Slovenia,2007,1,1,F
+Slovenia,2008,1,1,F
+Slovenia,2009,1,1,F
+Slovenia,2010,1,1,F
+Slovenia,2011,1,1,F
+Slovenia,2012,1,1,F
+Slovenia,2013,1,1,F
+Slovenia,2014,1,1,F
+Slovenia,2015,1,1,F
+Slovenia,2016,1,1,F
+Slovenia,2017,1,1,F
+Slovenia,2018,1,1,F
+Slovenia,2019,1,1,F
+Slovenia,2020,1,1,F
+Solomon Islands,1995,2,1,F
+Solomon Islands,1996,2,1,F
+Solomon Islands,1997,2,1,F
+Solomon Islands,1998,2,1,F
+Solomon Islands,1999,2,1,F
+Solomon Islands,2000,4,4,PF
+Solomon Islands,2001,4,4,PF
+Solomon Islands,2002,3,3,PF
+Solomon Islands,2003,3,3,PF
+Solomon Islands,2004,3,3,PF
+Solomon Islands,2005,3,3,PF
+Solomon Islands,2006,3,4,PF
+Solomon Islands,2007,3,4,PF
+Solomon Islands,2008,3,4,PF
+Solomon Islands,2009,3,4,PF
+Solomon Islands,2010,3,4,PF
+Solomon Islands,2011,3,4,PF
+Solomon Islands,2012,3,4,PF
+Solomon Islands,2013,3,4,PF
+Solomon Islands,2014,3,3,PF
+Solomon Islands,2015,3,3,PF
+Solomon Islands,2016,2,3,F
+Solomon Islands,2017,2,3,F
+Solomon Islands,2018,2,2,F
+Solomon Islands,2019,2,2,F
+Solomon Islands,2020,2,2,F
+Somalia,1995,7,7,NF
+Somalia,1996,7,7,NF
+Somalia,1997,7,7,NF
+Somalia,1998,7,7,NF
+Somalia,1999,7,7,NF
+Somalia,2000,7,6,NF
+Somalia,2001,7,6,NF
+Somalia,2002,7,6,NF
+Somalia,2003,7,6,NF
+Somalia,2004,7,6,NF
+Somalia,2005,7,6,NF
+Somalia,2006,7,7,NF
+Somalia,2007,7,7,NF
+Somalia,2008,7,7,NF
+Somalia,2009,7,7,NF
+Somalia,2010,7,7,NF
+Somalia,2011,7,7,NF
+Somalia,2012,7,7,NF
+Somalia,2013,7,7,NF
+Somalia,2014,7,7,NF
+Somalia,2015,7,7,NF
+Somalia,2016,7,7,NF
+Somalia,2017,7,7,NF
+Somalia,2018,7,7,NF
+Somalia,2019,7,7,NF
+Somalia,2020,7,7,NF
+South Africa,1995,2,1,F
+South Africa,1996,2,1,F
+South Africa,1997,2,1,F
+South Africa,1998,2,1,F
+South Africa,1999,2,1,F
+South Africa,2000,2,1,F
+South Africa,2001,2,1,F
+South Africa,2002,2,1,F
+South Africa,2003,2,1,F
+South Africa,2004,2,1,F
+South Africa,2005,2,1,F
+South Africa,2006,2,2,F
+South Africa,2007,2,2,F
+South Africa,2008,2,2,F
+South Africa,2009,2,2,F
+South Africa,2010,2,2,F
+South Africa,2011,2,2,F
+South Africa,2012,2,2,F
+South Africa,2013,2,2,F
+South Africa,2014,2,2,F
+South Africa,2015,2,2,F
+South Africa,2016,2,2,F
+South Africa,2017,2,2,F
+South Africa,2018,2,2,F
+South Africa,2019,2,2,F
+South Africa,2020,2,2,F
+South Korea,1995,2,2,F
+South Korea,1996,2,2,F
+South Korea,1997,2,2,F
+South Korea,1998,2,2,F
+South Korea,1999,2,2,F
+South Korea,2000,2,2,F
+South Korea,2001,2,2,F
+South Korea,2002,2,2,F
+South Korea,2003,2,2,F
+South Korea,2004,2,1,F
+South Korea,2005,2,1,F
+South Korea,2006,2,1,F
+South Korea,2007,2,1,F
+South Korea,2008,2,1,F
+South Korea,2009,2,1,F
+South Korea,2010,2,1,F
+South Korea,2011,2,1,F
+South Korea,2012,2,1,F
+South Korea,2013,2,2,F
+South Korea,2014,2,2,F
+South Korea,2015,2,2,F
+South Korea,2016,2,2,F
+South Korea,2017,2,2,F
+South Korea,2018,2,2,F
+South Korea,2019,2,2,F
+South Korea,2020,2,2,F
+South Sudan,1995,NA,NA,NA
+South Sudan,1996,NA,NA,NA
+South Sudan,1997,NA,NA,NA
+South Sudan,1998,NA,NA,NA
+South Sudan,1999,NA,NA,NA
+South Sudan,2000,NA,NA,NA
+South Sudan,2001,NA,NA,NA
+South Sudan,2002,NA,NA,NA
+South Sudan,2003,NA,NA,NA
+South Sudan,2004,NA,NA,NA
+South Sudan,2005,NA,NA,NA
+South Sudan,2006,NA,NA,NA
+South Sudan,2007,NA,NA,NA
+South Sudan,2008,NA,NA,NA
+South Sudan,2009,NA,NA,NA
+South Sudan,2010,NA,NA,NA
+South Sudan,2011,5,6,NF
+South Sudan,2012,5,6,NF
+South Sudan,2013,6,6,NF
+South Sudan,2014,6,7,NF
+South Sudan,2015,6,7,NF
+South Sudan,2016,7,7,NF
+South Sudan,2017,7,7,NF
+South Sudan,2018,7,7,NF
+South Sudan,2019,7,7,NF
+South Sudan,2020,7,7,NF
+Spain,1995,2,1,F
+Spain,1996,2,1,F
+Spain,1997,2,1,F
+Spain,1998,2,1,F
+Spain,1999,2,1,F
+Spain,2000,2,1,F
+Spain,2001,2,1,F
+Spain,2002,1,1,F
+Spain,2003,1,1,F
+Spain,2004,1,1,F
+Spain,2005,1,1,F
+Spain,2006,1,1,F
+Spain,2007,1,1,F
+Spain,2008,1,1,F
+Spain,2009,1,1,F
+Spain,2010,1,1,F
+Spain,2011,1,1,F
+Spain,2012,1,1,F
+Spain,2013,1,1,F
+Spain,2014,1,1,F
+Spain,2015,1,1,F
+Spain,2016,1,1,F
+Spain,2017,1,1,F
+Spain,2018,1,1,F
+Spain,2019,1,1,F
+Spain,2020,1,1,F
+Sri Lanka,1995,5,4,PF
+Sri Lanka,1996,5,3,PF
+Sri Lanka,1997,4,3,PF
+Sri Lanka,1998,4,3,PF
+Sri Lanka,1999,4,3,PF
+Sri Lanka,2000,4,3,PF
+Sri Lanka,2001,4,3,PF
+Sri Lanka,2002,4,3,PF
+Sri Lanka,2003,3,3,PF
+Sri Lanka,2004,3,3,PF
+Sri Lanka,2005,3,3,PF
+Sri Lanka,2006,4,4,PF
+Sri Lanka,2007,4,4,PF
+Sri Lanka,2008,4,4,PF
+Sri Lanka,2009,4,4,PF
+Sri Lanka,2010,4,5,PF
+Sri Lanka,2011,4,5,PF
+Sri Lanka,2012,4,5,PF
+Sri Lanka,2013,4,5,PF
+Sri Lanka,2014,5,5,PF
+Sri Lanka,2015,4,4,PF
+Sri Lanka,2016,4,3,PF
+Sri Lanka,2017,4,3,PF
+Sri Lanka,2018,4,3,PF
+Sri Lanka,2019,4,4,PF
+Sri Lanka,2020,4,4,PF
+St. Kitts and Nevis,1995,2,1,F
+St. Kitts and Nevis,1996,2,1,F
+St. Kitts and Nevis,1997,2,1,F
+St. Kitts and Nevis,1998,2,1,F
+St. Kitts and Nevis,1999,2,1,F
+St. Kitts and Nevis,2000,2,1,F
+St. Kitts and Nevis,2001,2,1,F
+St. Kitts and Nevis,2002,2,1,F
+St. Kitts and Nevis,2003,2,1,F
+St. Kitts and Nevis,2004,2,1,F
+St. Kitts and Nevis,2005,1,1,F
+St. Kitts and Nevis,2006,1,1,F
+St. Kitts and Nevis,2007,1,1,F
+St. Kitts and Nevis,2008,1,1,F
+St. Kitts and Nevis,2009,1,1,F
+St. Kitts and Nevis,2010,1,1,F
+St. Kitts and Nevis,2011,1,1,F
+St. Kitts and Nevis,2012,1,1,F
+St. Kitts and Nevis,2013,1,1,F
+St. Kitts and Nevis,2014,1,1,F
+St. Kitts and Nevis,2015,1,2,F
+St. Kitts and Nevis,2016,1,1,F
+St. Kitts and Nevis,2017,1,1,F
+St. Kitts and Nevis,2018,1,1,F
+St. Kitts and Nevis,2019,1,1,F
+St. Kitts and Nevis,2020,1,2,F
+St. Lucia,1995,2,1,F
+St. Lucia,1996,2,1,F
+St. Lucia,1997,2,1,F
+St. Lucia,1998,2,1,F
+St. Lucia,1999,2,1,F
+St. Lucia,2000,2,1,F
+St. Lucia,2001,2,1,F
+St. Lucia,2002,2,1,F
+St. Lucia,2003,2,1,F
+St. Lucia,2004,2,1,F
+St. Lucia,2005,1,1,F
+St. Lucia,2006,1,1,F
+St. Lucia,2007,1,1,F
+St. Lucia,2008,1,1,F
+St. Lucia,2009,1,1,F
+St. Lucia,2010,1,1,F
+St. Lucia,2011,1,1,F
+St. Lucia,2012,1,1,F
+St. Lucia,2013,1,1,F
+St. Lucia,2014,1,1,F
+St. Lucia,2015,1,1,F
+St. Lucia,2016,1,1,F
+St. Lucia,2017,1,1,F
+St. Lucia,2018,1,1,F
+St. Lucia,2019,1,1,F
+St. Lucia,2020,1,1,F
+St. Vincent and the Grenadines,1995,1,2,F
+St. Vincent and the Grenadines,1996,1,2,F
+St. Vincent and the Grenadines,1997,1,2,F
+St. Vincent and the Grenadines,1998,1,2,F
+St. Vincent and the Grenadines,1999,1,2,F
+St. Vincent and the Grenadines,2000,1,2,F
+St. Vincent and the Grenadines,2001,1,2,F
+St. Vincent and the Grenadines,2002,1,2,F
+St. Vincent and the Grenadines,2003,1,2,F
+St. Vincent and the Grenadines,2004,1,2,F
+St. Vincent and the Grenadines,2005,1,2,F
+St. Vincent and the Grenadines,2006,1,2,F
+St. Vincent and the Grenadines,2007,1,2,F
+St. Vincent and the Grenadines,2008,1,2,F
+St. Vincent and the Grenadines,2009,1,2,F
+St. Vincent and the Grenadines,2010,1,1,F
+St. Vincent and the Grenadines,2011,1,1,F
+St. Vincent and the Grenadines,2012,1,1,F
+St. Vincent and the Grenadines,2013,1,1,F
+St. Vincent and the Grenadines,2014,1,1,F
+St. Vincent and the Grenadines,2015,1,1,F
+St. Vincent and the Grenadines,2016,1,1,F
+St. Vincent and the Grenadines,2017,1,1,F
+St. Vincent and the Grenadines,2018,1,1,F
+St. Vincent and the Grenadines,2019,1,1,F
+St. Vincent and the Grenadines,2020,1,1,F
+Sudan,1995,7,7,NF
+Sudan,1996,7,7,NF
+Sudan,1997,7,7,NF
+Sudan,1998,7,7,NF
+Sudan,1999,7,7,NF
+Sudan,2000,7,7,NF
+Sudan,2001,7,7,NF
+Sudan,2002,7,7,NF
+Sudan,2003,7,7,NF
+Sudan,2004,7,7,NF
+Sudan,2005,7,7,NF
+Sudan,2006,7,7,NF
+Sudan,2007,7,7,NF
+Sudan,2008,7,7,NF
+Sudan,2009,7,7,NF
+Sudan,2010,7,7,NF
+Sudan,2011,7,7,NF
+Sudan,2012,7,7,NF
+Sudan,2013,7,7,NF
+Sudan,2014,7,7,NF
+Sudan,2015,7,7,NF
+Sudan,2016,7,7,NF
+Sudan,2017,7,7,NF
+Sudan,2018,7,7,NF
+Sudan,2019,6,7,NF
+Sudan,2020,6,7,NF
+Suriname,1995,3,3,PF
+Suriname,1996,3,3,PF
+Suriname,1997,3,3,PF
+Suriname,1998,3,3,PF
+Suriname,1999,3,3,PF
+Suriname,2000,2,1,F
+Suriname,2001,2,1,F
+Suriname,2002,2,1,F
+Suriname,2003,2,1,F
+Suriname,2004,2,1,F
+Suriname,2005,2,2,F
+Suriname,2006,2,2,F
+Suriname,2007,2,2,F
+Suriname,2008,2,2,F
+Suriname,2009,2,2,F
+Suriname,2010,2,2,F
+Suriname,2011,2,2,F
+Suriname,2012,2,2,F
+Suriname,2013,2,2,F
+Suriname,2014,2,2,F
+Suriname,2015,3,2,F
+Suriname,2016,3,2,F
+Suriname,2017,2,2,F
+Suriname,2018,3,2,F
+Suriname,2019,3,2,F
+Suriname,2020,2,2,F
+Sweden,1995,1,1,F
+Sweden,1996,1,1,F
+Sweden,1997,1,1,F
+Sweden,1998,1,1,F
+Sweden,1999,1,1,F
+Sweden,2000,1,1,F
+Sweden,2001,1,1,F
+Sweden,2002,1,1,F
+Sweden,2003,1,1,F
+Sweden,2004,1,1,F
+Sweden,2005,1,1,F
+Sweden,2006,1,1,F
+Sweden,2007,1,1,F
+Sweden,2008,1,1,F
+Sweden,2009,1,1,F
+Sweden,2010,1,1,F
+Sweden,2011,1,1,F
+Sweden,2012,1,1,F
+Sweden,2013,1,1,F
+Sweden,2014,1,1,F
+Sweden,2015,1,1,F
+Sweden,2016,1,1,F
+Sweden,2017,1,1,F
+Sweden,2018,1,1,F
+Sweden,2019,1,1,F
+Sweden,2020,1,1,F
+Switzerland,1995,1,1,F
+Switzerland,1996,1,1,F
+Switzerland,1997,1,1,F
+Switzerland,1998,1,1,F
+Switzerland,1999,1,1,F
+Switzerland,2000,1,1,F
+Switzerland,2001,1,1,F
+Switzerland,2002,1,1,F
+Switzerland,2003,1,1,F
+Switzerland,2004,1,1,F
+Switzerland,2005,1,1,F
+Switzerland,2006,1,1,F
+Switzerland,2007,1,1,F
+Switzerland,2008,1,1,F
+Switzerland,2009,1,1,F
+Switzerland,2010,1,1,F
+Switzerland,2011,1,1,F
+Switzerland,2012,1,1,F
+Switzerland,2013,1,1,F
+Switzerland,2014,1,1,F
+Switzerland,2015,1,1,F
+Switzerland,2016,1,1,F
+Switzerland,2017,1,1,F
+Switzerland,2018,1,1,F
+Switzerland,2019,1,1,F
+Switzerland,2020,1,1,F
+Syria,1995,7,7,NF
+Syria,1996,7,7,NF
+Syria,1997,7,7,NF
+Syria,1998,7,7,NF
+Syria,1999,7,7,NF
+Syria,2000,7,7,NF
+Syria,2001,7,7,NF
+Syria,2002,7,7,NF
+Syria,2003,7,7,NF
+Syria,2004,7,7,NF
+Syria,2005,7,7,NF
+Syria,2006,6,7,NF
+Syria,2007,6,7,NF
+Syria,2008,6,7,NF
+Syria,2009,6,7,NF
+Syria,2010,6,7,NF
+Syria,2011,7,7,NF
+Syria,2012,7,7,NF
+Syria,2013,7,7,NF
+Syria,2014,7,7,NF
+Syria,2015,7,7,NF
+Syria,2016,7,7,NF
+Syria,2017,7,7,NF
+Syria,2018,7,7,NF
+Syria,2019,7,7,NF
+Syria,2020,7,7,NF
+Taiwan,1995,3,3,PF
+Taiwan,1996,2,2,F
+Taiwan,1997,2,2,F
+Taiwan,1998,2,2,F
+Taiwan,1999,2,2,F
+Taiwan,2000,2,1,F
+Taiwan,2001,2,1,F
+Taiwan,2002,2,2,F
+Taiwan,2003,2,2,F
+Taiwan,2004,1,2,F
+Taiwan,2005,1,1,F
+Taiwan,2006,1,2,F
+Taiwan,2007,1,2,F
+Taiwan,2008,1,2,F
+Taiwan,2009,2,1,F
+Taiwan,2010,2,1,F
+Taiwan,2011,2,1,F
+Taiwan,2012,2,1,F
+Taiwan,2013,2,1,F
+Taiwan,2014,2,1,F
+Taiwan,2015,2,1,F
+Taiwan,2016,1,1,F
+Taiwan,2017,1,1,F
+Taiwan,2018,1,1,F
+Taiwan,2019,1,1,F
+Taiwan,2020,1,1,F
+Tajikistan,1995,7,7,NF
+Tajikistan,1996,7,7,NF
+Tajikistan,1997,6,6,NF
+Tajikistan,1998,6,6,NF
+Tajikistan,1999,6,6,NF
+Tajikistan,2000,6,6,NF
+Tajikistan,2001,6,6,NF
+Tajikistan,2002,5,6,NF
+Tajikistan,2003,5,6,NF
+Tajikistan,2004,5,6,NF
+Tajikistan,2005,5,6,NF
+Tajikistan,2006,5,6,NF
+Tajikistan,2007,5,6,NF
+Tajikistan,2008,5,6,NF
+Tajikistan,2009,5,6,NF
+Tajikistan,2010,5,6,NF
+Tajikistan,2011,5,6,NF
+Tajikistan,2012,6,6,NF
+Tajikistan,2013,6,6,NF
+Tajikistan,2014,6,6,NF
+Tajikistan,2015,6,7,NF
+Tajikistan,2016,6,7,NF
+Tajikistan,2017,6,7,NF
+Tajikistan,2018,6,7,NF
+Tajikistan,2019,6,7,NF
+Tajikistan,2020,6,7,NF
+Tanzania,1995,5,5,PF
+Tanzania,1996,5,5,PF
+Tanzania,1997,5,5,PF
+Tanzania,1998,4,5,PF
+Tanzania,1999,4,4,PF
+Tanzania,2000,4,4,PF
+Tanzania,2001,4,4,PF
+Tanzania,2002,3,4,PF
+Tanzania,2003,3,4,PF
+Tanzania,2004,3,4,PF
+Tanzania,2005,3,4,PF
+Tanzania,2006,3,4,PF
+Tanzania,2007,3,4,PF
+Tanzania,2008,3,4,PF
+Tanzania,2009,3,4,PF
+Tanzania,2010,3,3,PF
+Tanzania,2011,3,3,PF
+Tanzania,2012,3,3,PF
+Tanzania,2013,3,3,PF
+Tanzania,2014,3,3,PF
+Tanzania,2015,4,3,PF
+Tanzania,2016,4,3,PF
+Tanzania,2017,4,4,PF
+Tanzania,2018,5,4,PF
+Tanzania,2019,5,5,PF
+Tanzania,2020,5,5,PF
+Thailand,1995,4,3,PF
+Thailand,1996,3,3,PF
+Thailand,1997,3,3,PF
+Thailand,1998,3,2,F
+Thailand,1999,3,2,F
+Thailand,2000,3,2,F
+Thailand,2001,3,2,F
+Thailand,2002,3,2,F
+Thailand,2003,3,2,F
+Thailand,2004,3,2,F
+Thailand,2005,3,3,PF
+Thailand,2006,4,7,NF
+Thailand,2007,4,6,PF
+Thailand,2008,4,5,PF
+Thailand,2009,4,5,PF
+Thailand,2010,4,5,PF
+Thailand,2011,4,4,PF
+Thailand,2012,4,4,PF
+Thailand,2013,4,4,PF
+Thailand,2014,5,6,NF
+Thailand,2015,5,6,NF
+Thailand,2016,5,6,NF
+Thailand,2017,5,6,NF
+Thailand,2018,5,7,NF
+Thailand,2019,4,6,PF
+Thailand,2020,5,7,NF
+The Gambia,1995,6,7,NF
+The Gambia,1996,6,7,NF
+The Gambia,1997,6,7,NF
+The Gambia,1998,5,7,NF
+The Gambia,1999,5,7,NF
+The Gambia,2000,5,7,NF
+The Gambia,2001,5,5,PF
+The Gambia,2002,4,4,PF
+The Gambia,2003,4,4,PF
+The Gambia,2004,4,4,PF
+The Gambia,2005,4,5,PF
+The Gambia,2006,4,5,PF
+The Gambia,2007,4,5,PF
+The Gambia,2008,4,5,PF
+The Gambia,2009,5,5,PF
+The Gambia,2010,5,5,PF
+The Gambia,2011,5,6,NF
+The Gambia,2012,6,6,NF
+The Gambia,2013,6,6,NF
+The Gambia,2014,6,6,NF
+The Gambia,2015,6,7,NF
+The Gambia,2016,6,6,NF
+The Gambia,2017,5,4,PF
+The Gambia,2018,5,4,PF
+The Gambia,2019,4,4,PF
+The Gambia,2020,4,4,PF
+Timor-Leste,1995,NA,NA,NA
+Timor-Leste,1996,NA,NA,NA
+Timor-Leste,1997,NA,NA,NA
+Timor-Leste,1998,NA,NA,NA
+Timor-Leste,1999,4,6,PF
+Timor-Leste,2000,3,6,PF
+Timor-Leste,2001,3,5,PF
+Timor-Leste,2002,3,3,PF
+Timor-Leste,2003,3,3,PF
+Timor-Leste,2004,3,3,PF
+Timor-Leste,2005,3,3,PF
+Timor-Leste,2006,4,3,PF
+Timor-Leste,2007,4,3,PF
+Timor-Leste,2008,4,3,PF
+Timor-Leste,2009,4,3,PF
+Timor-Leste,2010,4,3,PF
+Timor-Leste,2011,4,3,PF
+Timor-Leste,2012,4,3,PF
+Timor-Leste,2013,4,3,PF
+Timor-Leste,2014,3,3,PF
+Timor-Leste,2015,3,3,PF
+Timor-Leste,2016,3,3,PF
+Timor-Leste,2017,3,2,F
+Timor-Leste,2018,3,2,F
+Timor-Leste,2019,3,2,F
+Timor-Leste,2020,3,2,F
+Togo,1995,5,6,NF
+Togo,1996,5,6,NF
+Togo,1997,5,6,NF
+Togo,1998,5,6,NF
+Togo,1999,5,5,PF
+Togo,2000,5,5,PF
+Togo,2001,5,5,PF
+Togo,2002,5,6,NF
+Togo,2003,5,6,NF
+Togo,2004,5,6,NF
+Togo,2005,5,6,NF
+Togo,2006,5,6,NF
+Togo,2007,5,5,PF
+Togo,2008,5,5,PF
+Togo,2009,4,5,PF
+Togo,2010,4,5,PF
+Togo,2011,4,5,PF
+Togo,2012,4,5,PF
+Togo,2013,4,4,PF
+Togo,2014,4,4,PF
+Togo,2015,4,4,PF
+Togo,2016,4,4,PF
+Togo,2017,4,4,PF
+Togo,2018,4,5,PF
+Togo,2019,4,5,PF
+Togo,2020,4,5,PF
+Tonga,1995,3,5,PF
+Tonga,1996,3,5,PF
+Tonga,1997,3,5,PF
+Tonga,1998,3,5,PF
+Tonga,1999,3,5,PF
+Tonga,2000,3,5,PF
+Tonga,2001,3,5,PF
+Tonga,2002,3,5,PF
+Tonga,2003,3,5,PF
+Tonga,2004,3,5,PF
+Tonga,2005,3,5,PF
+Tonga,2006,3,5,PF
+Tonga,2007,3,5,PF
+Tonga,2008,3,5,PF
+Tonga,2009,3,5,PF
+Tonga,2010,3,3,PF
+Tonga,2011,3,3,PF
+Tonga,2012,2,3,F
+Tonga,2013,2,2,F
+Tonga,2014,2,2,F
+Tonga,2015,2,2,F
+Tonga,2016,2,2,F
+Tonga,2017,2,2,F
+Tonga,2018,2,2,F
+Tonga,2019,2,2,F
+Tonga,2020,2,2,F
+Trinidad and Tobago,1995,2,1,F
+Trinidad and Tobago,1996,2,1,F
+Trinidad and Tobago,1997,2,1,F
+Trinidad and Tobago,1998,2,1,F
+Trinidad and Tobago,1999,2,1,F
+Trinidad and Tobago,2000,2,2,F
+Trinidad and Tobago,2001,3,3,PF
+Trinidad and Tobago,2002,3,3,PF
+Trinidad and Tobago,2003,3,3,PF
+Trinidad and Tobago,2004,3,3,PF
+Trinidad and Tobago,2005,2,3,F
+Trinidad and Tobago,2006,2,2,F
+Trinidad and Tobago,2007,2,2,F
+Trinidad and Tobago,2008,2,2,F
+Trinidad and Tobago,2009,2,2,F
+Trinidad and Tobago,2010,2,2,F
+Trinidad and Tobago,2011,2,2,F
+Trinidad and Tobago,2012,2,2,F
+Trinidad and Tobago,2013,2,2,F
+Trinidad and Tobago,2014,2,2,F
+Trinidad and Tobago,2015,2,2,F
+Trinidad and Tobago,2016,2,2,F
+Trinidad and Tobago,2017,2,2,F
+Trinidad and Tobago,2018,2,2,F
+Trinidad and Tobago,2019,2,2,F
+Trinidad and Tobago,2020,2,2,F
+Tunisia,1995,5,6,NF
+Tunisia,1996,5,6,NF
+Tunisia,1997,5,6,PF
+Tunisia,1998,5,6,NF
+Tunisia,1999,5,6,NF
+Tunisia,2000,5,6,NF
+Tunisia,2001,5,6,NF
+Tunisia,2002,5,6,NF
+Tunisia,2003,5,6,NF
+Tunisia,2004,5,6,NF
+Tunisia,2005,5,6,NF
+Tunisia,2006,5,6,NF
+Tunisia,2007,5,7,NF
+Tunisia,2008,5,7,NF
+Tunisia,2009,5,7,NF
+Tunisia,2010,5,7,NF
+Tunisia,2011,4,3,PF
+Tunisia,2012,4,3,PF
+Tunisia,2013,3,3,PF
+Tunisia,2014,3,1,F
+Tunisia,2015,3,1,F
+Tunisia,2016,3,1,F
+Tunisia,2017,3,2,F
+Tunisia,2018,3,2,F
+Tunisia,2019,3,2,F
+Tunisia,2020,3,2,F
+Turkey,1995,5,5,PF
+Turkey,1996,5,4,PF
+Turkey,1997,5,4,PF
+Turkey,1998,5,4,PF
+Turkey,1999,5,4,PF
+Turkey,2000,5,4,PF
+Turkey,2001,5,4,PF
+Turkey,2002,4,3,PF
+Turkey,2003,4,3,PF
+Turkey,2004,3,3,PF
+Turkey,2005,3,3,PF
+Turkey,2006,3,3,PF
+Turkey,2007,3,3,PF
+Turkey,2008,3,3,PF
+Turkey,2009,3,3,PF
+Turkey,2010,3,3,PF
+Turkey,2011,3,3,PF
+Turkey,2012,4,3,PF
+Turkey,2013,4,3,PF
+Turkey,2014,4,3,PF
+Turkey,2015,4,3,PF
+Turkey,2016,5,4,PF
+Turkey,2017,6,5,NF
+Turkey,2018,6,5,NF
+Turkey,2019,6,5,NF
+Turkey,2020,6,5,NF
+Turkmenistan,1995,7,7,NF
+Turkmenistan,1996,7,7,NF
+Turkmenistan,1997,7,7,NF
+Turkmenistan,1998,7,7,NF
+Turkmenistan,1999,7,7,NF
+Turkmenistan,2000,7,7,NF
+Turkmenistan,2001,7,7,NF
+Turkmenistan,2002,7,7,NF
+Turkmenistan,2003,7,7,NF
+Turkmenistan,2004,7,7,NF
+Turkmenistan,2005,7,7,NF
+Turkmenistan,2006,7,7,NF
+Turkmenistan,2007,7,7,NF
+Turkmenistan,2008,7,7,NF
+Turkmenistan,2009,7,7,NF
+Turkmenistan,2010,7,7,NF
+Turkmenistan,2011,7,7,NF
+Turkmenistan,2012,7,7,NF
+Turkmenistan,2013,7,7,NF
+Turkmenistan,2014,7,7,NF
+Turkmenistan,2015,7,7,NF
+Turkmenistan,2016,7,7,NF
+Turkmenistan,2017,7,7,NF
+Turkmenistan,2018,7,7,NF
+Turkmenistan,2019,7,7,NF
+Turkmenistan,2020,7,7,NF
+Tuvalu,1995,1,1,F
+Tuvalu,1996,1,1,F
+Tuvalu,1997,1,1,F
+Tuvalu,1998,1,1,F
+Tuvalu,1999,1,1,F
+Tuvalu,2000,1,1,F
+Tuvalu,2001,1,1,F
+Tuvalu,2002,1,1,F
+Tuvalu,2003,1,1,F
+Tuvalu,2004,1,1,F
+Tuvalu,2005,1,1,F
+Tuvalu,2006,1,1,F
+Tuvalu,2007,1,1,F
+Tuvalu,2008,1,1,F
+Tuvalu,2009,1,1,F
+Tuvalu,2010,1,1,F
+Tuvalu,2011,1,1,F
+Tuvalu,2012,1,1,F
+Tuvalu,2013,1,1,F
+Tuvalu,2014,1,1,F
+Tuvalu,2015,1,1,F
+Tuvalu,2016,1,1,F
+Tuvalu,2017,1,1,F
+Tuvalu,2018,1,1,F
+Tuvalu,2019,1,1,F
+Tuvalu,2020,1,1,F
+Uganda,1995,4,5,PF
+Uganda,1996,4,4,PF
+Uganda,1997,4,4,PF
+Uganda,1998,4,4,PF
+Uganda,1999,5,5,PF
+Uganda,2000,5,6,PF
+Uganda,2001,5,6,PF
+Uganda,2002,4,6,PF
+Uganda,2003,4,5,PF
+Uganda,2004,4,5,PF
+Uganda,2005,4,5,PF
+Uganda,2006,4,5,PF
+Uganda,2007,4,5,PF
+Uganda,2008,4,5,PF
+Uganda,2009,4,5,PF
+Uganda,2010,4,5,PF
+Uganda,2011,4,5,PF
+Uganda,2012,4,5,PF
+Uganda,2013,4,6,PF
+Uganda,2014,5,6,NF
+Uganda,2015,5,6,NF
+Uganda,2016,5,6,NF
+Uganda,2017,4,6,PF
+Uganda,2018,5,6,NF
+Uganda,2019,5,6,NF
+Uganda,2020,5,6,NF
+Ukraine,1995,4,3,PF
+Ukraine,1996,4,3,PF
+Ukraine,1997,4,3,PF
+Ukraine,1998,4,3,PF
+Ukraine,1999,4,3,PF
+Ukraine,2000,4,4,PF
+Ukraine,2001,4,4,PF
+Ukraine,2002,4,4,PF
+Ukraine,2003,4,4,PF
+Ukraine,2004,3,4,PF
+Ukraine,2005,2,3,F
+Ukraine,2006,2,3,F
+Ukraine,2007,2,3,F
+Ukraine,2008,2,3,F
+Ukraine,2009,2,3,F
+Ukraine,2010,3,3,PF
+Ukraine,2011,3,4,PF
+Ukraine,2012,3,4,PF
+Ukraine,2013,3,4,PF
+Ukraine,2014,3,3,PF
+Ukraine,2015,3,3,PF
+Ukraine,2016,3,3,PF
+Ukraine,2017,3,3,PF
+Ukraine,2018,4,3,PF
+Ukraine,2019,3,3,PF
+Ukraine,2020,4,3,PF
+United Arab Emirates,1995,5,6,NF
+United Arab Emirates,1996,5,6,NF
+United Arab Emirates,1997,5,6,NF
+United Arab Emirates,1998,5,6,NF
+United Arab Emirates,1999,5,6,NF
+United Arab Emirates,2000,5,6,NF
+United Arab Emirates,2001,5,6,NF
+United Arab Emirates,2002,5,6,NF
+United Arab Emirates,2003,6,6,NF
+United Arab Emirates,2004,6,6,NF
+United Arab Emirates,2005,6,6,NF
+United Arab Emirates,2006,5,6,NF
+United Arab Emirates,2007,5,6,NF
+United Arab Emirates,2008,5,6,NF
+United Arab Emirates,2009,5,6,NF
+United Arab Emirates,2010,5,6,NF
+United Arab Emirates,2011,6,6,NF
+United Arab Emirates,2012,6,6,NF
+United Arab Emirates,2013,6,6,NF
+United Arab Emirates,2014,6,6,NF
+United Arab Emirates,2015,6,6,NF
+United Arab Emirates,2016,6,6,NF
+United Arab Emirates,2017,6,7,NF
+United Arab Emirates,2018,6,7,NF
+United Arab Emirates,2019,6,7,NF
+United Arab Emirates,2020,6,7,NF
+United Kingdom,1995,2,1,F
+United Kingdom,1996,2,1,F
+United Kingdom,1997,2,1,F
+United Kingdom,1998,2,1,F
+United Kingdom,1999,2,1,F
+United Kingdom,2000,2,1,F
+United Kingdom,2001,2,1,F
+United Kingdom,2002,1,1,F
+United Kingdom,2003,1,1,F
+United Kingdom,2004,1,1,F
+United Kingdom,2005,1,1,F
+United Kingdom,2006,1,1,F
+United Kingdom,2007,1,1,F
+United Kingdom,2008,1,1,F
+United Kingdom,2009,1,1,F
+United Kingdom,2010,1,1,F
+United Kingdom,2011,1,1,F
+United Kingdom,2012,1,1,F
+United Kingdom,2013,1,1,F
+United Kingdom,2014,1,1,F
+United Kingdom,2015,1,1,F
+United Kingdom,2016,1,1,F
+United Kingdom,2017,1,1,F
+United Kingdom,2018,1,1,F
+United Kingdom,2019,1,1,F
+United Kingdom,2020,1,1,F
+United States,1995,1,1,F
+United States,1996,1,1,F
+United States,1997,1,1,F
+United States,1998,1,1,F
+United States,1999,1,1,F
+United States,2000,1,1,F
+United States,2001,1,1,F
+United States,2002,1,1,F
+United States,2003,1,1,F
+United States,2004,1,1,F
+United States,2005,1,1,F
+United States,2006,1,1,F
+United States,2007,1,1,F
+United States,2008,1,1,F
+United States,2009,1,1,F
+United States,2010,1,1,F
+United States,2011,1,1,F
+United States,2012,1,1,F
+United States,2013,1,1,F
+United States,2014,1,1,F
+United States,2015,1,1,F
+United States,2016,1,1,F
+United States,2017,1,2,F
+United States,2018,1,2,F
+United States,2019,1,2,F
+United States,2020,2,2,F
+Uruguay,1995,2,2,F
+Uruguay,1996,2,1,F
+Uruguay,1997,2,1,F
+Uruguay,1998,2,1,F
+Uruguay,1999,2,1,F
+Uruguay,2000,1,1,F
+Uruguay,2001,1,1,F
+Uruguay,2002,1,1,F
+Uruguay,2003,1,1,F
+Uruguay,2004,1,1,F
+Uruguay,2005,1,1,F
+Uruguay,2006,1,1,F
+Uruguay,2007,1,1,F
+Uruguay,2008,1,1,F
+Uruguay,2009,1,1,F
+Uruguay,2010,1,1,F
+Uruguay,2011,1,1,F
+Uruguay,2012,1,1,F
+Uruguay,2013,1,1,F
+Uruguay,2014,1,1,F
+Uruguay,2015,1,1,F
+Uruguay,2016,1,1,F
+Uruguay,2017,1,1,F
+Uruguay,2018,1,1,F
+Uruguay,2019,1,1,F
+Uruguay,2020,1,1,F
+USSR,1995,NA,NA,NA
+USSR,1996,NA,NA,NA
+USSR,1997,NA,NA,NA
+USSR,1998,NA,NA,NA
+USSR,1999,NA,NA,NA
+USSR,2000,NA,NA,NA
+USSR,2001,NA,NA,NA
+USSR,2002,NA,NA,NA
+USSR,2003,NA,NA,NA
+USSR,2004,NA,NA,NA
+USSR,2005,NA,NA,NA
+USSR,2006,NA,NA,NA
+USSR,2007,NA,NA,NA
+USSR,2008,NA,NA,NA
+USSR,2009,NA,NA,NA
+USSR,2010,NA,NA,NA
+USSR,2011,NA,NA,NA
+USSR,2012,NA,NA,NA
+USSR,2013,NA,NA,NA
+USSR,2014,NA,NA,NA
+USSR,2015,NA,NA,NA
+USSR,2016,NA,NA,NA
+USSR,2017,NA,NA,NA
+USSR,2018,NA,NA,NA
+USSR,2019,NA,NA,NA
+USSR,2020,NA,NA,NA
+Uzbekistan,1995,7,7,NF
+Uzbekistan,1996,6,7,NF
+Uzbekistan,1997,6,7,NF
+Uzbekistan,1998,6,7,NF
+Uzbekistan,1999,6,7,NF
+Uzbekistan,2000,6,7,NF
+Uzbekistan,2001,6,7,NF
+Uzbekistan,2002,6,7,NF
+Uzbekistan,2003,6,7,NF
+Uzbekistan,2004,6,7,NF
+Uzbekistan,2005,7,7,NF
+Uzbekistan,2006,7,7,NF
+Uzbekistan,2007,7,7,NF
+Uzbekistan,2008,7,7,NF
+Uzbekistan,2009,7,7,NF
+Uzbekistan,2010,7,7,NF
+Uzbekistan,2011,7,7,NF
+Uzbekistan,2012,7,7,NF
+Uzbekistan,2013,7,7,NF
+Uzbekistan,2014,7,7,NF
+Uzbekistan,2015,7,7,NF
+Uzbekistan,2016,7,7,NF
+Uzbekistan,2017,7,7,NF
+Uzbekistan,2018,6,7,NF
+Uzbekistan,2019,6,7,NF
+Uzbekistan,2020,6,7,NF
+Vanuatu,1995,3,1,F
+Vanuatu,1996,3,1,F
+Vanuatu,1997,3,1,F
+Vanuatu,1998,3,1,F
+Vanuatu,1999,3,1,F
+Vanuatu,2000,3,1,F
+Vanuatu,2001,3,1,F
+Vanuatu,2002,2,1,F
+Vanuatu,2003,2,2,F
+Vanuatu,2004,2,2,F
+Vanuatu,2005,2,2,F
+Vanuatu,2006,2,2,F
+Vanuatu,2007,2,2,F
+Vanuatu,2008,2,2,F
+Vanuatu,2009,2,2,F
+Vanuatu,2010,2,2,F
+Vanuatu,2011,2,2,F
+Vanuatu,2012,2,2,F
+Vanuatu,2013,2,2,F
+Vanuatu,2014,2,2,F
+Vanuatu,2015,2,2,F
+Vanuatu,2016,2,2,F
+Vanuatu,2017,2,2,F
+Vanuatu,2018,2,2,F
+Vanuatu,2019,2,2,F
+Vanuatu,2020,2,2,F
+Venezuela,1995,3,3,PF
+Venezuela,1996,3,2,F
+Venezuela,1997,3,2,F
+Venezuela,1998,3,2,F
+Venezuela,1999,4,4,PF
+Venezuela,2000,5,3,PF
+Venezuela,2001,5,3,PF
+Venezuela,2002,4,3,PF
+Venezuela,2003,4,3,PF
+Venezuela,2004,4,3,PF
+Venezuela,2005,4,4,PF
+Venezuela,2006,4,4,PF
+Venezuela,2007,4,4,PF
+Venezuela,2008,4,4,PF
+Venezuela,2009,4,5,PF
+Venezuela,2010,5,5,PF
+Venezuela,2011,5,5,PF
+Venezuela,2012,5,5,PF
+Venezuela,2013,5,5,PF
+Venezuela,2014,5,5,PF
+Venezuela,2015,5,5,PF
+Venezuela,2016,5,6,NF
+Venezuela,2017,5,6,NF
+Venezuela,2018,6,7,NF
+Venezuela,2019,6,7,NF
+Venezuela,2020,6,7,NF
+Vietnam,1995,7,7,NF
+Vietnam,1996,7,7,NF
+Vietnam,1997,7,7,NF
+Vietnam,1998,7,7,NF
+Vietnam,1999,7,7,NF
+Vietnam,2000,6,7,NF
+Vietnam,2001,6,7,NF
+Vietnam,2002,6,7,NF
+Vietnam,2003,6,7,NF
+Vietnam,2004,6,7,NF
+Vietnam,2005,5,7,NF
+Vietnam,2006,5,7,NF
+Vietnam,2007,5,7,NF
+Vietnam,2008,5,7,NF
+Vietnam,2009,5,7,NF
+Vietnam,2010,5,7,NF
+Vietnam,2011,5,7,NF
+Vietnam,2012,5,7,NF
+Vietnam,2013,5,7,NF
+Vietnam,2014,5,7,NF
+Vietnam,2015,5,7,NF
+Vietnam,2016,5,7,NF
+Vietnam,2017,5,7,NF
+Vietnam,2018,5,7,NF
+Vietnam,2019,5,7,NF
+Vietnam,2020,6,7,NF
+"Vietnam, N.",1995,NA,NA,NA
+"Vietnam, N.",1996,NA,NA,NA
+"Vietnam, N.",1997,NA,NA,NA
+"Vietnam, N.",1998,NA,NA,NA
+"Vietnam, N.",1999,NA,NA,NA
+"Vietnam, N.",2000,NA,NA,NA
+"Vietnam, N.",2001,NA,NA,NA
+"Vietnam, N.",2002,NA,NA,NA
+"Vietnam, N.",2003,NA,NA,NA
+"Vietnam, N.",2004,NA,NA,NA
+"Vietnam, N.",2005,NA,NA,NA
+"Vietnam, N.",2006,NA,NA,NA
+"Vietnam, N.",2007,NA,NA,NA
+"Vietnam, N.",2008,NA,NA,NA
+"Vietnam, N.",2009,NA,NA,NA
+"Vietnam, N.",2010,NA,NA,NA
+"Vietnam, N.",2011,NA,NA,NA
+"Vietnam, N.",2012,NA,NA,NA
+"Vietnam, N.",2013,NA,NA,NA
+"Vietnam, N.",2014,NA,NA,NA
+"Vietnam, N.",2015,NA,NA,NA
+"Vietnam, N.",2016,NA,NA,NA
+"Vietnam, N.",2017,NA,NA,NA
+"Vietnam, N.",2018,NA,NA,NA
+"Vietnam, N.",2019,NA,NA,NA
+"Vietnam, N.",2020,NA,NA,NA
+"Vietnam, S.",1995,NA,NA,NA
+"Vietnam, S.",1996,NA,NA,NA
+"Vietnam, S.",1997,NA,NA,NA
+"Vietnam, S.",1998,NA,NA,NA
+"Vietnam, S.",1999,NA,NA,NA
+"Vietnam, S.",2000,NA,NA,NA
+"Vietnam, S.",2001,NA,NA,NA
+"Vietnam, S.",2002,NA,NA,NA
+"Vietnam, S.",2003,NA,NA,NA
+"Vietnam, S.",2004,NA,NA,NA
+"Vietnam, S.",2005,NA,NA,NA
+"Vietnam, S.",2006,NA,NA,NA
+"Vietnam, S.",2007,NA,NA,NA
+"Vietnam, S.",2008,NA,NA,NA
+"Vietnam, S.",2009,NA,NA,NA
+"Vietnam, S.",2010,NA,NA,NA
+"Vietnam, S.",2011,NA,NA,NA
+"Vietnam, S.",2012,NA,NA,NA
+"Vietnam, S.",2013,NA,NA,NA
+"Vietnam, S.",2014,NA,NA,NA
+"Vietnam, S.",2015,NA,NA,NA
+"Vietnam, S.",2016,NA,NA,NA
+"Vietnam, S.",2017,NA,NA,NA
+"Vietnam, S.",2018,NA,NA,NA
+"Vietnam, S.",2019,NA,NA,NA
+"Vietnam, S.",2020,NA,NA,NA
+Yemen,1995,6,5,NF
+Yemen,1996,6,5,NF
+Yemen,1997,6,5,NF
+Yemen,1998,6,5,NF
+Yemen,1999,6,5,NF
+Yemen,2000,6,5,NF
+Yemen,2001,6,6,NF
+Yemen,2002,5,6,NF
+Yemen,2003,5,5,PF
+Yemen,2004,5,5,PF
+Yemen,2005,5,5,PF
+Yemen,2006,5,5,PF
+Yemen,2007,5,5,PF
+Yemen,2008,5,5,PF
+Yemen,2009,5,6,NF
+Yemen,2010,5,6,NF
+Yemen,2011,6,6,NF
+Yemen,2012,6,6,NF
+Yemen,2013,6,6,NF
+Yemen,2014,6,6,NF
+Yemen,2015,6,7,NF
+Yemen,2016,6,7,NF
+Yemen,2017,6,7,NF
+Yemen,2018,6,7,NF
+Yemen,2019,6,7,NF
+Yemen,2020,6,7,NF
+"Yemen, N.",1995,NA,NA,NA
+"Yemen, N.",1996,NA,NA,NA
+"Yemen, N.",1997,NA,NA,NA
+"Yemen, N.",1998,NA,NA,NA
+"Yemen, N.",1999,NA,NA,NA
+"Yemen, N.",2000,NA,NA,NA
+"Yemen, N.",2001,NA,NA,NA
+"Yemen, N.",2002,NA,NA,NA
+"Yemen, N.",2003,NA,NA,NA
+"Yemen, N.",2004,NA,NA,NA
+"Yemen, N.",2005,NA,NA,NA
+"Yemen, N.",2006,NA,NA,NA
+"Yemen, N.",2007,NA,NA,NA
+"Yemen, N.",2008,NA,NA,NA
+"Yemen, N.",2009,NA,NA,NA
+"Yemen, N.",2010,NA,NA,NA
+"Yemen, N.",2011,NA,NA,NA
+"Yemen, N.",2012,NA,NA,NA
+"Yemen, N.",2013,NA,NA,NA
+"Yemen, N.",2014,NA,NA,NA
+"Yemen, N.",2015,NA,NA,NA
+"Yemen, N.",2016,NA,NA,NA
+"Yemen, N.",2017,NA,NA,NA
+"Yemen, N.",2018,NA,NA,NA
+"Yemen, N.",2019,NA,NA,NA
+"Yemen, N.",2020,NA,NA,NA
+"Yemen, S.",1995,NA,NA,NA
+"Yemen, S.",1996,NA,NA,NA
+"Yemen, S.",1997,NA,NA,NA
+"Yemen, S.",1998,NA,NA,NA
+"Yemen, S.",1999,NA,NA,NA
+"Yemen, S.",2000,NA,NA,NA
+"Yemen, S.",2001,NA,NA,NA
+"Yemen, S.",2002,NA,NA,NA
+"Yemen, S.",2003,NA,NA,NA
+"Yemen, S.",2004,NA,NA,NA
+"Yemen, S.",2005,NA,NA,NA
+"Yemen, S.",2006,NA,NA,NA
+"Yemen, S.",2007,NA,NA,NA
+"Yemen, S.",2008,NA,NA,NA
+"Yemen, S.",2009,NA,NA,NA
+"Yemen, S.",2010,NA,NA,NA
+"Yemen, S.",2011,NA,NA,NA
+"Yemen, S.",2012,NA,NA,NA
+"Yemen, S.",2013,NA,NA,NA
+"Yemen, S.",2014,NA,NA,NA
+"Yemen, S.",2015,NA,NA,NA
+"Yemen, S.",2016,NA,NA,NA
+"Yemen, S.",2017,NA,NA,NA
+"Yemen, S.",2018,NA,NA,NA
+"Yemen, S.",2019,NA,NA,NA
+"Yemen, S.",2020,NA,NA,NA
+Yugoslavia,1995,6,6,NF
+Yugoslavia,1996,6,6,NF
+Yugoslavia,1997,6,6,NF
+Yugoslavia,1998,6,6,NF
+Yugoslavia,1999,5,5,PF
+Yugoslavia,2000,4,4,PF
+Yugoslavia,2001,3,3,PF
+Yugoslavia,2002,2,3,F
+Yugoslavia,2003,NA,NA,NA
+Yugoslavia,2004,NA,NA,NA
+Yugoslavia,2005,NA,NA,NA
+Yugoslavia,2006,NA,NA,NA
+Yugoslavia,2007,NA,NA,NA
+Yugoslavia,2008,NA,NA,NA
+Yugoslavia,2009,NA,NA,NA
+Yugoslavia,2010,NA,NA,NA
+Yugoslavia,2011,NA,NA,NA
+Yugoslavia,2012,NA,NA,NA
+Yugoslavia,2013,NA,NA,NA
+Yugoslavia,2014,NA,NA,NA
+Yugoslavia,2015,NA,NA,NA
+Yugoslavia,2016,NA,NA,NA
+Yugoslavia,2017,NA,NA,NA
+Yugoslavia,2018,NA,NA,NA
+Yugoslavia,2019,NA,NA,NA
+Yugoslavia,2020,NA,NA,NA
+Zambia,1995,4,3,PF
+Zambia,1996,4,5,PF
+Zambia,1997,4,5,PF
+Zambia,1998,4,5,PF
+Zambia,1999,4,5,PF
+Zambia,2000,4,5,PF
+Zambia,2001,4,5,PF
+Zambia,2002,4,4,PF
+Zambia,2003,4,4,PF
+Zambia,2004,4,4,PF
+Zambia,2005,4,4,PF
+Zambia,2006,4,3,PF
+Zambia,2007,4,3,PF
+Zambia,2008,3,3,PF
+Zambia,2009,4,3,PF
+Zambia,2010,4,3,PF
+Zambia,2011,4,3,PF
+Zambia,2012,4,3,PF
+Zambia,2013,4,3,PF
+Zambia,2014,4,3,PF
+Zambia,2015,4,3,PF
+Zambia,2016,4,4,PF
+Zambia,2017,4,4,PF
+Zambia,2018,4,4,PF
+Zambia,2019,4,4,PF
+Zambia,2020,4,4,PF
+Zimbabwe,1995,5,5,PF
+Zimbabwe,1996,5,5,PF
+Zimbabwe,1997,5,5,PF
+Zimbabwe,1998,5,5,PF
+Zimbabwe,1999,5,6,PF
+Zimbabwe,2000,5,6,PF
+Zimbabwe,2001,6,6,NF
+Zimbabwe,2002,6,6,NF
+Zimbabwe,2003,6,6,NF
+Zimbabwe,2004,6,7,NF
+Zimbabwe,2005,6,7,NF
+Zimbabwe,2006,6,7,NF
+Zimbabwe,2007,6,7,NF
+Zimbabwe,2008,6,7,NF
+Zimbabwe,2009,6,6,NF
+Zimbabwe,2010,6,6,NF
+Zimbabwe,2011,6,6,NF
+Zimbabwe,2012,6,6,NF
+Zimbabwe,2013,6,5,NF
+Zimbabwe,2014,6,5,NF
+Zimbabwe,2015,5,5,PF
+Zimbabwe,2016,5,5,PF
+Zimbabwe,2017,5,6,NF
+Zimbabwe,2018,5,5,PF
+Zimbabwe,2019,5,5,PF
+Zimbabwe,2020,5,6,NF
