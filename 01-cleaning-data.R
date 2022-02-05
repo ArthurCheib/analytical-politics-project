@@ -28,3 +28,17 @@ cleaned_data <- country_ratings %>%
   mutate(x_scale = floor(year/5)*5)
 
 write_csv(x = cleaned_data, file = "data/tidy-data-fh.csv", col_names = TRUE)
+
+## Obtaining UN data
+data <- read.csv("C:/Users/arthu/Downloads/Harris-School-of-PP/Winter quarter (2nd)/ap-psets/un-data.csv")
+
+new_names <- str_replace_all(colnames(data), pattern = "\\.", replacement = "_")
+
+new_names[1] <- "Global_Code"
+new_names[13] <- "Least_Developed_Countries_LDC"
+new_names[14] <- "Land_Locked_Developing_Countries_LLDC"
+new_names[15] <- "Small_Island_Developing_States_SIDS"
+
+data_un <- setNames(object = data, nm = new_names)
+
+write_csv(x = data_un, file = "data/tidy-data-un.csv", col_names = TRUE)
