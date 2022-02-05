@@ -23,7 +23,8 @@ cleaned_data <- country_ratings %>%
   fill(year, type) %>% 
   select(-key) %>%
   spread(type, value) %>% 
-  filter(!is.na(country)) %>% 
+  filter(!is.na(country),
+         !is.na(Status)) %>% 
   mutate(x_scale = floor(year/5)*5)
 
 write_csv(x = cleaned_data, file = "data/tidy-data-fh.csv", col_names = TRUE)
