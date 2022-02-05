@@ -10,3 +10,34 @@ dataset %>%
                                avg >= 5.5 & avg <= 7 & year >= 2003 ~ "NF"),
          check = case_when(my_status != Status ~ 1,
                            TRUE ~ 0)) %>% view
+
+### Countries which first appearance in the INDEX happened after 1995:
+dataset %>% 
+  group_by(country) %>% 
+  slice(1) %>% 
+  filter(year != 1995) %>% 
+  arrange(year)
+
+
+### Useless fct_recode to facilitate the join
+mutate(country = fct_recode(country, "Antigua & Barbuda" = "Antigua and Barbuda",
+                            "Bosnia & Herzegovina" = "Bosnia and Herzegovina",
+                            "Cape Verde" = "Cabo Verde",
+                            "Congo - Brazzaville" = "Congo (Brazzaville)",
+                            "Congo - Kinshasa" = "Congo (Kinshasa)",
+                            "Côte d’Ivoire" = "Cote d'Ivoire",
+                            "Czechia" = "Czech Republic",
+                            "Micronesia (Federated States of)" = "Micronesia",
+                            "Myanmar (Burma)" = "Myanmar",
+                            "São Tomé & Príncipe" = "Sao Tome and Principe",
+                            "Serbia" = "Serbia and Montenegro",
+                            "St. Kitts & Nevis" = "St. Kitts and Nevis",
+                            "St. Vincent & Grenadines" = "St. Vincent and the Grenadines",
+                            "Trinidad & Tobago" = "Trinidad and Tobago",
+                            "Gambia" = "The Gambia"))
+
+## Getting countrycode dataset
+code_reference <- countrycode::codelist %>% 
+  select(country.name.en, un.region.code, un.region.name) %>% 
+  filter(!is.na(un.region.name)) %>% 
+  mutate(un.region.code = as.numeric(un.region.code))
