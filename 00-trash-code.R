@@ -41,3 +41,15 @@ code_reference <- countrycode::codelist %>%
   select(country.name.en, un.region.code, un.region.name) %>% 
   filter(!is.na(un.region.name)) %>% 
   mutate(un.region.code = as.numeric(un.region.code))
+
+## Previous code for question (a) graph
+ggplot(aes(x = year, y = percentage, fill = Status)) +
+  geom_area() +
+  theme_economist() +
+  labs(title = "Freedom in the World Index - 1995 to 2020",
+       subtitle = "What is the percentual evolution of freedom in the World?",
+       y = "Percent (%)",
+       x = "") +
+  theme(legend.position = "bottom",
+        plot.title = element_text( size = 16)) +
+  scale_fill_manual(values = pal)

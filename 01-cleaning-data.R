@@ -86,6 +86,16 @@ names_missing <- dataset %>%
   filter(is.na(Region_Name)) %>%
   pull(country)
 
+
+names_missing[1]
+
+
+
+dataset %>% 
+  left_join(data_un, by = "id-united-nations")
+
+
+
 ## Correcting the names + removing from the data countries that don't appear in both 2005 and 2020 years.
 dataset_fh_un <- dataset %>% 
   mutate(country = fct_recode(country,
@@ -114,8 +124,6 @@ dataset_fh_un <- dataset %>%
                               "Venezuela (Bolivarian Republic of)" = names_missing[25],
                               "Viet Nam" = names_missing[26])) %>% 
   left_join(data_un, by = c("country" = "Country_or_Area")) %>%
-  filter(!is.na(Region_Name),
-         year %in% c(2005, 2020),
-         !country %in% c("Montenegro", "South Sudan"))
+  filter(!is.na(Region_Name))
 
 write_csv(x = dataset_fh_un, file = "data/tidy-data-fh-un.csv", col_names = TRUE)
