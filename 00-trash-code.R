@@ -53,3 +53,10 @@ ggplot(aes(x = year, y = percentage, fill = Status)) +
   theme(legend.position = "bottom",
         plot.title = element_text( size = 16)) +
   scale_fill_manual(values = pal)
+
+## Unces. calc
+dataset_fh_un_grouped %>% 
+  mutate(year = as.numeric(as.character(year))) %>% 
+  filter(year >= 2014 & year <= 2020) %>% 
+  group_by(better_worse) %>% 
+  summarize(avg_change = mean(how_much))

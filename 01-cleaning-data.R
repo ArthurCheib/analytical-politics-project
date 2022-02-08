@@ -1,7 +1,6 @@
 ## Getting packages
-library(tidyverse)
-library(here)
-library(lubridate)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, wesanderson, ggthemes, scales)
 
 ### TASK 1 ###
 
@@ -31,13 +30,14 @@ cleaned_data <- country_ratings %>%
          !is.na(Status)) %>% 
   mutate(x_scale = floor(year/5)*5)
 
+## Saving it as a csv file
 write_csv(x = cleaned_data, file = "data/tidy-data-fh.csv", col_names = TRUE)
 
 # ---------------------------------------------------------------------------------------------------------------
 
 ### TASK 2 ###
 
-### Get the dataset from UN's website + clean it + upload to the cloud (GitHub = online repository for code)
+### Getting the dataset from UN's website + clean it + upload to the cloud (GitHub = online repository for code)
 
 ## Cleaning UN data
 data <- read.csv("C:/Users/arthu/Downloads/Harris-School-of-PP/Winter quarter (2nd)/ap-psets/un-data.csv")
