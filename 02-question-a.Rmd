@@ -1,0 +1,69 @@
+---
+title: "First-analysis-ap-pset"
+author: "Brazil + Peru (team)"
+date: "2/4/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+## Loading the necessary packages and installing them, in case you don't have them at your computer:
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, wesanderson, ggthemes, scales)
+
+```
+
+## Getting the data
+
+The data was cleaned and uploaded to a github repository, where is being downloaded from.
+
+```{r}
+url_file_fh <- "https://raw.githubusercontent.com/ArthurCheib/analytical-politics-project/main/data/tidy-data-fh.csv"
+
+## Getting the data from Freedom House after having cleaned it
+dataset <- read.csv(url_file_fh) %>% 
+  as_tibble()
+
+```
+
+## Question 1
+
+```{r}
+group_colors <- c("F" = "#333BFF", group_colors = "#CC6600", "PF" ="#9633FF")
+
+pal <- wes_palette("Zissou1", type = "discrete")[c(5,3,1)]
+
+## Working in the data
+graph_dataset_a <- dataset %>% 
+  group_by(year, Status) %>%
+  summarize(total_countries = n()) %>%
+  mutate(percentage = round(total_countries / sum(total_countries), digits = 3)) %>% 
+  ungroup() %>% 
+  mutate(Status = factor(case_when(Status == "F" ~ "Free",
+                            Status == "PF" ~ "Partly Free",
+                            Status == "NF" ~ "Not Free"),
+                         levels = c("Not Free", "Partly Free", "Free"))) %>% 
+  filter(year %in% c(seq(from = 1995, to = 2020, by = 5)))
+
+graph_dataset_a %>%
+  ggplot(aes(x = year, y = percentage, fill = Status)) + 
+  geom_bar(stat = "identity",
+           position = "fill") +
+  scale_fill_manual(values = pal) +
+  theme_economist() +
+  scale_y_continuous(breaks = seq(0, 1, .2), 
+                     label = percent) +
+  geom_text(aes(label = str_c(percentage*100, "%")), 
+            size = 3.75, colour = "white", fontface = "bold",
+            position = position_stack(vjust = 0.5)) +
+  labs(y = "", 
+       fill = "Classification",
+       x = "Years",
+       title = "Freedom in the World - 1995 to 2020",
+       subtitle = "Share of countries by freedom status classification") +
+  scale_x_continuous(breaks = c(seq(from = 1995, to = 2020, by = 5)))
+
+  
+```
+
