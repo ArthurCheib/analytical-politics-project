@@ -46,6 +46,7 @@ graph_dataset_a <- dataset %>%
                          levels = c("Not Free", "Partly Free", "Free"))) %>% 
   filter(year %in% c(seq(from = 1995, to = 2020, by = 5)))
 
+## Graphing
 graph_dataset_a %>%
   ggplot(aes(x = year, y = percentage, fill = Status)) + 
   geom_bar(stat = "identity",

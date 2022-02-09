@@ -1,0 +1,87 @@
+---
+title: "03-question-b"
+author: "Brazil + Peru (team)"
+date: "2/5/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+## Loading the necessary packages and installing them, in case you don't have them at your computer:
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, wesanderson, ggthemes, scales)
+
+```
+
+## Bringing the data to RStudio session
+
+Combined dataset: Freedom House + UN
+
+```{r}
+## Getting the data
+url_file_fh_un <- "https://raw.githubusercontent.com/ArthurCheib/analytical-politics-project/main/data/tidy-data-fh-un.csv"
+
+## Calculating and re-scaling + creating dummy variables
+dataset_fh_un <- read.csv(url_file_fh_un) %>% 
+  as_tibble() %>% 
+  mutate(index = rescale(x = (CL+PR)/2, to = c(1,0)),
+         index_lagged = lag(index),
+         improved = case_when(index > index_lagged ~ 1,
+                              TRUE ~ 0),
+         worsened = case_when(index < index_lagged ~ 1,
+                              TRUE ~ 0)) %>% 
+  select(-index_lagged)
+              
+```
+
+## Graph
+
+```{r}
+### Picking a pallete for collor
+pal2 <- wes_palette("Zissou1", type = "discrete")[c(1,5)]
+
+### Summaring the data
+dataset_fh_un_grouped <- dataset_fh_un %>%
+  ungroup() %>% 
+  filter(improved == 1 | worsened == 1) %>%
+  group_by(year) %>% 
+  summarize(avg_improved = round(mean(improved)*100, digits = 1),
+            avg_worsened = round(mean(worsened)*100, digits = 1)) %>% 
+  filter(year != 1995) %>% 
+  mutate(year = factor(year)) %>% 
+  pivot_longer(cols = c(avg_improved, avg_worsened),
+               names_to = "better_worse",
+               values_to = "how_much")
+
+dataset_fh_un_grouped %>% 
+  mutate(how_much = case_when(better_worse == "avg_worsened" ~ how_much,
+                              TRUE ~ -how_much),
+         better_worse = case_when(better_worse == "avg_improved" ~ "Improved",
+                                  TRUE ~ "Worsened")) %>%
+  ggplot(aes(x = year, y = how_much, fill = better_worse)) +
+  geom_col() +
+  geom_label(aes(label = str_c(format(abs(how_much)), "%")), fill = "white") +
+  coord_flip() +
+  scale_y_continuous(limits = c(-80, 80), labels = abs) +
+  theme_economist() +
+  labs(title ="Freedom in the World (FiW) Index",
+       subtitle =  "Share of countries that experienced improvement or worsening in Freedom (among those whose Index had changed)",
+       y = "Variation in percentual points (%)",
+       fill = "Has Freeedom?",
+       x = "",
+       caption = "Analytical Politics - pset #1  |  Data: Freedom House") +
+  theme(legend.position = "bottom",
+        plot.title = element_text( size = 14)) +
+  scale_fill_manual(values = pal2)
+  
+
+# image size: 949 x 614
+  
+```
+
+
+## Analysis
+
+The graph shows the percentual variation of countries that experienced an improvement or worsening of the FiW (Freedom in the World) index relative to its value in the previous year. It's possible to see that from 1996 to 2005, the predominant changes were for the better - for all those countries experiencing any change relative to their FiW index. Oppositely, countries experiencing a worsening in the FiW index were a minority for that period (on average, 65% of the changes represented an increase in the FiW Index, and roughly 35% represented a decrease). A second pattern observed in the graph is that from 2014 onwards, the changes flipped. The share of countries that experienced a worsening in the FiW Index became numerically higher than that of countries that experienced an improvement (on average, 66% of the changes represented a decrease in the FiW Index, and roughly 34% represented an increase - almost the same values we see for the 1995-2005 period but reversed).
+
