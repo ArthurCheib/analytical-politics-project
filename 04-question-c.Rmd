@@ -1,0 +1,74 @@
+---
+title: "04-question-c"
+author: "Brazil + Peru (team)"
+date: "2/5/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+## Loading the necessary packages and installing them, in case you don't have them at your computer:
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, wesanderson, ggthemes, scales)
+
+```
+
+## Getting Freedom House + UN data joined
+
+```{r}
+url_file_fh_un <- "https://raw.githubusercontent.com/ArthurCheib/analytical-politics-project/main/data/tidy-data-fh-un.csv"
+
+## Getting the data from Freedom House after having cleaned it
+dataset_fh_un <- read.csv(url_file_fh_un) %>% 
+  as_tibble() %>%
+  ungroup()
+  
+```
+
+## Building the graph
+
+```{r}
+## Setting the pal collor
+group_colors <- c("F" = "#333BFF", group_colors = "#CC6600", "PF" ="#9633FF")
+
+pal <- wes_palette("Zissou1", type = "discrete")[c(1,3,5)]
+
+## Working the data
+graph_dataset_c <- dataset_fh_un %>% 
+  filter(year %in% c(2005, 2020)) %>% 
+  arrange(Region_Name, Status) %>% 
+  mutate(year = factor(year),
+         Status = factor(Status, levels = c("NF", "PF", "F"))) %>% 
+  group_by(year, Region_Name, Status) %>% 
+  summarize(total_countries = n()) %>% 
+  mutate(percentage = round(total_countries / sum(total_countries), digits = 3),
+         Region_Name = factor(Region_Name, levels = c("Europe", "Oceania", "Americas", "Africa", "Asia")),
+         Status = factor(case_when(Status == "F" ~ "Free",
+                            Status == "PF" ~ "Partially Free",
+                            Status == "NF" ~ "Not Free"),
+                         levels = c("Free", "Partially Free", "Not Free")))
+  
+## Graphing
+graph_dataset_c %>% 
+  ggplot(aes(x = year, y = percentage, fill = Status, group = Region_Name)) + 
+  geom_bar(stat = "identity",
+           position = "fill") +
+  scale_fill_manual(values = pal) +
+  theme_economist() +
+  facet_wrap(~Region_Name) +
+  scale_y_continuous(breaks = seq(0, 1, .2), 
+                     label = percent) +
+  geom_text(aes(label = str_c(percentage*100, "%")), 
+            size = 3.25, colour = "white", fontface = "bold",
+            position = position_stack(vjust = 0.5)) +
+  labs(y = "", 
+       fill = "Classification",
+       x = "",
+       title = "Freedom in the World",
+       subtitle = "Share of countries by freedom status classification",
+       caption = "Analytical Politics - pset #1  |  Data: Freedom House + UN Data")
+
+```
+
+
