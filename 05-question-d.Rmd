@@ -1,0 +1,65 @@
+---
+title: "04-question-d"
+author: "Brazil + Peru (team)"
+date: "2/5/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+## Loading the necessary packages and installing them, in case you don't have them at your computer:
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, wesanderson, ggthemes, scales, ggrepel)
+
+```
+
+## Getting Freedom House + UN data joined
+
+```{r}
+url_file_fh_un <- "https://raw.githubusercontent.com/ArthurCheib/analytical-politics-project/main/data/tidy-data-fh-un.csv"
+
+## Getting the data from Freedom House after having cleaned it
+dataset_fh_un <- read.csv(url_file_fh_un) %>% 
+  as_tibble() %>% 
+  mutate(country_classification = case_when(is_ldc == 1 ~ "Least-developed countries",
+                                            TRUE ~ "Rich countries"),
+         ifw_index = (CL+PR)/2) %>% 
+  ungroup() %>% 
+  group_by(country_classification, year) %>% 
+  summarize(avg_ifw_index = round(mean(ifw_index), digits = 2))
+  
+```
+
+
+### Creating the graph
+
+```{r}
+dataset_fh_un %>%
+  ggplot(aes(x = year, y = avg_ifw_index, colour = country_classification, group = country_classification, label = avg_ifw_index)) +
+  geom_line(size = 2) +
+  geom_point(size = 3.5) +
+  ylim(2,7) +
+  theme_economist() +
+  geom_text_repel(data = dataset_fh_un[dataset_fh_un$year %in% c(seq(from = 1995, to = 2020, by = 2)), ],
+                  hjust = 2,
+                  vjust = 1) +
+  scale_color_manual(name = "Country group",
+                     values = c("#D6604D", "#4393C3")) +
+  labs(title = "Freedom in the World (Fiw) Index",
+       subtitle = "Fiw Average value | closer to 7 = less Freedom",
+       x = "",
+       y = "Average Index (1-7)",
+       caption = "Analytical Politics - pset #1  |  Data: Freedom House + UN Data",
+       fill = "Group of Countries") +
+  theme(legend.position = "bottom",
+        plot.title = element_text(size = 20),
+        plot.subtitle = element_text(size = 16),
+        plot.caption = element_text(size = 12))
+
+
+```
+
+## Analysis
+
+The graph displays the average value of the FiW index in countries classified as LDCs and in all the other countries for all years between 1995 and 2020. We can see that poorer countries constantly averaged less than rich countries from 1995 to 2020 for the FiW Index. We're able to see that both groups of countries remained with similar averages through the years. However, the line displaying the average of rich countries is smoother than the least-developed countries. That might indicate that democracy changed differently in poorer and richer countries. Although from 1995 to 2005, there was a considerable fall in the FiW index among least-developed countries, we can see that from 2010 onwards the numbers seem to go back to similar levels of 1995. Although this trend appears to be the same for rich countries, it seems to happen more smoothly.
