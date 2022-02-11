@@ -1,2 +1,2 @@
-# Analytical Politics Project - How is Freedom in the World doing?
+# Analytical Politics - How is Freedom doing in the World?
 AP Project
