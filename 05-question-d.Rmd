@@ -57,9 +57,4 @@ dataset_fh_un %>%
         plot.subtitle = element_text(size = 16),
         plot.caption = element_text(size = 12))
 
-
 ```
-
-## Analysis
-
-The graph displays the average value of the FiW index in countries classified as LDCs and in all the other countries for all years between 1995 and 2020. We can see that poorer countries constantly averaged less than rich countries from 1995 to 2020 for the FiW Index. We're able to see that both groups of countries remained with similar averages through the years. However, the line displaying the average of rich countries is smoother than the least-developed countries. That might indicate that democracy changed differently in poorer and richer countries. Although from 1995 to 2005, there was a considerable fall in the FiW index among least-developed countries, we can see that from 2010 onwards the numbers seem to go back to similar levels of 1995. Although this trend appears to be the same for rich countries, it seems to happen more smoothly.
